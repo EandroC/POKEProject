@@ -1,0 +1,1220 @@
+NOME,TIPO1,TIPO2,FRAQUEZAS_TIPO1,IMUNIDADES_TIPO1,VANTAGENS_TIPO1,FRAQUEZAS_TIPO2,IMUNIDADES_TIPO2,VANTAGENS_TIPO2
+Bulbasaur,Grass,Poison,"['Fire', 'Ice', 'Poison', 'Flying', 'Bug']",,"['Water', 'Electric', 'Grass', 'Ground']","['Ground', 'Psychic']",,"['Grass', 'Fighting', 'Poison', 'Bug', 'Fairy']"
+Ivysaur,Grass,Poison,"['Fire', 'Ice', 'Poison', 'Flying', 'Bug']",,"['Water', 'Electric', 'Grass', 'Ground']","['Ground', 'Psychic']",,"['Grass', 'Fighting', 'Poison', 'Bug', 'Fairy']"
+Venusaur,Grass,Poison,"['Fire', 'Ice', 'Poison', 'Flying', 'Bug']",,"['Water', 'Electric', 'Grass', 'Ground']","['Ground', 'Psychic']",,"['Grass', 'Fighting', 'Poison', 'Bug', 'Fairy']"
+Venusaur Mega  Venusaur,Grass,Poison,"['Fire', 'Ice', 'Poison', 'Flying', 'Bug']",,"['Water', 'Electric', 'Grass', 'Ground']","['Ground', 'Psychic']",,"['Grass', 'Fighting', 'Poison', 'Bug', 'Fairy']"
+Charmander,Fire,,"['Water', 'Ground', 'Rock']",,"['Fire', 'Grass', 'Ice', 'Bug', 'Steel', 'Fairy']",,,
+Charmeleon,Fire,,"['Water', 'Ground', 'Rock']",,"['Fire', 'Grass', 'Ice', 'Bug', 'Steel', 'Fairy']",,,
+Charizard,Fire,Flying,"['Water', 'Ground', 'Rock']",,"['Fire', 'Grass', 'Ice', 'Bug', 'Steel', 'Fairy']","['Electric', 'Ice', 'Rock']",['Ground'],"['Grass', 'Fighting', 'Bug']"
+Charizard Mega  Charizard  X,Fire,Dragon,"['Water', 'Ground', 'Rock']",,"['Fire', 'Grass', 'Ice', 'Bug', 'Steel', 'Fairy']","['Ice', 'Dragon', 'Fairy']",,"['Fire', 'Water', 'Electric', 'Grass']"
+Charizard Mega  Charizard  Y,Fire,Flying,"['Water', 'Ground', 'Rock']",,"['Fire', 'Grass', 'Ice', 'Bug', 'Steel', 'Fairy']","['Electric', 'Ice', 'Rock']",['Ground'],"['Grass', 'Fighting', 'Bug']"
+Squirtle,Water,,"['Electric', 'Grass']",,"['Fire', 'Water', 'Ice', 'Steel']",,,
+Wartortle,Water,,"['Electric', 'Grass']",,"['Fire', 'Water', 'Ice', 'Steel']",,,
+Blastoise,Water,,"['Electric', 'Grass']",,"['Fire', 'Water', 'Ice', 'Steel']",,,
+Blastoise Mega  Blastoise,Water,,"['Electric', 'Grass']",,"['Fire', 'Water', 'Ice', 'Steel']",,,
+Caterpie,Bug,,"['Fire', 'Flying', 'Rock']",,"['Grass', 'Fighting', 'Ground']",,,
+Metapod,Bug,,"['Fire', 'Flying', 'Rock']",,"['Grass', 'Fighting', 'Ground']",,,
+Butterfree,Bug,Flying,"['Fire', 'Flying', 'Rock']",,"['Grass', 'Fighting', 'Ground']","['Electric', 'Ice', 'Rock']",['Ground'],"['Grass', 'Fighting', 'Bug']"
+Weedle,Bug,Poison,"['Fire', 'Flying', 'Rock']",,"['Grass', 'Fighting', 'Ground']","['Ground', 'Psychic']",,"['Grass', 'Fighting', 'Poison', 'Bug', 'Fairy']"
+Kakuna,Bug,Poison,"['Fire', 'Flying', 'Rock']",,"['Grass', 'Fighting', 'Ground']","['Ground', 'Psychic']",,"['Grass', 'Fighting', 'Poison', 'Bug', 'Fairy']"
+Beedrill,Bug,Poison,"['Fire', 'Flying', 'Rock']",,"['Grass', 'Fighting', 'Ground']","['Ground', 'Psychic']",,"['Grass', 'Fighting', 'Poison', 'Bug', 'Fairy']"
+Beedrill Mega  Beedrill,Bug,Poison,"['Fire', 'Flying', 'Rock']",,"['Grass', 'Fighting', 'Ground']","['Ground', 'Psychic']",,"['Grass', 'Fighting', 'Poison', 'Bug', 'Fairy']"
+Pidgey,Normal,Flying,['Fighting'],['Ghost'],,"['Electric', 'Ice', 'Rock']",['Ground'],"['Grass', 'Fighting', 'Bug']"
+Pidgeotto,Normal,Flying,['Fighting'],['Ghost'],,"['Electric', 'Ice', 'Rock']",['Ground'],"['Grass', 'Fighting', 'Bug']"
+Pidgeot,Normal,Flying,['Fighting'],['Ghost'],,"['Electric', 'Ice', 'Rock']",['Ground'],"['Grass', 'Fighting', 'Bug']"
+Pidgeot Mega  Pidgeot,Normal,Flying,['Fighting'],['Ghost'],,"['Electric', 'Ice', 'Rock']",['Ground'],"['Grass', 'Fighting', 'Bug']"
+Rattata,Normal,,['Fighting'],['Ghost'],,,,
+Rattata Alolan  Rattata,Dark,Normal,"['Fighting', 'Bug', 'Fairy']",['Psychic'],"['Ghost', 'Dark']",['Fighting'],['Ghost'],
+Raticate,Normal,,['Fighting'],['Ghost'],,,,
+Raticate Alolan  Raticate,Dark,Normal,"['Fighting', 'Bug', 'Fairy']",['Psychic'],"['Ghost', 'Dark']",['Fighting'],['Ghost'],
+Spearow,Normal,Flying,['Fighting'],['Ghost'],,"['Electric', 'Ice', 'Rock']",['Ground'],"['Grass', 'Fighting', 'Bug']"
+Fearow,Normal,Flying,['Fighting'],['Ghost'],,"['Electric', 'Ice', 'Rock']",['Ground'],"['Grass', 'Fighting', 'Bug']"
+Ekans,Poison,,"['Ground', 'Psychic']",,"['Grass', 'Fighting', 'Poison', 'Bug', 'Fairy']",,,
+Arbok,Poison,,"['Ground', 'Psychic']",,"['Grass', 'Fighting', 'Poison', 'Bug', 'Fairy']",,,
+Pikachu,Electric,,['Ground'],,"['Electric', 'Flying', 'Steel']",,,
+Pikachu Partner  Pikachu,Electric,,['Ground'],,"['Electric', 'Flying', 'Steel']",,,
+Raichu,Electric,,['Ground'],,"['Electric', 'Flying', 'Steel']",,,
+Raichu Alolan  Raichu,Electric,Psychic,['Ground'],,"['Electric', 'Flying', 'Steel']","['Bug', 'Ghost', 'Dark']",,"['Fighting', 'Psychic']"
+Sandshrew,Ground,,"['Water', 'Grass', 'Ice']",['Electric'],"['Poison', 'Rock']",,,
+Sandshrew Alolan  Sandshrew,Ice,Steel,"['Fire', 'Fighting', 'Rock', 'Steel']",,['Ice'],"['Fire', 'Fighting', 'Ground']",['Poison'],"['Normal', 'Grass', 'Ice', 'Flying', 'Psychic', 'Bug', 'Rock', 'Dragon', 'Steel', 'Fairy']"
+Sandslash,Ground,,"['Water', 'Grass', 'Ice']",['Electric'],"['Poison', 'Rock']",,,
+Sandslash Alolan  Sandslash,Ice,Steel,"['Fire', 'Fighting', 'Rock', 'Steel']",,['Ice'],"['Fire', 'Fighting', 'Ground']",['Poison'],"['Normal', 'Grass', 'Ice', 'Flying', 'Psychic', 'Bug', 'Rock', 'Dragon', 'Steel', 'Fairy']"
+Nidoran♀,Poison,,"['Ground', 'Psychic']",,"['Grass', 'Fighting', 'Poison', 'Bug', 'Fairy']",,,
+Nidorina,Poison,,"['Ground', 'Psychic']",,"['Grass', 'Fighting', 'Poison', 'Bug', 'Fairy']",,,
+Nidoqueen,Poison,Ground,"['Ground', 'Psychic']",,"['Grass', 'Fighting', 'Poison', 'Bug', 'Fairy']","['Water', 'Grass', 'Ice']",['Electric'],"['Poison', 'Rock']"
+Nidoran♂,Poison,,"['Ground', 'Psychic']",,"['Grass', 'Fighting', 'Poison', 'Bug', 'Fairy']",,,
+Nidorino,Poison,,"['Ground', 'Psychic']",,"['Grass', 'Fighting', 'Poison', 'Bug', 'Fairy']",,,
+Nidoking,Poison,Ground,"['Ground', 'Psychic']",,"['Grass', 'Fighting', 'Poison', 'Bug', 'Fairy']","['Water', 'Grass', 'Ice']",['Electric'],"['Poison', 'Rock']"
+Clefairy,Fairy,,"['Poison', 'Steel']",['Dragon'],"['Fighting', 'Bug', 'Dark']",,,
+Clefable,Fairy,,"['Poison', 'Steel']",['Dragon'],"['Fighting', 'Bug', 'Dark']",,,
+Vulpix,Fire,,"['Water', 'Ground', 'Rock']",,"['Fire', 'Grass', 'Ice', 'Bug', 'Steel', 'Fairy']",,,
+Vulpix Alolan  Vulpix,Ice,,"['Fire', 'Fighting', 'Rock', 'Steel']",,['Ice'],,,
+Ninetales,Fire,,"['Water', 'Ground', 'Rock']",,"['Fire', 'Grass', 'Ice', 'Bug', 'Steel', 'Fairy']",,,
+Ninetales Alolan  Ninetales,Ice,Fairy,"['Fire', 'Fighting', 'Rock', 'Steel']",,['Ice'],"['Poison', 'Steel']",['Dragon'],"['Fighting', 'Bug', 'Dark']"
+Jigglypuff,Normal,Fairy,['Fighting'],['Ghost'],,"['Poison', 'Steel']",['Dragon'],"['Fighting', 'Bug', 'Dark']"
+Wigglytuff,Normal,Fairy,['Fighting'],['Ghost'],,"['Poison', 'Steel']",['Dragon'],"['Fighting', 'Bug', 'Dark']"
+Zubat,Poison,Flying,"['Ground', 'Psychic']",,"['Grass', 'Fighting', 'Poison', 'Bug', 'Fairy']","['Electric', 'Ice', 'Rock']",['Ground'],"['Grass', 'Fighting', 'Bug']"
+Golbat,Poison,Flying,"['Ground', 'Psychic']",,"['Grass', 'Fighting', 'Poison', 'Bug', 'Fairy']","['Electric', 'Ice', 'Rock']",['Ground'],"['Grass', 'Fighting', 'Bug']"
+Oddish,Grass,Poison,"['Fire', 'Ice', 'Poison', 'Flying', 'Bug']",,"['Water', 'Electric', 'Grass', 'Ground']","['Ground', 'Psychic']",,"['Grass', 'Fighting', 'Poison', 'Bug', 'Fairy']"
+Gloom,Grass,Poison,"['Fire', 'Ice', 'Poison', 'Flying', 'Bug']",,"['Water', 'Electric', 'Grass', 'Ground']","['Ground', 'Psychic']",,"['Grass', 'Fighting', 'Poison', 'Bug', 'Fairy']"
+Vileplume,Grass,Poison,"['Fire', 'Ice', 'Poison', 'Flying', 'Bug']",,"['Water', 'Electric', 'Grass', 'Ground']","['Ground', 'Psychic']",,"['Grass', 'Fighting', 'Poison', 'Bug', 'Fairy']"
+Paras,Bug,Grass,"['Fire', 'Flying', 'Rock']",,"['Grass', 'Fighting', 'Ground']","['Fire', 'Ice', 'Poison', 'Flying', 'Bug']",,"['Water', 'Electric', 'Grass', 'Ground']"
+Parasect,Bug,Grass,"['Fire', 'Flying', 'Rock']",,"['Grass', 'Fighting', 'Ground']","['Fire', 'Ice', 'Poison', 'Flying', 'Bug']",,"['Water', 'Electric', 'Grass', 'Ground']"
+Venonat,Bug,Poison,"['Fire', 'Flying', 'Rock']",,"['Grass', 'Fighting', 'Ground']","['Ground', 'Psychic']",,"['Grass', 'Fighting', 'Poison', 'Bug', 'Fairy']"
+Venomoth,Bug,Poison,"['Fire', 'Flying', 'Rock']",,"['Grass', 'Fighting', 'Ground']","['Ground', 'Psychic']",,"['Grass', 'Fighting', 'Poison', 'Bug', 'Fairy']"
+Diglett,Ground,,"['Water', 'Grass', 'Ice']",['Electric'],"['Poison', 'Rock']",,,
+Diglett Alolan  Diglett,Ground,Steel,"['Water', 'Grass', 'Ice']",['Electric'],"['Poison', 'Rock']","['Fire', 'Fighting', 'Ground']",['Poison'],"['Normal', 'Grass', 'Ice', 'Flying', 'Psychic', 'Bug', 'Rock', 'Dragon', 'Steel', 'Fairy']"
+Dugtrio,Ground,,"['Water', 'Grass', 'Ice']",['Electric'],"['Poison', 'Rock']",,,
+Dugtrio Alolan  Dugtrio,Ground,Steel,"['Water', 'Grass', 'Ice']",['Electric'],"['Poison', 'Rock']","['Fire', 'Fighting', 'Ground']",['Poison'],"['Normal', 'Grass', 'Ice', 'Flying', 'Psychic', 'Bug', 'Rock', 'Dragon', 'Steel', 'Fairy']"
+Meowth,Normal,,['Fighting'],['Ghost'],,,,
+Meowth Alolan  Meowth,Dark,,"['Fighting', 'Bug', 'Fairy']",['Psychic'],"['Ghost', 'Dark']",,,
+Meowth Galarian  Meowth,Steel,,"['Fire', 'Fighting', 'Ground']",['Poison'],"['Normal', 'Grass', 'Ice', 'Flying', 'Psychic', 'Bug', 'Rock', 'Dragon', 'Steel', 'Fairy']",,,
+Persian,Normal,,['Fighting'],['Ghost'],,,,
+Persian Alolan  Persian,Dark,,"['Fighting', 'Bug', 'Fairy']",['Psychic'],"['Ghost', 'Dark']",,,
+Psyduck,Water,,"['Electric', 'Grass']",,"['Fire', 'Water', 'Ice', 'Steel']",,,
+Golduck,Water,,"['Electric', 'Grass']",,"['Fire', 'Water', 'Ice', 'Steel']",,,
+Mankey,Fighting,,"['Flying', 'Psychic', 'Fairy']",,"['Bug', 'Rock', 'Dark']",,,
+Primeape,Fighting,,"['Flying', 'Psychic', 'Fairy']",,"['Bug', 'Rock', 'Dark']",,,
+Growlithe,Fire,,"['Water', 'Ground', 'Rock']",,"['Fire', 'Grass', 'Ice', 'Bug', 'Steel', 'Fairy']",,,
+Growlithe Hisuian  Growlithe,Fire,Rock,"['Water', 'Ground', 'Rock']",,"['Fire', 'Grass', 'Ice', 'Bug', 'Steel', 'Fairy']","['Water', 'Grass', 'Fighting', 'Ground', 'Steel']",,"['Normal', 'Fire', 'Poison', 'Flying']"
+Arcanine,Fire,,"['Water', 'Ground', 'Rock']",,"['Fire', 'Grass', 'Ice', 'Bug', 'Steel', 'Fairy']",,,
+Arcanine Hisuian  Arcanine,Fire,Rock,"['Water', 'Ground', 'Rock']",,"['Fire', 'Grass', 'Ice', 'Bug', 'Steel', 'Fairy']","['Water', 'Grass', 'Fighting', 'Ground', 'Steel']",,"['Normal', 'Fire', 'Poison', 'Flying']"
+Poliwag,Water,,"['Electric', 'Grass']",,"['Fire', 'Water', 'Ice', 'Steel']",,,
+Poliwhirl,Water,,"['Electric', 'Grass']",,"['Fire', 'Water', 'Ice', 'Steel']",,,
+Poliwrath,Water,Fighting,"['Electric', 'Grass']",,"['Fire', 'Water', 'Ice', 'Steel']","['Flying', 'Psychic', 'Fairy']",,"['Bug', 'Rock', 'Dark']"
+Abra,Psychic,,"['Bug', 'Ghost', 'Dark']",,"['Fighting', 'Psychic']",,,
+Kadabra,Psychic,,"['Bug', 'Ghost', 'Dark']",,"['Fighting', 'Psychic']",,,
+Alakazam,Psychic,,"['Bug', 'Ghost', 'Dark']",,"['Fighting', 'Psychic']",,,
+Alakazam Mega  Alakazam,Psychic,,"['Bug', 'Ghost', 'Dark']",,"['Fighting', 'Psychic']",,,
+Machop,Fighting,,"['Flying', 'Psychic', 'Fairy']",,"['Bug', 'Rock', 'Dark']",,,
+Machoke,Fighting,,"['Flying', 'Psychic', 'Fairy']",,"['Bug', 'Rock', 'Dark']",,,
+Machamp,Fighting,,"['Flying', 'Psychic', 'Fairy']",,"['Bug', 'Rock', 'Dark']",,,
+Bellsprout,Grass,Poison,"['Fire', 'Ice', 'Poison', 'Flying', 'Bug']",,"['Water', 'Electric', 'Grass', 'Ground']","['Ground', 'Psychic']",,"['Grass', 'Fighting', 'Poison', 'Bug', 'Fairy']"
+Weepinbell,Grass,Poison,"['Fire', 'Ice', 'Poison', 'Flying', 'Bug']",,"['Water', 'Electric', 'Grass', 'Ground']","['Ground', 'Psychic']",,"['Grass', 'Fighting', 'Poison', 'Bug', 'Fairy']"
+Victreebel,Grass,Poison,"['Fire', 'Ice', 'Poison', 'Flying', 'Bug']",,"['Water', 'Electric', 'Grass', 'Ground']","['Ground', 'Psychic']",,"['Grass', 'Fighting', 'Poison', 'Bug', 'Fairy']"
+Victreebel Mega  Victreebel,Grass,Poison,"['Fire', 'Ice', 'Poison', 'Flying', 'Bug']",,"['Water', 'Electric', 'Grass', 'Ground']","['Ground', 'Psychic']",,"['Grass', 'Fighting', 'Poison', 'Bug', 'Fairy']"
+Tentacool,Water,Poison,"['Electric', 'Grass']",,"['Fire', 'Water', 'Ice', 'Steel']","['Ground', 'Psychic']",,"['Grass', 'Fighting', 'Poison', 'Bug', 'Fairy']"
+Tentacruel,Water,Poison,"['Electric', 'Grass']",,"['Fire', 'Water', 'Ice', 'Steel']","['Ground', 'Psychic']",,"['Grass', 'Fighting', 'Poison', 'Bug', 'Fairy']"
+Geodude,Rock,Ground,"['Water', 'Grass', 'Fighting', 'Ground', 'Steel']",,"['Normal', 'Fire', 'Poison', 'Flying']","['Water', 'Grass', 'Ice']",['Electric'],"['Poison', 'Rock']"
+Geodude Alolan  Geodude,Rock,Electric,"['Water', 'Grass', 'Fighting', 'Ground', 'Steel']",,"['Normal', 'Fire', 'Poison', 'Flying']",['Ground'],,"['Electric', 'Flying', 'Steel']"
+Graveler,Rock,Ground,"['Water', 'Grass', 'Fighting', 'Ground', 'Steel']",,"['Normal', 'Fire', 'Poison', 'Flying']","['Water', 'Grass', 'Ice']",['Electric'],"['Poison', 'Rock']"
+Graveler Alolan  Graveler,Rock,Electric,"['Water', 'Grass', 'Fighting', 'Ground', 'Steel']",,"['Normal', 'Fire', 'Poison', 'Flying']",['Ground'],,"['Electric', 'Flying', 'Steel']"
+Golem,Rock,Ground,"['Water', 'Grass', 'Fighting', 'Ground', 'Steel']",,"['Normal', 'Fire', 'Poison', 'Flying']","['Water', 'Grass', 'Ice']",['Electric'],"['Poison', 'Rock']"
+Golem Alolan  Golem,Rock,Electric,"['Water', 'Grass', 'Fighting', 'Ground', 'Steel']",,"['Normal', 'Fire', 'Poison', 'Flying']",['Ground'],,"['Electric', 'Flying', 'Steel']"
+Ponyta,Fire,,"['Water', 'Ground', 'Rock']",,"['Fire', 'Grass', 'Ice', 'Bug', 'Steel', 'Fairy']",,,
+Ponyta Galarian  Ponyta,Psychic,,"['Bug', 'Ghost', 'Dark']",,"['Fighting', 'Psychic']",,,
+Rapidash,Fire,,"['Water', 'Ground', 'Rock']",,"['Fire', 'Grass', 'Ice', 'Bug', 'Steel', 'Fairy']",,,
+Rapidash Galarian  Rapidash,Psychic,Fairy,"['Bug', 'Ghost', 'Dark']",,"['Fighting', 'Psychic']","['Poison', 'Steel']",['Dragon'],"['Fighting', 'Bug', 'Dark']"
+Slowpoke,Water,Psychic,"['Electric', 'Grass']",,"['Fire', 'Water', 'Ice', 'Steel']","['Bug', 'Ghost', 'Dark']",,"['Fighting', 'Psychic']"
+Slowpoke Galarian  Slowpoke,Psychic,,"['Bug', 'Ghost', 'Dark']",,"['Fighting', 'Psychic']",,,
+Slowbro,Water,Psychic,"['Electric', 'Grass']",,"['Fire', 'Water', 'Ice', 'Steel']","['Bug', 'Ghost', 'Dark']",,"['Fighting', 'Psychic']"
+Slowbro Mega  Slowbro,Water,Psychic,"['Electric', 'Grass']",,"['Fire', 'Water', 'Ice', 'Steel']","['Bug', 'Ghost', 'Dark']",,"['Fighting', 'Psychic']"
+Slowbro Galarian  Slowbro,Poison,Psychic,"['Ground', 'Psychic']",,"['Grass', 'Fighting', 'Poison', 'Bug', 'Fairy']","['Bug', 'Ghost', 'Dark']",,"['Fighting', 'Psychic']"
+Magnemite,Electric,Steel,['Ground'],,"['Electric', 'Flying', 'Steel']","['Fire', 'Fighting', 'Ground']",['Poison'],"['Normal', 'Grass', 'Ice', 'Flying', 'Psychic', 'Bug', 'Rock', 'Dragon', 'Steel', 'Fairy']"
+Magneton,Electric,Steel,['Ground'],,"['Electric', 'Flying', 'Steel']","['Fire', 'Fighting', 'Ground']",['Poison'],"['Normal', 'Grass', 'Ice', 'Flying', 'Psychic', 'Bug', 'Rock', 'Dragon', 'Steel', 'Fairy']"
+Farfetch'd,Normal,Flying,['Fighting'],['Ghost'],,"['Electric', 'Ice', 'Rock']",['Ground'],"['Grass', 'Fighting', 'Bug']"
+Farfetch'd Galarian  Farfetch'd,Fighting,,"['Flying', 'Psychic', 'Fairy']",,"['Bug', 'Rock', 'Dark']",,,
+Doduo,Normal,Flying,['Fighting'],['Ghost'],,"['Electric', 'Ice', 'Rock']",['Ground'],"['Grass', 'Fighting', 'Bug']"
+Dodrio,Normal,Flying,['Fighting'],['Ghost'],,"['Electric', 'Ice', 'Rock']",['Ground'],"['Grass', 'Fighting', 'Bug']"
+Seel,Water,,"['Electric', 'Grass']",,"['Fire', 'Water', 'Ice', 'Steel']",,,
+Dewgong,Water,Ice,"['Electric', 'Grass']",,"['Fire', 'Water', 'Ice', 'Steel']","['Fire', 'Fighting', 'Rock', 'Steel']",,['Ice']
+Grimer,Poison,,"['Ground', 'Psychic']",,"['Grass', 'Fighting', 'Poison', 'Bug', 'Fairy']",,,
+Grimer Alolan  Grimer,Poison,Dark,"['Ground', 'Psychic']",,"['Grass', 'Fighting', 'Poison', 'Bug', 'Fairy']","['Fighting', 'Bug', 'Fairy']",['Psychic'],"['Ghost', 'Dark']"
+Muk,Poison,,"['Ground', 'Psychic']",,"['Grass', 'Fighting', 'Poison', 'Bug', 'Fairy']",,,
+Muk Alolan  Muk,Poison,Dark,"['Ground', 'Psychic']",,"['Grass', 'Fighting', 'Poison', 'Bug', 'Fairy']","['Fighting', 'Bug', 'Fairy']",['Psychic'],"['Ghost', 'Dark']"
+Shellder,Water,,"['Electric', 'Grass']",,"['Fire', 'Water', 'Ice', 'Steel']",,,
+Cloyster,Water,Ice,"['Electric', 'Grass']",,"['Fire', 'Water', 'Ice', 'Steel']","['Fire', 'Fighting', 'Rock', 'Steel']",,['Ice']
+Gastly,Ghost,Poison,"['Ghost', 'Dark']","['Normal', 'Fighting']","['Poison', 'Bug']","['Ground', 'Psychic']",,"['Grass', 'Fighting', 'Poison', 'Bug', 'Fairy']"
+Haunter,Ghost,Poison,"['Ghost', 'Dark']","['Normal', 'Fighting']","['Poison', 'Bug']","['Ground', 'Psychic']",,"['Grass', 'Fighting', 'Poison', 'Bug', 'Fairy']"
+Gengar,Ghost,Poison,"['Ghost', 'Dark']","['Normal', 'Fighting']","['Poison', 'Bug']","['Ground', 'Psychic']",,"['Grass', 'Fighting', 'Poison', 'Bug', 'Fairy']"
+Gengar Mega  Gengar,Ghost,Poison,"['Ghost', 'Dark']","['Normal', 'Fighting']","['Poison', 'Bug']","['Ground', 'Psychic']",,"['Grass', 'Fighting', 'Poison', 'Bug', 'Fairy']"
+Onix,Rock,Ground,"['Water', 'Grass', 'Fighting', 'Ground', 'Steel']",,"['Normal', 'Fire', 'Poison', 'Flying']","['Water', 'Grass', 'Ice']",['Electric'],"['Poison', 'Rock']"
+Drowzee,Psychic,,"['Bug', 'Ghost', 'Dark']",,"['Fighting', 'Psychic']",,,
+Hypno,Psychic,,"['Bug', 'Ghost', 'Dark']",,"['Fighting', 'Psychic']",,,
+Krabby,Water,,"['Electric', 'Grass']",,"['Fire', 'Water', 'Ice', 'Steel']",,,
+Kingler,Water,,"['Electric', 'Grass']",,"['Fire', 'Water', 'Ice', 'Steel']",,,
+Voltorb,Electric,,['Ground'],,"['Electric', 'Flying', 'Steel']",,,
+Voltorb Hisuian  Voltorb,Electric,Grass,['Ground'],,"['Electric', 'Flying', 'Steel']","['Fire', 'Ice', 'Poison', 'Flying', 'Bug']",,"['Water', 'Electric', 'Grass', 'Ground']"
+Electrode,Electric,,['Ground'],,"['Electric', 'Flying', 'Steel']",,,
+Electrode Hisuian  Electrode,Electric,Grass,['Ground'],,"['Electric', 'Flying', 'Steel']","['Fire', 'Ice', 'Poison', 'Flying', 'Bug']",,"['Water', 'Electric', 'Grass', 'Ground']"
+Exeggcute,Grass,Psychic,"['Fire', 'Ice', 'Poison', 'Flying', 'Bug']",,"['Water', 'Electric', 'Grass', 'Ground']","['Bug', 'Ghost', 'Dark']",,"['Fighting', 'Psychic']"
+Exeggutor,Grass,Psychic,"['Fire', 'Ice', 'Poison', 'Flying', 'Bug']",,"['Water', 'Electric', 'Grass', 'Ground']","['Bug', 'Ghost', 'Dark']",,"['Fighting', 'Psychic']"
+Exeggutor Alolan  Exeggutor,Grass,Dragon,"['Fire', 'Ice', 'Poison', 'Flying', 'Bug']",,"['Water', 'Electric', 'Grass', 'Ground']","['Ice', 'Dragon', 'Fairy']",,"['Fire', 'Water', 'Electric', 'Grass']"
+Cubone,Ground,,"['Water', 'Grass', 'Ice']",['Electric'],"['Poison', 'Rock']",,,
+Marowak,Ground,,"['Water', 'Grass', 'Ice']",['Electric'],"['Poison', 'Rock']",,,
+Marowak Alolan  Marowak,Fire,Ghost,"['Water', 'Ground', 'Rock']",,"['Fire', 'Grass', 'Ice', 'Bug', 'Steel', 'Fairy']","['Ghost', 'Dark']","['Normal', 'Fighting']","['Poison', 'Bug']"
+Hitmonlee,Fighting,,"['Flying', 'Psychic', 'Fairy']",,"['Bug', 'Rock', 'Dark']",,,
+Hitmonchan,Fighting,,"['Flying', 'Psychic', 'Fairy']",,"['Bug', 'Rock', 'Dark']",,,
+Lickitung,Normal,,['Fighting'],['Ghost'],,,,
+Koffing,Poison,,"['Ground', 'Psychic']",,"['Grass', 'Fighting', 'Poison', 'Bug', 'Fairy']",,,
+Weezing,Poison,,"['Ground', 'Psychic']",,"['Grass', 'Fighting', 'Poison', 'Bug', 'Fairy']",,,
+Weezing Galarian  Weezing,Poison,Fairy,"['Ground', 'Psychic']",,"['Grass', 'Fighting', 'Poison', 'Bug', 'Fairy']","['Poison', 'Steel']",['Dragon'],"['Fighting', 'Bug', 'Dark']"
+Rhyhorn,Ground,Rock,"['Water', 'Grass', 'Ice']",['Electric'],"['Poison', 'Rock']","['Water', 'Grass', 'Fighting', 'Ground', 'Steel']",,"['Normal', 'Fire', 'Poison', 'Flying']"
+Rhydon,Ground,Rock,"['Water', 'Grass', 'Ice']",['Electric'],"['Poison', 'Rock']","['Water', 'Grass', 'Fighting', 'Ground', 'Steel']",,"['Normal', 'Fire', 'Poison', 'Flying']"
+Chansey,Normal,,['Fighting'],['Ghost'],,,,
+Tangela,Grass,,"['Fire', 'Ice', 'Poison', 'Flying', 'Bug']",,"['Water', 'Electric', 'Grass', 'Ground']",,,
+Kangaskhan,Normal,,['Fighting'],['Ghost'],,,,
+Kangaskhan Mega  Kangaskhan,Normal,,['Fighting'],['Ghost'],,,,
+Horsea,Water,,"['Electric', 'Grass']",,"['Fire', 'Water', 'Ice', 'Steel']",,,
+Seadra,Water,,"['Electric', 'Grass']",,"['Fire', 'Water', 'Ice', 'Steel']",,,
+Goldeen,Water,,"['Electric', 'Grass']",,"['Fire', 'Water', 'Ice', 'Steel']",,,
+Seaking,Water,,"['Electric', 'Grass']",,"['Fire', 'Water', 'Ice', 'Steel']",,,
+Staryu,Water,,"['Electric', 'Grass']",,"['Fire', 'Water', 'Ice', 'Steel']",,,
+Starmie,Water,Psychic,"['Electric', 'Grass']",,"['Fire', 'Water', 'Ice', 'Steel']","['Bug', 'Ghost', 'Dark']",,"['Fighting', 'Psychic']"
+Mr.  Mime,Psychic,Fairy,"['Bug', 'Ghost', 'Dark']",,"['Fighting', 'Psychic']","['Poison', 'Steel']",['Dragon'],"['Fighting', 'Bug', 'Dark']"
+Mr.  Mime Galarian  Mr.  Mime,Ice,Psychic,"['Fire', 'Fighting', 'Rock', 'Steel']",,['Ice'],"['Bug', 'Ghost', 'Dark']",,"['Fighting', 'Psychic']"
+Scyther,Bug,Flying,"['Fire', 'Flying', 'Rock']",,"['Grass', 'Fighting', 'Ground']","['Electric', 'Ice', 'Rock']",['Ground'],"['Grass', 'Fighting', 'Bug']"
+Jynx,Ice,Psychic,"['Fire', 'Fighting', 'Rock', 'Steel']",,['Ice'],"['Bug', 'Ghost', 'Dark']",,"['Fighting', 'Psychic']"
+Electabuzz,Electric,,['Ground'],,"['Electric', 'Flying', 'Steel']",,,
+Magmar,Fire,,"['Water', 'Ground', 'Rock']",,"['Fire', 'Grass', 'Ice', 'Bug', 'Steel', 'Fairy']",,,
+Pinsir,Bug,,"['Fire', 'Flying', 'Rock']",,"['Grass', 'Fighting', 'Ground']",,,
+Pinsir Mega  Pinsir,Bug,Flying,"['Fire', 'Flying', 'Rock']",,"['Grass', 'Fighting', 'Ground']","['Electric', 'Ice', 'Rock']",['Ground'],"['Grass', 'Fighting', 'Bug']"
+Tauros,Normal,,['Fighting'],['Ghost'],,,,
+Tauros Combat  Breed,Fighting,,"['Flying', 'Psychic', 'Fairy']",,"['Bug', 'Rock', 'Dark']",,,
+Tauros Blaze  Breed,Fighting,Fire,"['Flying', 'Psychic', 'Fairy']",,"['Bug', 'Rock', 'Dark']","['Water', 'Ground', 'Rock']",,"['Fire', 'Grass', 'Ice', 'Bug', 'Steel', 'Fairy']"
+Tauros Aqua  Breed,Fighting,Water,"['Flying', 'Psychic', 'Fairy']",,"['Bug', 'Rock', 'Dark']","['Electric', 'Grass']",,"['Fire', 'Water', 'Ice', 'Steel']"
+Magikarp,Water,,"['Electric', 'Grass']",,"['Fire', 'Water', 'Ice', 'Steel']",,,
+Gyarados,Water,Flying,"['Electric', 'Grass']",,"['Fire', 'Water', 'Ice', 'Steel']","['Electric', 'Ice', 'Rock']",['Ground'],"['Grass', 'Fighting', 'Bug']"
+Gyarados Mega  Gyarados,Water,Dark,"['Electric', 'Grass']",,"['Fire', 'Water', 'Ice', 'Steel']","['Fighting', 'Bug', 'Fairy']",['Psychic'],"['Ghost', 'Dark']"
+Lapras,Water,Ice,"['Electric', 'Grass']",,"['Fire', 'Water', 'Ice', 'Steel']","['Fire', 'Fighting', 'Rock', 'Steel']",,['Ice']
+Ditto,Normal,,['Fighting'],['Ghost'],,,,
+Eevee,Normal,,['Fighting'],['Ghost'],,,,
+Eevee Partner  Eevee,Normal,,['Fighting'],['Ghost'],,,,
+Vaporeon,Water,,"['Electric', 'Grass']",,"['Fire', 'Water', 'Ice', 'Steel']",,,
+Jolteon,Electric,,['Ground'],,"['Electric', 'Flying', 'Steel']",,,
+Flareon,Fire,,"['Water', 'Ground', 'Rock']",,"['Fire', 'Grass', 'Ice', 'Bug', 'Steel', 'Fairy']",,,
+Porygon,Normal,,['Fighting'],['Ghost'],,,,
+Omanyte,Rock,Water,"['Water', 'Grass', 'Fighting', 'Ground', 'Steel']",,"['Normal', 'Fire', 'Poison', 'Flying']","['Electric', 'Grass']",,"['Fire', 'Water', 'Ice', 'Steel']"
+Omastar,Rock,Water,"['Water', 'Grass', 'Fighting', 'Ground', 'Steel']",,"['Normal', 'Fire', 'Poison', 'Flying']","['Electric', 'Grass']",,"['Fire', 'Water', 'Ice', 'Steel']"
+Kabuto,Rock,Water,"['Water', 'Grass', 'Fighting', 'Ground', 'Steel']",,"['Normal', 'Fire', 'Poison', 'Flying']","['Electric', 'Grass']",,"['Fire', 'Water', 'Ice', 'Steel']"
+Kabutops,Rock,Water,"['Water', 'Grass', 'Fighting', 'Ground', 'Steel']",,"['Normal', 'Fire', 'Poison', 'Flying']","['Electric', 'Grass']",,"['Fire', 'Water', 'Ice', 'Steel']"
+Aerodactyl,Rock,Flying,"['Water', 'Grass', 'Fighting', 'Ground', 'Steel']",,"['Normal', 'Fire', 'Poison', 'Flying']","['Electric', 'Ice', 'Rock']",['Ground'],"['Grass', 'Fighting', 'Bug']"
+Aerodactyl Mega  Aerodactyl,Rock,Flying,"['Water', 'Grass', 'Fighting', 'Ground', 'Steel']",,"['Normal', 'Fire', 'Poison', 'Flying']","['Electric', 'Ice', 'Rock']",['Ground'],"['Grass', 'Fighting', 'Bug']"
+Snorlax,Normal,,['Fighting'],['Ghost'],,,,
+Articuno,Ice,Flying,"['Fire', 'Fighting', 'Rock', 'Steel']",,['Ice'],"['Electric', 'Ice', 'Rock']",['Ground'],"['Grass', 'Fighting', 'Bug']"
+Articuno Galarian  Articuno,Psychic,Flying,"['Bug', 'Ghost', 'Dark']",,"['Fighting', 'Psychic']","['Electric', 'Ice', 'Rock']",['Ground'],"['Grass', 'Fighting', 'Bug']"
+Zapdos,Electric,Flying,['Ground'],,"['Electric', 'Flying', 'Steel']","['Electric', 'Ice', 'Rock']",['Ground'],"['Grass', 'Fighting', 'Bug']"
+Zapdos Galarian  Zapdos,Fighting,Flying,"['Flying', 'Psychic', 'Fairy']",,"['Bug', 'Rock', 'Dark']","['Electric', 'Ice', 'Rock']",['Ground'],"['Grass', 'Fighting', 'Bug']"
+Moltres,Fire,Flying,"['Water', 'Ground', 'Rock']",,"['Fire', 'Grass', 'Ice', 'Bug', 'Steel', 'Fairy']","['Electric', 'Ice', 'Rock']",['Ground'],"['Grass', 'Fighting', 'Bug']"
+Moltres Galarian  Moltres,Dark,Flying,"['Fighting', 'Bug', 'Fairy']",['Psychic'],"['Ghost', 'Dark']","['Electric', 'Ice', 'Rock']",['Ground'],"['Grass', 'Fighting', 'Bug']"
+Dratini,Dragon,,"['Ice', 'Dragon', 'Fairy']",,"['Fire', 'Water', 'Electric', 'Grass']",,,
+Dragonair,Dragon,,"['Ice', 'Dragon', 'Fairy']",,"['Fire', 'Water', 'Electric', 'Grass']",,,
+Dragonite,Dragon,Flying,"['Ice', 'Dragon', 'Fairy']",,"['Fire', 'Water', 'Electric', 'Grass']","['Electric', 'Ice', 'Rock']",['Ground'],"['Grass', 'Fighting', 'Bug']"
+Dragonite Mega  Dragonite,Dragon,Flying,"['Ice', 'Dragon', 'Fairy']",,"['Fire', 'Water', 'Electric', 'Grass']","['Electric', 'Ice', 'Rock']",['Ground'],"['Grass', 'Fighting', 'Bug']"
+Mewtwo,Psychic,,"['Bug', 'Ghost', 'Dark']",,"['Fighting', 'Psychic']",,,
+Mewtwo Mega  Mewtwo  X,Psychic,Fighting,"['Bug', 'Ghost', 'Dark']",,"['Fighting', 'Psychic']","['Flying', 'Psychic', 'Fairy']",,"['Bug', 'Rock', 'Dark']"
+Mewtwo Mega  Mewtwo  Y,Psychic,,"['Bug', 'Ghost', 'Dark']",,"['Fighting', 'Psychic']",,,
+Mew,Psychic,,"['Bug', 'Ghost', 'Dark']",,"['Fighting', 'Psychic']",,,
+Chikorita,Grass,,"['Fire', 'Ice', 'Poison', 'Flying', 'Bug']",,"['Water', 'Electric', 'Grass', 'Ground']",,,
+Bayleef,Grass,,"['Fire', 'Ice', 'Poison', 'Flying', 'Bug']",,"['Water', 'Electric', 'Grass', 'Ground']",,,
+Meganium,Grass,,"['Fire', 'Ice', 'Poison', 'Flying', 'Bug']",,"['Water', 'Electric', 'Grass', 'Ground']",,,
+Cyndaquil,Fire,,"['Water', 'Ground', 'Rock']",,"['Fire', 'Grass', 'Ice', 'Bug', 'Steel', 'Fairy']",,,
+Quilava,Fire,,"['Water', 'Ground', 'Rock']",,"['Fire', 'Grass', 'Ice', 'Bug', 'Steel', 'Fairy']",,,
+Typhlosion,Fire,,"['Water', 'Ground', 'Rock']",,"['Fire', 'Grass', 'Ice', 'Bug', 'Steel', 'Fairy']",,,
+Typhlosion Hisuian  Typhlosion,Fire,Ghost,"['Water', 'Ground', 'Rock']",,"['Fire', 'Grass', 'Ice', 'Bug', 'Steel', 'Fairy']","['Ghost', 'Dark']","['Normal', 'Fighting']","['Poison', 'Bug']"
+Totodile,Water,,"['Electric', 'Grass']",,"['Fire', 'Water', 'Ice', 'Steel']",,,
+Croconaw,Water,,"['Electric', 'Grass']",,"['Fire', 'Water', 'Ice', 'Steel']",,,
+Feraligatr,Water,,"['Electric', 'Grass']",,"['Fire', 'Water', 'Ice', 'Steel']",,,
+Sentret,Normal,,['Fighting'],['Ghost'],,,,
+Furret,Normal,,['Fighting'],['Ghost'],,,,
+Hoothoot,Normal,Flying,['Fighting'],['Ghost'],,"['Electric', 'Ice', 'Rock']",['Ground'],"['Grass', 'Fighting', 'Bug']"
+Noctowl,Normal,Flying,['Fighting'],['Ghost'],,"['Electric', 'Ice', 'Rock']",['Ground'],"['Grass', 'Fighting', 'Bug']"
+Ledyba,Bug,Flying,"['Fire', 'Flying', 'Rock']",,"['Grass', 'Fighting', 'Ground']","['Electric', 'Ice', 'Rock']",['Ground'],"['Grass', 'Fighting', 'Bug']"
+Ledian,Bug,Flying,"['Fire', 'Flying', 'Rock']",,"['Grass', 'Fighting', 'Ground']","['Electric', 'Ice', 'Rock']",['Ground'],"['Grass', 'Fighting', 'Bug']"
+Spinarak,Bug,Poison,"['Fire', 'Flying', 'Rock']",,"['Grass', 'Fighting', 'Ground']","['Ground', 'Psychic']",,"['Grass', 'Fighting', 'Poison', 'Bug', 'Fairy']"
+Ariados,Bug,Poison,"['Fire', 'Flying', 'Rock']",,"['Grass', 'Fighting', 'Ground']","['Ground', 'Psychic']",,"['Grass', 'Fighting', 'Poison', 'Bug', 'Fairy']"
+Crobat,Poison,Flying,"['Ground', 'Psychic']",,"['Grass', 'Fighting', 'Poison', 'Bug', 'Fairy']","['Electric', 'Ice', 'Rock']",['Ground'],"['Grass', 'Fighting', 'Bug']"
+Chinchou,Water,Electric,"['Electric', 'Grass']",,"['Fire', 'Water', 'Ice', 'Steel']",['Ground'],,"['Electric', 'Flying', 'Steel']"
+Lanturn,Water,Electric,"['Electric', 'Grass']",,"['Fire', 'Water', 'Ice', 'Steel']",['Ground'],,"['Electric', 'Flying', 'Steel']"
+Pichu,Electric,,['Ground'],,"['Electric', 'Flying', 'Steel']",,,
+Cleffa,Fairy,,"['Poison', 'Steel']",['Dragon'],"['Fighting', 'Bug', 'Dark']",,,
+Igglybuff,Normal,Fairy,['Fighting'],['Ghost'],,"['Poison', 'Steel']",['Dragon'],"['Fighting', 'Bug', 'Dark']"
+Togepi,Fairy,,"['Poison', 'Steel']",['Dragon'],"['Fighting', 'Bug', 'Dark']",,,
+Togetic,Fairy,Flying,"['Poison', 'Steel']",['Dragon'],"['Fighting', 'Bug', 'Dark']","['Electric', 'Ice', 'Rock']",['Ground'],"['Grass', 'Fighting', 'Bug']"
+Natu,Psychic,Flying,"['Bug', 'Ghost', 'Dark']",,"['Fighting', 'Psychic']","['Electric', 'Ice', 'Rock']",['Ground'],"['Grass', 'Fighting', 'Bug']"
+Xatu,Psychic,Flying,"['Bug', 'Ghost', 'Dark']",,"['Fighting', 'Psychic']","['Electric', 'Ice', 'Rock']",['Ground'],"['Grass', 'Fighting', 'Bug']"
+Mareep,Electric,,['Ground'],,"['Electric', 'Flying', 'Steel']",,,
+Flaaffy,Electric,,['Ground'],,"['Electric', 'Flying', 'Steel']",,,
+Ampharos,Electric,,['Ground'],,"['Electric', 'Flying', 'Steel']",,,
+Ampharos Mega  Ampharos,Electric,Dragon,['Ground'],,"['Electric', 'Flying', 'Steel']","['Ice', 'Dragon', 'Fairy']",,"['Fire', 'Water', 'Electric', 'Grass']"
+Bellossom,Grass,,"['Fire', 'Ice', 'Poison', 'Flying', 'Bug']",,"['Water', 'Electric', 'Grass', 'Ground']",,,
+Marill,Water,Fairy,"['Electric', 'Grass']",,"['Fire', 'Water', 'Ice', 'Steel']","['Poison', 'Steel']",['Dragon'],"['Fighting', 'Bug', 'Dark']"
+Azumarill,Water,Fairy,"['Electric', 'Grass']",,"['Fire', 'Water', 'Ice', 'Steel']","['Poison', 'Steel']",['Dragon'],"['Fighting', 'Bug', 'Dark']"
+Sudowoodo,Rock,,"['Water', 'Grass', 'Fighting', 'Ground', 'Steel']",,"['Normal', 'Fire', 'Poison', 'Flying']",,,
+Politoed,Water,,"['Electric', 'Grass']",,"['Fire', 'Water', 'Ice', 'Steel']",,,
+Hoppip,Grass,Flying,"['Fire', 'Ice', 'Poison', 'Flying', 'Bug']",,"['Water', 'Electric', 'Grass', 'Ground']","['Electric', 'Ice', 'Rock']",['Ground'],"['Grass', 'Fighting', 'Bug']"
+Skiploom,Grass,Flying,"['Fire', 'Ice', 'Poison', 'Flying', 'Bug']",,"['Water', 'Electric', 'Grass', 'Ground']","['Electric', 'Ice', 'Rock']",['Ground'],"['Grass', 'Fighting', 'Bug']"
+Jumpluff,Grass,Flying,"['Fire', 'Ice', 'Poison', 'Flying', 'Bug']",,"['Water', 'Electric', 'Grass', 'Ground']","['Electric', 'Ice', 'Rock']",['Ground'],"['Grass', 'Fighting', 'Bug']"
+Aipom,Normal,,['Fighting'],['Ghost'],,,,
+Sunkern,Grass,,"['Fire', 'Ice', 'Poison', 'Flying', 'Bug']",,"['Water', 'Electric', 'Grass', 'Ground']",,,
+Sunflora,Grass,,"['Fire', 'Ice', 'Poison', 'Flying', 'Bug']",,"['Water', 'Electric', 'Grass', 'Ground']",,,
+Yanma,Bug,Flying,"['Fire', 'Flying', 'Rock']",,"['Grass', 'Fighting', 'Ground']","['Electric', 'Ice', 'Rock']",['Ground'],"['Grass', 'Fighting', 'Bug']"
+Wooper,Water,Ground,"['Electric', 'Grass']",,"['Fire', 'Water', 'Ice', 'Steel']","['Water', 'Grass', 'Ice']",['Electric'],"['Poison', 'Rock']"
+Wooper Paldean  Wooper,Poison,Ground,"['Ground', 'Psychic']",,"['Grass', 'Fighting', 'Poison', 'Bug', 'Fairy']","['Water', 'Grass', 'Ice']",['Electric'],"['Poison', 'Rock']"
+Quagsire,Water,Ground,"['Electric', 'Grass']",,"['Fire', 'Water', 'Ice', 'Steel']","['Water', 'Grass', 'Ice']",['Electric'],"['Poison', 'Rock']"
+Espeon,Psychic,,"['Bug', 'Ghost', 'Dark']",,"['Fighting', 'Psychic']",,,
+Umbreon,Dark,,"['Fighting', 'Bug', 'Fairy']",['Psychic'],"['Ghost', 'Dark']",,,
+Murkrow,Dark,Flying,"['Fighting', 'Bug', 'Fairy']",['Psychic'],"['Ghost', 'Dark']","['Electric', 'Ice', 'Rock']",['Ground'],"['Grass', 'Fighting', 'Bug']"
+Slowking,Water,Psychic,"['Electric', 'Grass']",,"['Fire', 'Water', 'Ice', 'Steel']","['Bug', 'Ghost', 'Dark']",,"['Fighting', 'Psychic']"
+Slowking Galarian  Slowking,Poison,Psychic,"['Ground', 'Psychic']",,"['Grass', 'Fighting', 'Poison', 'Bug', 'Fairy']","['Bug', 'Ghost', 'Dark']",,"['Fighting', 'Psychic']"
+Misdreavus,Ghost,,"['Ghost', 'Dark']","['Normal', 'Fighting']","['Poison', 'Bug']",,,
+Unown,Psychic,,"['Bug', 'Ghost', 'Dark']",,"['Fighting', 'Psychic']",,,
+Wobbuffet,Psychic,,"['Bug', 'Ghost', 'Dark']",,"['Fighting', 'Psychic']",,,
+Girafarig,Normal,Psychic,['Fighting'],['Ghost'],,"['Bug', 'Ghost', 'Dark']",,"['Fighting', 'Psychic']"
+Pineco,Bug,,"['Fire', 'Flying', 'Rock']",,"['Grass', 'Fighting', 'Ground']",,,
+Forretress,Bug,Steel,"['Fire', 'Flying', 'Rock']",,"['Grass', 'Fighting', 'Ground']","['Fire', 'Fighting', 'Ground']",['Poison'],"['Normal', 'Grass', 'Ice', 'Flying', 'Psychic', 'Bug', 'Rock', 'Dragon', 'Steel', 'Fairy']"
+Dunsparce,Normal,,['Fighting'],['Ghost'],,,,
+Gligar,Ground,Flying,"['Water', 'Grass', 'Ice']",['Electric'],"['Poison', 'Rock']","['Electric', 'Ice', 'Rock']",['Ground'],"['Grass', 'Fighting', 'Bug']"
+Steelix,Steel,Ground,"['Fire', 'Fighting', 'Ground']",['Poison'],"['Normal', 'Grass', 'Ice', 'Flying', 'Psychic', 'Bug', 'Rock', 'Dragon', 'Steel', 'Fairy']","['Water', 'Grass', 'Ice']",['Electric'],"['Poison', 'Rock']"
+Steelix Mega  Steelix,Steel,Ground,"['Fire', 'Fighting', 'Ground']",['Poison'],"['Normal', 'Grass', 'Ice', 'Flying', 'Psychic', 'Bug', 'Rock', 'Dragon', 'Steel', 'Fairy']","['Water', 'Grass', 'Ice']",['Electric'],"['Poison', 'Rock']"
+Snubbull,Fairy,,"['Poison', 'Steel']",['Dragon'],"['Fighting', 'Bug', 'Dark']",,,
+Granbull,Fairy,,"['Poison', 'Steel']",['Dragon'],"['Fighting', 'Bug', 'Dark']",,,
+Qwilfish,Water,Poison,"['Electric', 'Grass']",,"['Fire', 'Water', 'Ice', 'Steel']","['Ground', 'Psychic']",,"['Grass', 'Fighting', 'Poison', 'Bug', 'Fairy']"
+Qwilfish Hisuian  Qwilfish,Dark,Poison,"['Fighting', 'Bug', 'Fairy']",['Psychic'],"['Ghost', 'Dark']","['Ground', 'Psychic']",,"['Grass', 'Fighting', 'Poison', 'Bug', 'Fairy']"
+Scizor,Bug,Steel,"['Fire', 'Flying', 'Rock']",,"['Grass', 'Fighting', 'Ground']","['Fire', 'Fighting', 'Ground']",['Poison'],"['Normal', 'Grass', 'Ice', 'Flying', 'Psychic', 'Bug', 'Rock', 'Dragon', 'Steel', 'Fairy']"
+Scizor Mega  Scizor,Bug,Steel,"['Fire', 'Flying', 'Rock']",,"['Grass', 'Fighting', 'Ground']","['Fire', 'Fighting', 'Ground']",['Poison'],"['Normal', 'Grass', 'Ice', 'Flying', 'Psychic', 'Bug', 'Rock', 'Dragon', 'Steel', 'Fairy']"
+Shuckle,Bug,Rock,"['Fire', 'Flying', 'Rock']",,"['Grass', 'Fighting', 'Ground']","['Water', 'Grass', 'Fighting', 'Ground', 'Steel']",,"['Normal', 'Fire', 'Poison', 'Flying']"
+Heracross,Bug,Fighting,"['Fire', 'Flying', 'Rock']",,"['Grass', 'Fighting', 'Ground']","['Flying', 'Psychic', 'Fairy']",,"['Bug', 'Rock', 'Dark']"
+Heracross Mega  Heracross,Bug,Fighting,"['Fire', 'Flying', 'Rock']",,"['Grass', 'Fighting', 'Ground']","['Flying', 'Psychic', 'Fairy']",,"['Bug', 'Rock', 'Dark']"
+Sneasel,Dark,Ice,"['Fighting', 'Bug', 'Fairy']",['Psychic'],"['Ghost', 'Dark']","['Fire', 'Fighting', 'Rock', 'Steel']",,['Ice']
+Sneasel Hisuian  Sneasel,Fighting,Poison,"['Flying', 'Psychic', 'Fairy']",,"['Bug', 'Rock', 'Dark']","['Ground', 'Psychic']",,"['Grass', 'Fighting', 'Poison', 'Bug', 'Fairy']"
+Teddiursa,Normal,,['Fighting'],['Ghost'],,,,
+Ursaring,Normal,,['Fighting'],['Ghost'],,,,
+Slugma,Fire,,"['Water', 'Ground', 'Rock']",,"['Fire', 'Grass', 'Ice', 'Bug', 'Steel', 'Fairy']",,,
+Magcargo,Fire,Rock,"['Water', 'Ground', 'Rock']",,"['Fire', 'Grass', 'Ice', 'Bug', 'Steel', 'Fairy']","['Water', 'Grass', 'Fighting', 'Ground', 'Steel']",,"['Normal', 'Fire', 'Poison', 'Flying']"
+Swinub,Ice,Ground,"['Fire', 'Fighting', 'Rock', 'Steel']",,['Ice'],"['Water', 'Grass', 'Ice']",['Electric'],"['Poison', 'Rock']"
+Piloswine,Ice,Ground,"['Fire', 'Fighting', 'Rock', 'Steel']",,['Ice'],"['Water', 'Grass', 'Ice']",['Electric'],"['Poison', 'Rock']"
+Corsola,Water,Rock,"['Electric', 'Grass']",,"['Fire', 'Water', 'Ice', 'Steel']","['Water', 'Grass', 'Fighting', 'Ground', 'Steel']",,"['Normal', 'Fire', 'Poison', 'Flying']"
+Corsola Galarian  Corsola,Ghost,,"['Ghost', 'Dark']","['Normal', 'Fighting']","['Poison', 'Bug']",,,
+Remoraid,Water,,"['Electric', 'Grass']",,"['Fire', 'Water', 'Ice', 'Steel']",,,
+Octillery,Water,,"['Electric', 'Grass']",,"['Fire', 'Water', 'Ice', 'Steel']",,,
+Delibird,Ice,Flying,"['Fire', 'Fighting', 'Rock', 'Steel']",,['Ice'],"['Electric', 'Ice', 'Rock']",['Ground'],"['Grass', 'Fighting', 'Bug']"
+Mantine,Water,Flying,"['Electric', 'Grass']",,"['Fire', 'Water', 'Ice', 'Steel']","['Electric', 'Ice', 'Rock']",['Ground'],"['Grass', 'Fighting', 'Bug']"
+Skarmory,Steel,Flying,"['Fire', 'Fighting', 'Ground']",['Poison'],"['Normal', 'Grass', 'Ice', 'Flying', 'Psychic', 'Bug', 'Rock', 'Dragon', 'Steel', 'Fairy']","['Electric', 'Ice', 'Rock']",['Ground'],"['Grass', 'Fighting', 'Bug']"
+Houndour,Dark,Fire,"['Fighting', 'Bug', 'Fairy']",['Psychic'],"['Ghost', 'Dark']","['Water', 'Ground', 'Rock']",,"['Fire', 'Grass', 'Ice', 'Bug', 'Steel', 'Fairy']"
+Houndoom,Dark,Fire,"['Fighting', 'Bug', 'Fairy']",['Psychic'],"['Ghost', 'Dark']","['Water', 'Ground', 'Rock']",,"['Fire', 'Grass', 'Ice', 'Bug', 'Steel', 'Fairy']"
+Houndoom Mega  Houndoom,Dark,Fire,"['Fighting', 'Bug', 'Fairy']",['Psychic'],"['Ghost', 'Dark']","['Water', 'Ground', 'Rock']",,"['Fire', 'Grass', 'Ice', 'Bug', 'Steel', 'Fairy']"
+Kingdra,Water,Dragon,"['Electric', 'Grass']",,"['Fire', 'Water', 'Ice', 'Steel']","['Ice', 'Dragon', 'Fairy']",,"['Fire', 'Water', 'Electric', 'Grass']"
+Phanpy,Ground,,"['Water', 'Grass', 'Ice']",['Electric'],"['Poison', 'Rock']",,,
+Donphan,Ground,,"['Water', 'Grass', 'Ice']",['Electric'],"['Poison', 'Rock']",,,
+Porygon2,Normal,,['Fighting'],['Ghost'],,,,
+Stantler,Normal,,['Fighting'],['Ghost'],,,,
+Smeargle,Normal,,['Fighting'],['Ghost'],,,,
+Tyrogue,Fighting,,"['Flying', 'Psychic', 'Fairy']",,"['Bug', 'Rock', 'Dark']",,,
+Hitmontop,Fighting,,"['Flying', 'Psychic', 'Fairy']",,"['Bug', 'Rock', 'Dark']",,,
+Smoochum,Ice,Psychic,"['Fire', 'Fighting', 'Rock', 'Steel']",,['Ice'],"['Bug', 'Ghost', 'Dark']",,"['Fighting', 'Psychic']"
+Elekid,Electric,,['Ground'],,"['Electric', 'Flying', 'Steel']",,,
+Magby,Fire,,"['Water', 'Ground', 'Rock']",,"['Fire', 'Grass', 'Ice', 'Bug', 'Steel', 'Fairy']",,,
+Miltank,Normal,,['Fighting'],['Ghost'],,,,
+Blissey,Normal,,['Fighting'],['Ghost'],,,,
+Raikou,Electric,,['Ground'],,"['Electric', 'Flying', 'Steel']",,,
+Entei,Fire,,"['Water', 'Ground', 'Rock']",,"['Fire', 'Grass', 'Ice', 'Bug', 'Steel', 'Fairy']",,,
+Suicune,Water,,"['Electric', 'Grass']",,"['Fire', 'Water', 'Ice', 'Steel']",,,
+Larvitar,Rock,Ground,"['Water', 'Grass', 'Fighting', 'Ground', 'Steel']",,"['Normal', 'Fire', 'Poison', 'Flying']","['Water', 'Grass', 'Ice']",['Electric'],"['Poison', 'Rock']"
+Pupitar,Rock,Ground,"['Water', 'Grass', 'Fighting', 'Ground', 'Steel']",,"['Normal', 'Fire', 'Poison', 'Flying']","['Water', 'Grass', 'Ice']",['Electric'],"['Poison', 'Rock']"
+Tyranitar,Rock,Dark,"['Water', 'Grass', 'Fighting', 'Ground', 'Steel']",,"['Normal', 'Fire', 'Poison', 'Flying']","['Fighting', 'Bug', 'Fairy']",['Psychic'],"['Ghost', 'Dark']"
+Tyranitar Mega  Tyranitar,Rock,Dark,"['Water', 'Grass', 'Fighting', 'Ground', 'Steel']",,"['Normal', 'Fire', 'Poison', 'Flying']","['Fighting', 'Bug', 'Fairy']",['Psychic'],"['Ghost', 'Dark']"
+Lugia,Psychic,Flying,"['Bug', 'Ghost', 'Dark']",,"['Fighting', 'Psychic']","['Electric', 'Ice', 'Rock']",['Ground'],"['Grass', 'Fighting', 'Bug']"
+Ho-oh,Fire,Flying,"['Water', 'Ground', 'Rock']",,"['Fire', 'Grass', 'Ice', 'Bug', 'Steel', 'Fairy']","['Electric', 'Ice', 'Rock']",['Ground'],"['Grass', 'Fighting', 'Bug']"
+Celebi,Psychic,Grass,"['Bug', 'Ghost', 'Dark']",,"['Fighting', 'Psychic']","['Fire', 'Ice', 'Poison', 'Flying', 'Bug']",,"['Water', 'Electric', 'Grass', 'Ground']"
+Treecko,Grass,,"['Fire', 'Ice', 'Poison', 'Flying', 'Bug']",,"['Water', 'Electric', 'Grass', 'Ground']",,,
+Grovyle,Grass,,"['Fire', 'Ice', 'Poison', 'Flying', 'Bug']",,"['Water', 'Electric', 'Grass', 'Ground']",,,
+Sceptile,Grass,,"['Fire', 'Ice', 'Poison', 'Flying', 'Bug']",,"['Water', 'Electric', 'Grass', 'Ground']",,,
+Sceptile Mega  Sceptile,Grass,Dragon,"['Fire', 'Ice', 'Poison', 'Flying', 'Bug']",,"['Water', 'Electric', 'Grass', 'Ground']","['Ice', 'Dragon', 'Fairy']",,"['Fire', 'Water', 'Electric', 'Grass']"
+Torchic,Fire,,"['Water', 'Ground', 'Rock']",,"['Fire', 'Grass', 'Ice', 'Bug', 'Steel', 'Fairy']",,,
+Combusken,Fire,Fighting,"['Water', 'Ground', 'Rock']",,"['Fire', 'Grass', 'Ice', 'Bug', 'Steel', 'Fairy']","['Flying', 'Psychic', 'Fairy']",,"['Bug', 'Rock', 'Dark']"
+Blaziken,Fire,Fighting,"['Water', 'Ground', 'Rock']",,"['Fire', 'Grass', 'Ice', 'Bug', 'Steel', 'Fairy']","['Flying', 'Psychic', 'Fairy']",,"['Bug', 'Rock', 'Dark']"
+Blaziken Mega  Blaziken,Fire,Fighting,"['Water', 'Ground', 'Rock']",,"['Fire', 'Grass', 'Ice', 'Bug', 'Steel', 'Fairy']","['Flying', 'Psychic', 'Fairy']",,"['Bug', 'Rock', 'Dark']"
+Mudkip,Water,,"['Electric', 'Grass']",,"['Fire', 'Water', 'Ice', 'Steel']",,,
+Marshtomp,Water,Ground,"['Electric', 'Grass']",,"['Fire', 'Water', 'Ice', 'Steel']","['Water', 'Grass', 'Ice']",['Electric'],"['Poison', 'Rock']"
+Swampert,Water,Ground,"['Electric', 'Grass']",,"['Fire', 'Water', 'Ice', 'Steel']","['Water', 'Grass', 'Ice']",['Electric'],"['Poison', 'Rock']"
+Swampert Mega  Swampert,Water,Ground,"['Electric', 'Grass']",,"['Fire', 'Water', 'Ice', 'Steel']","['Water', 'Grass', 'Ice']",['Electric'],"['Poison', 'Rock']"
+Poochyena,Dark,,"['Fighting', 'Bug', 'Fairy']",['Psychic'],"['Ghost', 'Dark']",,,
+Mightyena,Dark,,"['Fighting', 'Bug', 'Fairy']",['Psychic'],"['Ghost', 'Dark']",,,
+Zigzagoon,Normal,,['Fighting'],['Ghost'],,,,
+Zigzagoon Galarian  Zigzagoon,Dark,Normal,"['Fighting', 'Bug', 'Fairy']",['Psychic'],"['Ghost', 'Dark']",['Fighting'],['Ghost'],
+Linoone,Normal,,['Fighting'],['Ghost'],,,,
+Linoone Galarian  Linoone,Dark,Normal,"['Fighting', 'Bug', 'Fairy']",['Psychic'],"['Ghost', 'Dark']",['Fighting'],['Ghost'],
+Wurmple,Bug,,"['Fire', 'Flying', 'Rock']",,"['Grass', 'Fighting', 'Ground']",,,
+Silcoon,Bug,,"['Fire', 'Flying', 'Rock']",,"['Grass', 'Fighting', 'Ground']",,,
+Beautifly,Bug,Flying,"['Fire', 'Flying', 'Rock']",,"['Grass', 'Fighting', 'Ground']","['Electric', 'Ice', 'Rock']",['Ground'],"['Grass', 'Fighting', 'Bug']"
+Cascoon,Bug,,"['Fire', 'Flying', 'Rock']",,"['Grass', 'Fighting', 'Ground']",,,
+Dustox,Bug,Poison,"['Fire', 'Flying', 'Rock']",,"['Grass', 'Fighting', 'Ground']","['Ground', 'Psychic']",,"['Grass', 'Fighting', 'Poison', 'Bug', 'Fairy']"
+Lotad,Water,Grass,"['Electric', 'Grass']",,"['Fire', 'Water', 'Ice', 'Steel']","['Fire', 'Ice', 'Poison', 'Flying', 'Bug']",,"['Water', 'Electric', 'Grass', 'Ground']"
+Lombre,Water,Grass,"['Electric', 'Grass']",,"['Fire', 'Water', 'Ice', 'Steel']","['Fire', 'Ice', 'Poison', 'Flying', 'Bug']",,"['Water', 'Electric', 'Grass', 'Ground']"
+Ludicolo,Water,Grass,"['Electric', 'Grass']",,"['Fire', 'Water', 'Ice', 'Steel']","['Fire', 'Ice', 'Poison', 'Flying', 'Bug']",,"['Water', 'Electric', 'Grass', 'Ground']"
+Seedot,Grass,,"['Fire', 'Ice', 'Poison', 'Flying', 'Bug']",,"['Water', 'Electric', 'Grass', 'Ground']",,,
+Nuzleaf,Grass,Dark,"['Fire', 'Ice', 'Poison', 'Flying', 'Bug']",,"['Water', 'Electric', 'Grass', 'Ground']","['Fighting', 'Bug', 'Fairy']",['Psychic'],"['Ghost', 'Dark']"
+Shiftry,Grass,Dark,"['Fire', 'Ice', 'Poison', 'Flying', 'Bug']",,"['Water', 'Electric', 'Grass', 'Ground']","['Fighting', 'Bug', 'Fairy']",['Psychic'],"['Ghost', 'Dark']"
+Taillow,Normal,Flying,['Fighting'],['Ghost'],,"['Electric', 'Ice', 'Rock']",['Ground'],"['Grass', 'Fighting', 'Bug']"
+Swellow,Normal,Flying,['Fighting'],['Ghost'],,"['Electric', 'Ice', 'Rock']",['Ground'],"['Grass', 'Fighting', 'Bug']"
+Wingull,Water,Flying,"['Electric', 'Grass']",,"['Fire', 'Water', 'Ice', 'Steel']","['Electric', 'Ice', 'Rock']",['Ground'],"['Grass', 'Fighting', 'Bug']"
+Pelipper,Water,Flying,"['Electric', 'Grass']",,"['Fire', 'Water', 'Ice', 'Steel']","['Electric', 'Ice', 'Rock']",['Ground'],"['Grass', 'Fighting', 'Bug']"
+Ralts,Psychic,Fairy,"['Bug', 'Ghost', 'Dark']",,"['Fighting', 'Psychic']","['Poison', 'Steel']",['Dragon'],"['Fighting', 'Bug', 'Dark']"
+Kirlia,Psychic,Fairy,"['Bug', 'Ghost', 'Dark']",,"['Fighting', 'Psychic']","['Poison', 'Steel']",['Dragon'],"['Fighting', 'Bug', 'Dark']"
+Gardevoir,Psychic,Fairy,"['Bug', 'Ghost', 'Dark']",,"['Fighting', 'Psychic']","['Poison', 'Steel']",['Dragon'],"['Fighting', 'Bug', 'Dark']"
+Gardevoir Mega  Gardevoir,Psychic,Fairy,"['Bug', 'Ghost', 'Dark']",,"['Fighting', 'Psychic']","['Poison', 'Steel']",['Dragon'],"['Fighting', 'Bug', 'Dark']"
+Surskit,Bug,Water,"['Fire', 'Flying', 'Rock']",,"['Grass', 'Fighting', 'Ground']","['Electric', 'Grass']",,"['Fire', 'Water', 'Ice', 'Steel']"
+Masquerain,Bug,Flying,"['Fire', 'Flying', 'Rock']",,"['Grass', 'Fighting', 'Ground']","['Electric', 'Ice', 'Rock']",['Ground'],"['Grass', 'Fighting', 'Bug']"
+Shroomish,Grass,,"['Fire', 'Ice', 'Poison', 'Flying', 'Bug']",,"['Water', 'Electric', 'Grass', 'Ground']",,,
+Breloom,Grass,Fighting,"['Fire', 'Ice', 'Poison', 'Flying', 'Bug']",,"['Water', 'Electric', 'Grass', 'Ground']","['Flying', 'Psychic', 'Fairy']",,"['Bug', 'Rock', 'Dark']"
+Slakoth,Normal,,['Fighting'],['Ghost'],,,,
+Vigoroth,Normal,,['Fighting'],['Ghost'],,,,
+Slaking,Normal,,['Fighting'],['Ghost'],,,,
+Nincada,Bug,Ground,"['Fire', 'Flying', 'Rock']",,"['Grass', 'Fighting', 'Ground']","['Water', 'Grass', 'Ice']",['Electric'],"['Poison', 'Rock']"
+Ninjask,Bug,Flying,"['Fire', 'Flying', 'Rock']",,"['Grass', 'Fighting', 'Ground']","['Electric', 'Ice', 'Rock']",['Ground'],"['Grass', 'Fighting', 'Bug']"
+Shedinja,Bug,Ghost,"['Fire', 'Flying', 'Rock']",,"['Grass', 'Fighting', 'Ground']","['Ghost', 'Dark']","['Normal', 'Fighting']","['Poison', 'Bug']"
+Whismur,Normal,,['Fighting'],['Ghost'],,,,
+Loudred,Normal,,['Fighting'],['Ghost'],,,,
+Exploud,Normal,,['Fighting'],['Ghost'],,,,
+Makuhita,Fighting,,"['Flying', 'Psychic', 'Fairy']",,"['Bug', 'Rock', 'Dark']",,,
+Hariyama,Fighting,,"['Flying', 'Psychic', 'Fairy']",,"['Bug', 'Rock', 'Dark']",,,
+Azurill,Normal,Fairy,['Fighting'],['Ghost'],,"['Poison', 'Steel']",['Dragon'],"['Fighting', 'Bug', 'Dark']"
+Nosepass,Rock,,"['Water', 'Grass', 'Fighting', 'Ground', 'Steel']",,"['Normal', 'Fire', 'Poison', 'Flying']",,,
+Skitty,Normal,,['Fighting'],['Ghost'],,,,
+Delcatty,Normal,,['Fighting'],['Ghost'],,,,
+Sableye,Dark,Ghost,"['Fighting', 'Bug', 'Fairy']",['Psychic'],"['Ghost', 'Dark']","['Ghost', 'Dark']","['Normal', 'Fighting']","['Poison', 'Bug']"
+Sableye Mega  Sableye,Dark,Ghost,"['Fighting', 'Bug', 'Fairy']",['Psychic'],"['Ghost', 'Dark']","['Ghost', 'Dark']","['Normal', 'Fighting']","['Poison', 'Bug']"
+Mawile,Steel,Fairy,"['Fire', 'Fighting', 'Ground']",['Poison'],"['Normal', 'Grass', 'Ice', 'Flying', 'Psychic', 'Bug', 'Rock', 'Dragon', 'Steel', 'Fairy']","['Poison', 'Steel']",['Dragon'],"['Fighting', 'Bug', 'Dark']"
+Mawile Mega  Mawile,Steel,Fairy,"['Fire', 'Fighting', 'Ground']",['Poison'],"['Normal', 'Grass', 'Ice', 'Flying', 'Psychic', 'Bug', 'Rock', 'Dragon', 'Steel', 'Fairy']","['Poison', 'Steel']",['Dragon'],"['Fighting', 'Bug', 'Dark']"
+Aron,Steel,Rock,"['Fire', 'Fighting', 'Ground']",['Poison'],"['Normal', 'Grass', 'Ice', 'Flying', 'Psychic', 'Bug', 'Rock', 'Dragon', 'Steel', 'Fairy']","['Water', 'Grass', 'Fighting', 'Ground', 'Steel']",,"['Normal', 'Fire', 'Poison', 'Flying']"
+Lairon,Steel,Rock,"['Fire', 'Fighting', 'Ground']",['Poison'],"['Normal', 'Grass', 'Ice', 'Flying', 'Psychic', 'Bug', 'Rock', 'Dragon', 'Steel', 'Fairy']","['Water', 'Grass', 'Fighting', 'Ground', 'Steel']",,"['Normal', 'Fire', 'Poison', 'Flying']"
+Aggron,Steel,Rock,"['Fire', 'Fighting', 'Ground']",['Poison'],"['Normal', 'Grass', 'Ice', 'Flying', 'Psychic', 'Bug', 'Rock', 'Dragon', 'Steel', 'Fairy']","['Water', 'Grass', 'Fighting', 'Ground', 'Steel']",,"['Normal', 'Fire', 'Poison', 'Flying']"
+Aggron Mega  Aggron,Steel,,"['Fire', 'Fighting', 'Ground']",['Poison'],"['Normal', 'Grass', 'Ice', 'Flying', 'Psychic', 'Bug', 'Rock', 'Dragon', 'Steel', 'Fairy']",,,
+Meditite,Fighting,Psychic,"['Flying', 'Psychic', 'Fairy']",,"['Bug', 'Rock', 'Dark']","['Bug', 'Ghost', 'Dark']",,"['Fighting', 'Psychic']"
+Medicham,Fighting,Psychic,"['Flying', 'Psychic', 'Fairy']",,"['Bug', 'Rock', 'Dark']","['Bug', 'Ghost', 'Dark']",,"['Fighting', 'Psychic']"
+Medicham Mega  Medicham,Fighting,Psychic,"['Flying', 'Psychic', 'Fairy']",,"['Bug', 'Rock', 'Dark']","['Bug', 'Ghost', 'Dark']",,"['Fighting', 'Psychic']"
+Electrike,Electric,,['Ground'],,"['Electric', 'Flying', 'Steel']",,,
+Manectric,Electric,,['Ground'],,"['Electric', 'Flying', 'Steel']",,,
+Manectric Mega  Manectric,Electric,,['Ground'],,"['Electric', 'Flying', 'Steel']",,,
+Plusle,Electric,,['Ground'],,"['Electric', 'Flying', 'Steel']",,,
+Minun,Electric,,['Ground'],,"['Electric', 'Flying', 'Steel']",,,
+Volbeat,Bug,,"['Fire', 'Flying', 'Rock']",,"['Grass', 'Fighting', 'Ground']",,,
+Illumise,Bug,,"['Fire', 'Flying', 'Rock']",,"['Grass', 'Fighting', 'Ground']",,,
+Roselia,Grass,Poison,"['Fire', 'Ice', 'Poison', 'Flying', 'Bug']",,"['Water', 'Electric', 'Grass', 'Ground']","['Ground', 'Psychic']",,"['Grass', 'Fighting', 'Poison', 'Bug', 'Fairy']"
+Gulpin,Poison,,"['Ground', 'Psychic']",,"['Grass', 'Fighting', 'Poison', 'Bug', 'Fairy']",,,
+Swalot,Poison,,"['Ground', 'Psychic']",,"['Grass', 'Fighting', 'Poison', 'Bug', 'Fairy']",,,
+Carvanha,Water,Dark,"['Electric', 'Grass']",,"['Fire', 'Water', 'Ice', 'Steel']","['Fighting', 'Bug', 'Fairy']",['Psychic'],"['Ghost', 'Dark']"
+Sharpedo,Water,Dark,"['Electric', 'Grass']",,"['Fire', 'Water', 'Ice', 'Steel']","['Fighting', 'Bug', 'Fairy']",['Psychic'],"['Ghost', 'Dark']"
+Sharpedo Mega  Sharpedo,Water,Dark,"['Electric', 'Grass']",,"['Fire', 'Water', 'Ice', 'Steel']","['Fighting', 'Bug', 'Fairy']",['Psychic'],"['Ghost', 'Dark']"
+Wailmer,Water,,"['Electric', 'Grass']",,"['Fire', 'Water', 'Ice', 'Steel']",,,
+Wailord,Water,,"['Electric', 'Grass']",,"['Fire', 'Water', 'Ice', 'Steel']",,,
+Numel,Fire,Ground,"['Water', 'Ground', 'Rock']",,"['Fire', 'Grass', 'Ice', 'Bug', 'Steel', 'Fairy']","['Water', 'Grass', 'Ice']",['Electric'],"['Poison', 'Rock']"
+Camerupt,Fire,Ground,"['Water', 'Ground', 'Rock']",,"['Fire', 'Grass', 'Ice', 'Bug', 'Steel', 'Fairy']","['Water', 'Grass', 'Ice']",['Electric'],"['Poison', 'Rock']"
+Camerupt Mega  Camerupt,Fire,Ground,"['Water', 'Ground', 'Rock']",,"['Fire', 'Grass', 'Ice', 'Bug', 'Steel', 'Fairy']","['Water', 'Grass', 'Ice']",['Electric'],"['Poison', 'Rock']"
+Torkoal,Fire,,"['Water', 'Ground', 'Rock']",,"['Fire', 'Grass', 'Ice', 'Bug', 'Steel', 'Fairy']",,,
+Spoink,Psychic,,"['Bug', 'Ghost', 'Dark']",,"['Fighting', 'Psychic']",,,
+Grumpig,Psychic,,"['Bug', 'Ghost', 'Dark']",,"['Fighting', 'Psychic']",,,
+Spinda,Normal,,['Fighting'],['Ghost'],,,,
+Trapinch,Ground,,"['Water', 'Grass', 'Ice']",['Electric'],"['Poison', 'Rock']",,,
+Vibrava,Ground,Dragon,"['Water', 'Grass', 'Ice']",['Electric'],"['Poison', 'Rock']","['Ice', 'Dragon', 'Fairy']",,"['Fire', 'Water', 'Electric', 'Grass']"
+Flygon,Ground,Dragon,"['Water', 'Grass', 'Ice']",['Electric'],"['Poison', 'Rock']","['Ice', 'Dragon', 'Fairy']",,"['Fire', 'Water', 'Electric', 'Grass']"
+Cacnea,Grass,,"['Fire', 'Ice', 'Poison', 'Flying', 'Bug']",,"['Water', 'Electric', 'Grass', 'Ground']",,,
+Cacturne,Grass,Dark,"['Fire', 'Ice', 'Poison', 'Flying', 'Bug']",,"['Water', 'Electric', 'Grass', 'Ground']","['Fighting', 'Bug', 'Fairy']",['Psychic'],"['Ghost', 'Dark']"
+Swablu,Normal,Flying,['Fighting'],['Ghost'],,"['Electric', 'Ice', 'Rock']",['Ground'],"['Grass', 'Fighting', 'Bug']"
+Altaria,Dragon,Flying,"['Ice', 'Dragon', 'Fairy']",,"['Fire', 'Water', 'Electric', 'Grass']","['Electric', 'Ice', 'Rock']",['Ground'],"['Grass', 'Fighting', 'Bug']"
+Altaria Mega  Altaria,Dragon,Fairy,"['Ice', 'Dragon', 'Fairy']",,"['Fire', 'Water', 'Electric', 'Grass']","['Poison', 'Steel']",['Dragon'],"['Fighting', 'Bug', 'Dark']"
+Zangoose,Normal,,['Fighting'],['Ghost'],,,,
+Seviper,Poison,,"['Ground', 'Psychic']",,"['Grass', 'Fighting', 'Poison', 'Bug', 'Fairy']",,,
+Lunatone,Rock,Psychic,"['Water', 'Grass', 'Fighting', 'Ground', 'Steel']",,"['Normal', 'Fire', 'Poison', 'Flying']","['Bug', 'Ghost', 'Dark']",,"['Fighting', 'Psychic']"
+Solrock,Rock,Psychic,"['Water', 'Grass', 'Fighting', 'Ground', 'Steel']",,"['Normal', 'Fire', 'Poison', 'Flying']","['Bug', 'Ghost', 'Dark']",,"['Fighting', 'Psychic']"
+Barboach,Water,Ground,"['Electric', 'Grass']",,"['Fire', 'Water', 'Ice', 'Steel']","['Water', 'Grass', 'Ice']",['Electric'],"['Poison', 'Rock']"
+Whiscash,Water,Ground,"['Electric', 'Grass']",,"['Fire', 'Water', 'Ice', 'Steel']","['Water', 'Grass', 'Ice']",['Electric'],"['Poison', 'Rock']"
+Corphish,Water,,"['Electric', 'Grass']",,"['Fire', 'Water', 'Ice', 'Steel']",,,
+Crawdaunt,Water,Dark,"['Electric', 'Grass']",,"['Fire', 'Water', 'Ice', 'Steel']","['Fighting', 'Bug', 'Fairy']",['Psychic'],"['Ghost', 'Dark']"
+Baltoy,Ground,Psychic,"['Water', 'Grass', 'Ice']",['Electric'],"['Poison', 'Rock']","['Bug', 'Ghost', 'Dark']",,"['Fighting', 'Psychic']"
+Claydol,Ground,Psychic,"['Water', 'Grass', 'Ice']",['Electric'],"['Poison', 'Rock']","['Bug', 'Ghost', 'Dark']",,"['Fighting', 'Psychic']"
+Lileep,Rock,Grass,"['Water', 'Grass', 'Fighting', 'Ground', 'Steel']",,"['Normal', 'Fire', 'Poison', 'Flying']","['Fire', 'Ice', 'Poison', 'Flying', 'Bug']",,"['Water', 'Electric', 'Grass', 'Ground']"
+Cradily,Rock,Grass,"['Water', 'Grass', 'Fighting', 'Ground', 'Steel']",,"['Normal', 'Fire', 'Poison', 'Flying']","['Fire', 'Ice', 'Poison', 'Flying', 'Bug']",,"['Water', 'Electric', 'Grass', 'Ground']"
+Anorith,Rock,Bug,"['Water', 'Grass', 'Fighting', 'Ground', 'Steel']",,"['Normal', 'Fire', 'Poison', 'Flying']","['Fire', 'Flying', 'Rock']",,"['Grass', 'Fighting', 'Ground']"
+Armaldo,Rock,Bug,"['Water', 'Grass', 'Fighting', 'Ground', 'Steel']",,"['Normal', 'Fire', 'Poison', 'Flying']","['Fire', 'Flying', 'Rock']",,"['Grass', 'Fighting', 'Ground']"
+Feebas,Water,,"['Electric', 'Grass']",,"['Fire', 'Water', 'Ice', 'Steel']",,,
+Milotic,Water,,"['Electric', 'Grass']",,"['Fire', 'Water', 'Ice', 'Steel']",,,
+Castform,Normal,,['Fighting'],['Ghost'],,,,
+Castform Sunny  Form,Fire,,"['Water', 'Ground', 'Rock']",,"['Fire', 'Grass', 'Ice', 'Bug', 'Steel', 'Fairy']",,,
+Castform Rainy  Form,Water,,"['Electric', 'Grass']",,"['Fire', 'Water', 'Ice', 'Steel']",,,
+Castform Snowy  Form,Ice,,"['Fire', 'Fighting', 'Rock', 'Steel']",,['Ice'],,,
+Kecleon,Normal,,['Fighting'],['Ghost'],,,,
+Shuppet,Ghost,,"['Ghost', 'Dark']","['Normal', 'Fighting']","['Poison', 'Bug']",,,
+Banette,Ghost,,"['Ghost', 'Dark']","['Normal', 'Fighting']","['Poison', 'Bug']",,,
+Banette Mega  Banette,Ghost,,"['Ghost', 'Dark']","['Normal', 'Fighting']","['Poison', 'Bug']",,,
+Duskull,Ghost,,"['Ghost', 'Dark']","['Normal', 'Fighting']","['Poison', 'Bug']",,,
+Dusclops,Ghost,,"['Ghost', 'Dark']","['Normal', 'Fighting']","['Poison', 'Bug']",,,
+Tropius,Grass,Flying,"['Fire', 'Ice', 'Poison', 'Flying', 'Bug']",,"['Water', 'Electric', 'Grass', 'Ground']","['Electric', 'Ice', 'Rock']",['Ground'],"['Grass', 'Fighting', 'Bug']"
+Chimecho,Psychic,,"['Bug', 'Ghost', 'Dark']",,"['Fighting', 'Psychic']",,,
+Absol,Dark,,"['Fighting', 'Bug', 'Fairy']",['Psychic'],"['Ghost', 'Dark']",,,
+Absol Mega  Absol,Dark,,"['Fighting', 'Bug', 'Fairy']",['Psychic'],"['Ghost', 'Dark']",,,
+Wynaut,Psychic,,"['Bug', 'Ghost', 'Dark']",,"['Fighting', 'Psychic']",,,
+Snorunt,Ice,,"['Fire', 'Fighting', 'Rock', 'Steel']",,['Ice'],,,
+Glalie,Ice,,"['Fire', 'Fighting', 'Rock', 'Steel']",,['Ice'],,,
+Glalie Mega  Glalie,Ice,,"['Fire', 'Fighting', 'Rock', 'Steel']",,['Ice'],,,
+Spheal,Ice,Water,"['Fire', 'Fighting', 'Rock', 'Steel']",,['Ice'],"['Electric', 'Grass']",,"['Fire', 'Water', 'Ice', 'Steel']"
+Sealeo,Ice,Water,"['Fire', 'Fighting', 'Rock', 'Steel']",,['Ice'],"['Electric', 'Grass']",,"['Fire', 'Water', 'Ice', 'Steel']"
+Walrein,Ice,Water,"['Fire', 'Fighting', 'Rock', 'Steel']",,['Ice'],"['Electric', 'Grass']",,"['Fire', 'Water', 'Ice', 'Steel']"
+Clamperl,Water,,"['Electric', 'Grass']",,"['Fire', 'Water', 'Ice', 'Steel']",,,
+Huntail,Water,,"['Electric', 'Grass']",,"['Fire', 'Water', 'Ice', 'Steel']",,,
+Gorebyss,Water,,"['Electric', 'Grass']",,"['Fire', 'Water', 'Ice', 'Steel']",,,
+Relicanth,Water,Rock,"['Electric', 'Grass']",,"['Fire', 'Water', 'Ice', 'Steel']","['Water', 'Grass', 'Fighting', 'Ground', 'Steel']",,"['Normal', 'Fire', 'Poison', 'Flying']"
+Luvdisc,Water,,"['Electric', 'Grass']",,"['Fire', 'Water', 'Ice', 'Steel']",,,
+Bagon,Dragon,,"['Ice', 'Dragon', 'Fairy']",,"['Fire', 'Water', 'Electric', 'Grass']",,,
+Shelgon,Dragon,,"['Ice', 'Dragon', 'Fairy']",,"['Fire', 'Water', 'Electric', 'Grass']",,,
+Salamence,Dragon,Flying,"['Ice', 'Dragon', 'Fairy']",,"['Fire', 'Water', 'Electric', 'Grass']","['Electric', 'Ice', 'Rock']",['Ground'],"['Grass', 'Fighting', 'Bug']"
+Salamence Mega  Salamence,Dragon,Flying,"['Ice', 'Dragon', 'Fairy']",,"['Fire', 'Water', 'Electric', 'Grass']","['Electric', 'Ice', 'Rock']",['Ground'],"['Grass', 'Fighting', 'Bug']"
+Beldum,Steel,Psychic,"['Fire', 'Fighting', 'Ground']",['Poison'],"['Normal', 'Grass', 'Ice', 'Flying', 'Psychic', 'Bug', 'Rock', 'Dragon', 'Steel', 'Fairy']","['Bug', 'Ghost', 'Dark']",,"['Fighting', 'Psychic']"
+Metang,Steel,Psychic,"['Fire', 'Fighting', 'Ground']",['Poison'],"['Normal', 'Grass', 'Ice', 'Flying', 'Psychic', 'Bug', 'Rock', 'Dragon', 'Steel', 'Fairy']","['Bug', 'Ghost', 'Dark']",,"['Fighting', 'Psychic']"
+Metagross,Steel,Psychic,"['Fire', 'Fighting', 'Ground']",['Poison'],"['Normal', 'Grass', 'Ice', 'Flying', 'Psychic', 'Bug', 'Rock', 'Dragon', 'Steel', 'Fairy']","['Bug', 'Ghost', 'Dark']",,"['Fighting', 'Psychic']"
+Metagross Mega  Metagross,Steel,Psychic,"['Fire', 'Fighting', 'Ground']",['Poison'],"['Normal', 'Grass', 'Ice', 'Flying', 'Psychic', 'Bug', 'Rock', 'Dragon', 'Steel', 'Fairy']","['Bug', 'Ghost', 'Dark']",,"['Fighting', 'Psychic']"
+Regirock,Rock,,"['Water', 'Grass', 'Fighting', 'Ground', 'Steel']",,"['Normal', 'Fire', 'Poison', 'Flying']",,,
+Regice,Ice,,"['Fire', 'Fighting', 'Rock', 'Steel']",,['Ice'],,,
+Registeel,Steel,,"['Fire', 'Fighting', 'Ground']",['Poison'],"['Normal', 'Grass', 'Ice', 'Flying', 'Psychic', 'Bug', 'Rock', 'Dragon', 'Steel', 'Fairy']",,,
+Latias,Dragon,Psychic,"['Ice', 'Dragon', 'Fairy']",,"['Fire', 'Water', 'Electric', 'Grass']","['Bug', 'Ghost', 'Dark']",,"['Fighting', 'Psychic']"
+Latias Mega  Latias,Dragon,Psychic,"['Ice', 'Dragon', 'Fairy']",,"['Fire', 'Water', 'Electric', 'Grass']","['Bug', 'Ghost', 'Dark']",,"['Fighting', 'Psychic']"
+Latios,Dragon,Psychic,"['Ice', 'Dragon', 'Fairy']",,"['Fire', 'Water', 'Electric', 'Grass']","['Bug', 'Ghost', 'Dark']",,"['Fighting', 'Psychic']"
+Latios Mega  Latios,Dragon,Psychic,"['Ice', 'Dragon', 'Fairy']",,"['Fire', 'Water', 'Electric', 'Grass']","['Bug', 'Ghost', 'Dark']",,"['Fighting', 'Psychic']"
+Kyogre,Water,,"['Electric', 'Grass']",,"['Fire', 'Water', 'Ice', 'Steel']",,,
+Kyogre Primal  Kyogre,Water,,"['Electric', 'Grass']",,"['Fire', 'Water', 'Ice', 'Steel']",,,
+Groudon,Ground,,"['Water', 'Grass', 'Ice']",['Electric'],"['Poison', 'Rock']",,,
+Groudon Primal  Groudon,Ground,Fire,"['Water', 'Grass', 'Ice']",['Electric'],"['Poison', 'Rock']","['Water', 'Ground', 'Rock']",,"['Fire', 'Grass', 'Ice', 'Bug', 'Steel', 'Fairy']"
+Rayquaza,Dragon,Flying,"['Ice', 'Dragon', 'Fairy']",,"['Fire', 'Water', 'Electric', 'Grass']","['Electric', 'Ice', 'Rock']",['Ground'],"['Grass', 'Fighting', 'Bug']"
+Rayquaza Mega  Rayquaza,Dragon,Flying,"['Ice', 'Dragon', 'Fairy']",,"['Fire', 'Water', 'Electric', 'Grass']","['Electric', 'Ice', 'Rock']",['Ground'],"['Grass', 'Fighting', 'Bug']"
+Jirachi,Steel,Psychic,"['Fire', 'Fighting', 'Ground']",['Poison'],"['Normal', 'Grass', 'Ice', 'Flying', 'Psychic', 'Bug', 'Rock', 'Dragon', 'Steel', 'Fairy']","['Bug', 'Ghost', 'Dark']",,"['Fighting', 'Psychic']"
+Deoxys Normal  Forme,Psychic,,"['Bug', 'Ghost', 'Dark']",,"['Fighting', 'Psychic']",,,
+Deoxys Attack  Forme,Psychic,,"['Bug', 'Ghost', 'Dark']",,"['Fighting', 'Psychic']",,,
+Deoxys Defense  Forme,Psychic,,"['Bug', 'Ghost', 'Dark']",,"['Fighting', 'Psychic']",,,
+Deoxys Speed  Forme,Psychic,,"['Bug', 'Ghost', 'Dark']",,"['Fighting', 'Psychic']",,,
+Turtwig,Grass,,"['Fire', 'Ice', 'Poison', 'Flying', 'Bug']",,"['Water', 'Electric', 'Grass', 'Ground']",,,
+Grotle,Grass,,"['Fire', 'Ice', 'Poison', 'Flying', 'Bug']",,"['Water', 'Electric', 'Grass', 'Ground']",,,
+Torterra,Grass,Ground,"['Fire', 'Ice', 'Poison', 'Flying', 'Bug']",,"['Water', 'Electric', 'Grass', 'Ground']","['Water', 'Grass', 'Ice']",['Electric'],"['Poison', 'Rock']"
+Chimchar,Fire,,"['Water', 'Ground', 'Rock']",,"['Fire', 'Grass', 'Ice', 'Bug', 'Steel', 'Fairy']",,,
+Monferno,Fire,Fighting,"['Water', 'Ground', 'Rock']",,"['Fire', 'Grass', 'Ice', 'Bug', 'Steel', 'Fairy']","['Flying', 'Psychic', 'Fairy']",,"['Bug', 'Rock', 'Dark']"
+Infernape,Fire,Fighting,"['Water', 'Ground', 'Rock']",,"['Fire', 'Grass', 'Ice', 'Bug', 'Steel', 'Fairy']","['Flying', 'Psychic', 'Fairy']",,"['Bug', 'Rock', 'Dark']"
+Piplup,Water,,"['Electric', 'Grass']",,"['Fire', 'Water', 'Ice', 'Steel']",,,
+Prinplup,Water,,"['Electric', 'Grass']",,"['Fire', 'Water', 'Ice', 'Steel']",,,
+Empoleon,Water,Steel,"['Electric', 'Grass']",,"['Fire', 'Water', 'Ice', 'Steel']","['Fire', 'Fighting', 'Ground']",['Poison'],"['Normal', 'Grass', 'Ice', 'Flying', 'Psychic', 'Bug', 'Rock', 'Dragon', 'Steel', 'Fairy']"
+Starly,Normal,Flying,['Fighting'],['Ghost'],,"['Electric', 'Ice', 'Rock']",['Ground'],"['Grass', 'Fighting', 'Bug']"
+Staravia,Normal,Flying,['Fighting'],['Ghost'],,"['Electric', 'Ice', 'Rock']",['Ground'],"['Grass', 'Fighting', 'Bug']"
+Staraptor,Normal,Flying,['Fighting'],['Ghost'],,"['Electric', 'Ice', 'Rock']",['Ground'],"['Grass', 'Fighting', 'Bug']"
+Bidoof,Normal,,['Fighting'],['Ghost'],,,,
+Bibarel,Normal,Water,['Fighting'],['Ghost'],,"['Electric', 'Grass']",,"['Fire', 'Water', 'Ice', 'Steel']"
+Kricketot,Bug,,"['Fire', 'Flying', 'Rock']",,"['Grass', 'Fighting', 'Ground']",,,
+Kricketune,Bug,,"['Fire', 'Flying', 'Rock']",,"['Grass', 'Fighting', 'Ground']",,,
+Shinx,Electric,,['Ground'],,"['Electric', 'Flying', 'Steel']",,,
+Luxio,Electric,,['Ground'],,"['Electric', 'Flying', 'Steel']",,,
+Luxray,Electric,,['Ground'],,"['Electric', 'Flying', 'Steel']",,,
+Budew,Grass,Poison,"['Fire', 'Ice', 'Poison', 'Flying', 'Bug']",,"['Water', 'Electric', 'Grass', 'Ground']","['Ground', 'Psychic']",,"['Grass', 'Fighting', 'Poison', 'Bug', 'Fairy']"
+Roserade,Grass,Poison,"['Fire', 'Ice', 'Poison', 'Flying', 'Bug']",,"['Water', 'Electric', 'Grass', 'Ground']","['Ground', 'Psychic']",,"['Grass', 'Fighting', 'Poison', 'Bug', 'Fairy']"
+Cranidos,Rock,,"['Water', 'Grass', 'Fighting', 'Ground', 'Steel']",,"['Normal', 'Fire', 'Poison', 'Flying']",,,
+Rampardos,Rock,,"['Water', 'Grass', 'Fighting', 'Ground', 'Steel']",,"['Normal', 'Fire', 'Poison', 'Flying']",,,
+Shieldon,Rock,Steel,"['Water', 'Grass', 'Fighting', 'Ground', 'Steel']",,"['Normal', 'Fire', 'Poison', 'Flying']","['Fire', 'Fighting', 'Ground']",['Poison'],"['Normal', 'Grass', 'Ice', 'Flying', 'Psychic', 'Bug', 'Rock', 'Dragon', 'Steel', 'Fairy']"
+Bastiodon,Rock,Steel,"['Water', 'Grass', 'Fighting', 'Ground', 'Steel']",,"['Normal', 'Fire', 'Poison', 'Flying']","['Fire', 'Fighting', 'Ground']",['Poison'],"['Normal', 'Grass', 'Ice', 'Flying', 'Psychic', 'Bug', 'Rock', 'Dragon', 'Steel', 'Fairy']"
+Burmy Plant  Cloak,Bug,,"['Fire', 'Flying', 'Rock']",,"['Grass', 'Fighting', 'Ground']",,,
+Burmy Sandy  Cloak,Bug,,"['Fire', 'Flying', 'Rock']",,"['Grass', 'Fighting', 'Ground']",,,
+Burmy Trash  Cloak,Bug,,"['Fire', 'Flying', 'Rock']",,"['Grass', 'Fighting', 'Ground']",,,
+Wormadam Plant  Cloak,Bug,Grass,"['Fire', 'Flying', 'Rock']",,"['Grass', 'Fighting', 'Ground']","['Fire', 'Ice', 'Poison', 'Flying', 'Bug']",,"['Water', 'Electric', 'Grass', 'Ground']"
+Wormadam Sandy  Cloak,Bug,Ground,"['Fire', 'Flying', 'Rock']",,"['Grass', 'Fighting', 'Ground']","['Water', 'Grass', 'Ice']",['Electric'],"['Poison', 'Rock']"
+Wormadam Trash  Cloak,Bug,Steel,"['Fire', 'Flying', 'Rock']",,"['Grass', 'Fighting', 'Ground']","['Fire', 'Fighting', 'Ground']",['Poison'],"['Normal', 'Grass', 'Ice', 'Flying', 'Psychic', 'Bug', 'Rock', 'Dragon', 'Steel', 'Fairy']"
+Mothim,Bug,Flying,"['Fire', 'Flying', 'Rock']",,"['Grass', 'Fighting', 'Ground']","['Electric', 'Ice', 'Rock']",['Ground'],"['Grass', 'Fighting', 'Bug']"
+Combee,Bug,Flying,"['Fire', 'Flying', 'Rock']",,"['Grass', 'Fighting', 'Ground']","['Electric', 'Ice', 'Rock']",['Ground'],"['Grass', 'Fighting', 'Bug']"
+Vespiquen,Bug,Flying,"['Fire', 'Flying', 'Rock']",,"['Grass', 'Fighting', 'Ground']","['Electric', 'Ice', 'Rock']",['Ground'],"['Grass', 'Fighting', 'Bug']"
+Pachirisu,Electric,,['Ground'],,"['Electric', 'Flying', 'Steel']",,,
+Buizel,Water,,"['Electric', 'Grass']",,"['Fire', 'Water', 'Ice', 'Steel']",,,
+Floatzel,Water,,"['Electric', 'Grass']",,"['Fire', 'Water', 'Ice', 'Steel']",,,
+Cherubi,Grass,,"['Fire', 'Ice', 'Poison', 'Flying', 'Bug']",,"['Water', 'Electric', 'Grass', 'Ground']",,,
+Cherrim,Grass,,"['Fire', 'Ice', 'Poison', 'Flying', 'Bug']",,"['Water', 'Electric', 'Grass', 'Ground']",,,
+Shellos,Water,,"['Electric', 'Grass']",,"['Fire', 'Water', 'Ice', 'Steel']",,,
+Gastrodon,Water,Ground,"['Electric', 'Grass']",,"['Fire', 'Water', 'Ice', 'Steel']","['Water', 'Grass', 'Ice']",['Electric'],"['Poison', 'Rock']"
+Ambipom,Normal,,['Fighting'],['Ghost'],,,,
+Drifloon,Ghost,Flying,"['Ghost', 'Dark']","['Normal', 'Fighting']","['Poison', 'Bug']","['Electric', 'Ice', 'Rock']",['Ground'],"['Grass', 'Fighting', 'Bug']"
+Drifblim,Ghost,Flying,"['Ghost', 'Dark']","['Normal', 'Fighting']","['Poison', 'Bug']","['Electric', 'Ice', 'Rock']",['Ground'],"['Grass', 'Fighting', 'Bug']"
+Buneary,Normal,,['Fighting'],['Ghost'],,,,
+Lopunny,Normal,,['Fighting'],['Ghost'],,,,
+Lopunny Mega  Lopunny,Normal,Fighting,['Fighting'],['Ghost'],,"['Flying', 'Psychic', 'Fairy']",,"['Bug', 'Rock', 'Dark']"
+Mismagius,Ghost,,"['Ghost', 'Dark']","['Normal', 'Fighting']","['Poison', 'Bug']",,,
+Honchkrow,Dark,Flying,"['Fighting', 'Bug', 'Fairy']",['Psychic'],"['Ghost', 'Dark']","['Electric', 'Ice', 'Rock']",['Ground'],"['Grass', 'Fighting', 'Bug']"
+Glameow,Normal,,['Fighting'],['Ghost'],,,,
+Purugly,Normal,,['Fighting'],['Ghost'],,,,
+Chingling,Psychic,,"['Bug', 'Ghost', 'Dark']",,"['Fighting', 'Psychic']",,,
+Stunky,Poison,Dark,"['Ground', 'Psychic']",,"['Grass', 'Fighting', 'Poison', 'Bug', 'Fairy']","['Fighting', 'Bug', 'Fairy']",['Psychic'],"['Ghost', 'Dark']"
+Skuntank,Poison,Dark,"['Ground', 'Psychic']",,"['Grass', 'Fighting', 'Poison', 'Bug', 'Fairy']","['Fighting', 'Bug', 'Fairy']",['Psychic'],"['Ghost', 'Dark']"
+Bronzor,Steel,Psychic,"['Fire', 'Fighting', 'Ground']",['Poison'],"['Normal', 'Grass', 'Ice', 'Flying', 'Psychic', 'Bug', 'Rock', 'Dragon', 'Steel', 'Fairy']","['Bug', 'Ghost', 'Dark']",,"['Fighting', 'Psychic']"
+Bronzong,Steel,Psychic,"['Fire', 'Fighting', 'Ground']",['Poison'],"['Normal', 'Grass', 'Ice', 'Flying', 'Psychic', 'Bug', 'Rock', 'Dragon', 'Steel', 'Fairy']","['Bug', 'Ghost', 'Dark']",,"['Fighting', 'Psychic']"
+Bonsly,Rock,,"['Water', 'Grass', 'Fighting', 'Ground', 'Steel']",,"['Normal', 'Fire', 'Poison', 'Flying']",,,
+Mime  Jr.,Psychic,Fairy,"['Bug', 'Ghost', 'Dark']",,"['Fighting', 'Psychic']","['Poison', 'Steel']",['Dragon'],"['Fighting', 'Bug', 'Dark']"
+Happiny,Normal,,['Fighting'],['Ghost'],,,,
+Chatot,Normal,Flying,['Fighting'],['Ghost'],,"['Electric', 'Ice', 'Rock']",['Ground'],"['Grass', 'Fighting', 'Bug']"
+Spiritomb,Ghost,Dark,"['Ghost', 'Dark']","['Normal', 'Fighting']","['Poison', 'Bug']","['Fighting', 'Bug', 'Fairy']",['Psychic'],"['Ghost', 'Dark']"
+Gible,Dragon,Ground,"['Ice', 'Dragon', 'Fairy']",,"['Fire', 'Water', 'Electric', 'Grass']","['Water', 'Grass', 'Ice']",['Electric'],"['Poison', 'Rock']"
+Gabite,Dragon,Ground,"['Ice', 'Dragon', 'Fairy']",,"['Fire', 'Water', 'Electric', 'Grass']","['Water', 'Grass', 'Ice']",['Electric'],"['Poison', 'Rock']"
+Garchomp,Dragon,Ground,"['Ice', 'Dragon', 'Fairy']",,"['Fire', 'Water', 'Electric', 'Grass']","['Water', 'Grass', 'Ice']",['Electric'],"['Poison', 'Rock']"
+Garchomp Mega  Garchomp,Dragon,Ground,"['Ice', 'Dragon', 'Fairy']",,"['Fire', 'Water', 'Electric', 'Grass']","['Water', 'Grass', 'Ice']",['Electric'],"['Poison', 'Rock']"
+Munchlax,Normal,,['Fighting'],['Ghost'],,,,
+Riolu,Fighting,,"['Flying', 'Psychic', 'Fairy']",,"['Bug', 'Rock', 'Dark']",,,
+Lucario,Fighting,Steel,"['Flying', 'Psychic', 'Fairy']",,"['Bug', 'Rock', 'Dark']","['Fire', 'Fighting', 'Ground']",['Poison'],"['Normal', 'Grass', 'Ice', 'Flying', 'Psychic', 'Bug', 'Rock', 'Dragon', 'Steel', 'Fairy']"
+Lucario Mega  Lucario,Fighting,Steel,"['Flying', 'Psychic', 'Fairy']",,"['Bug', 'Rock', 'Dark']","['Fire', 'Fighting', 'Ground']",['Poison'],"['Normal', 'Grass', 'Ice', 'Flying', 'Psychic', 'Bug', 'Rock', 'Dragon', 'Steel', 'Fairy']"
+Hippopotas,Ground,,"['Water', 'Grass', 'Ice']",['Electric'],"['Poison', 'Rock']",,,
+Hippowdon,Ground,,"['Water', 'Grass', 'Ice']",['Electric'],"['Poison', 'Rock']",,,
+Skorupi,Poison,Bug,"['Ground', 'Psychic']",,"['Grass', 'Fighting', 'Poison', 'Bug', 'Fairy']","['Fire', 'Flying', 'Rock']",,"['Grass', 'Fighting', 'Ground']"
+Drapion,Poison,Dark,"['Ground', 'Psychic']",,"['Grass', 'Fighting', 'Poison', 'Bug', 'Fairy']","['Fighting', 'Bug', 'Fairy']",['Psychic'],"['Ghost', 'Dark']"
+Croagunk,Poison,Fighting,"['Ground', 'Psychic']",,"['Grass', 'Fighting', 'Poison', 'Bug', 'Fairy']","['Flying', 'Psychic', 'Fairy']",,"['Bug', 'Rock', 'Dark']"
+Toxicroak,Poison,Fighting,"['Ground', 'Psychic']",,"['Grass', 'Fighting', 'Poison', 'Bug', 'Fairy']","['Flying', 'Psychic', 'Fairy']",,"['Bug', 'Rock', 'Dark']"
+Carnivine,Grass,,"['Fire', 'Ice', 'Poison', 'Flying', 'Bug']",,"['Water', 'Electric', 'Grass', 'Ground']",,,
+Finneon,Water,,"['Electric', 'Grass']",,"['Fire', 'Water', 'Ice', 'Steel']",,,
+Lumineon,Water,,"['Electric', 'Grass']",,"['Fire', 'Water', 'Ice', 'Steel']",,,
+Mantyke,Water,Flying,"['Electric', 'Grass']",,"['Fire', 'Water', 'Ice', 'Steel']","['Electric', 'Ice', 'Rock']",['Ground'],"['Grass', 'Fighting', 'Bug']"
+Snover,Grass,Ice,"['Fire', 'Ice', 'Poison', 'Flying', 'Bug']",,"['Water', 'Electric', 'Grass', 'Ground']","['Fire', 'Fighting', 'Rock', 'Steel']",,['Ice']
+Abomasnow,Grass,Ice,"['Fire', 'Ice', 'Poison', 'Flying', 'Bug']",,"['Water', 'Electric', 'Grass', 'Ground']","['Fire', 'Fighting', 'Rock', 'Steel']",,['Ice']
+Abomasnow Mega  Abomasnow,Grass,Ice,"['Fire', 'Ice', 'Poison', 'Flying', 'Bug']",,"['Water', 'Electric', 'Grass', 'Ground']","['Fire', 'Fighting', 'Rock', 'Steel']",,['Ice']
+Weavile,Dark,Ice,"['Fighting', 'Bug', 'Fairy']",['Psychic'],"['Ghost', 'Dark']","['Fire', 'Fighting', 'Rock', 'Steel']",,['Ice']
+Magnezone,Electric,Steel,['Ground'],,"['Electric', 'Flying', 'Steel']","['Fire', 'Fighting', 'Ground']",['Poison'],"['Normal', 'Grass', 'Ice', 'Flying', 'Psychic', 'Bug', 'Rock', 'Dragon', 'Steel', 'Fairy']"
+Lickilicky,Normal,,['Fighting'],['Ghost'],,,,
+Rhyperior,Ground,Rock,"['Water', 'Grass', 'Ice']",['Electric'],"['Poison', 'Rock']","['Water', 'Grass', 'Fighting', 'Ground', 'Steel']",,"['Normal', 'Fire', 'Poison', 'Flying']"
+Tangrowth,Grass,,"['Fire', 'Ice', 'Poison', 'Flying', 'Bug']",,"['Water', 'Electric', 'Grass', 'Ground']",,,
+Electivire,Electric,,['Ground'],,"['Electric', 'Flying', 'Steel']",,,
+Magmortar,Fire,,"['Water', 'Ground', 'Rock']",,"['Fire', 'Grass', 'Ice', 'Bug', 'Steel', 'Fairy']",,,
+Togekiss,Fairy,Flying,"['Poison', 'Steel']",['Dragon'],"['Fighting', 'Bug', 'Dark']","['Electric', 'Ice', 'Rock']",['Ground'],"['Grass', 'Fighting', 'Bug']"
+Yanmega,Bug,Flying,"['Fire', 'Flying', 'Rock']",,"['Grass', 'Fighting', 'Ground']","['Electric', 'Ice', 'Rock']",['Ground'],"['Grass', 'Fighting', 'Bug']"
+Leafeon,Grass,,"['Fire', 'Ice', 'Poison', 'Flying', 'Bug']",,"['Water', 'Electric', 'Grass', 'Ground']",,,
+Glaceon,Ice,,"['Fire', 'Fighting', 'Rock', 'Steel']",,['Ice'],,,
+Gliscor,Ground,Flying,"['Water', 'Grass', 'Ice']",['Electric'],"['Poison', 'Rock']","['Electric', 'Ice', 'Rock']",['Ground'],"['Grass', 'Fighting', 'Bug']"
+Mamoswine,Ice,Ground,"['Fire', 'Fighting', 'Rock', 'Steel']",,['Ice'],"['Water', 'Grass', 'Ice']",['Electric'],"['Poison', 'Rock']"
+Porygon- Z,Normal,,['Fighting'],['Ghost'],,,,
+Gallade,Psychic,Fighting,"['Bug', 'Ghost', 'Dark']",,"['Fighting', 'Psychic']","['Flying', 'Psychic', 'Fairy']",,"['Bug', 'Rock', 'Dark']"
+Gallade Mega  Gallade,Psychic,Fighting,"['Bug', 'Ghost', 'Dark']",,"['Fighting', 'Psychic']","['Flying', 'Psychic', 'Fairy']",,"['Bug', 'Rock', 'Dark']"
+Probopass,Rock,Steel,"['Water', 'Grass', 'Fighting', 'Ground', 'Steel']",,"['Normal', 'Fire', 'Poison', 'Flying']","['Fire', 'Fighting', 'Ground']",['Poison'],"['Normal', 'Grass', 'Ice', 'Flying', 'Psychic', 'Bug', 'Rock', 'Dragon', 'Steel', 'Fairy']"
+Dusknoir,Ghost,,"['Ghost', 'Dark']","['Normal', 'Fighting']","['Poison', 'Bug']",,,
+Froslass,Ice,Ghost,"['Fire', 'Fighting', 'Rock', 'Steel']",,['Ice'],"['Ghost', 'Dark']","['Normal', 'Fighting']","['Poison', 'Bug']"
+Rotom,Electric,Ghost,['Ground'],,"['Electric', 'Flying', 'Steel']","['Ghost', 'Dark']","['Normal', 'Fighting']","['Poison', 'Bug']"
+Rotom Heat  Rotom,Electric,Fire,['Ground'],,"['Electric', 'Flying', 'Steel']","['Water', 'Ground', 'Rock']",,"['Fire', 'Grass', 'Ice', 'Bug', 'Steel', 'Fairy']"
+Rotom Wash  Rotom,Electric,Water,['Ground'],,"['Electric', 'Flying', 'Steel']","['Electric', 'Grass']",,"['Fire', 'Water', 'Ice', 'Steel']"
+Rotom Frost  Rotom,Electric,Ice,['Ground'],,"['Electric', 'Flying', 'Steel']","['Fire', 'Fighting', 'Rock', 'Steel']",,['Ice']
+Rotom Fan  Rotom,Electric,Flying,['Ground'],,"['Electric', 'Flying', 'Steel']","['Electric', 'Ice', 'Rock']",['Ground'],"['Grass', 'Fighting', 'Bug']"
+Rotom Mow  Rotom,Electric,Grass,['Ground'],,"['Electric', 'Flying', 'Steel']","['Fire', 'Ice', 'Poison', 'Flying', 'Bug']",,"['Water', 'Electric', 'Grass', 'Ground']"
+Uxie,Psychic,,"['Bug', 'Ghost', 'Dark']",,"['Fighting', 'Psychic']",,,
+Mesprit,Psychic,,"['Bug', 'Ghost', 'Dark']",,"['Fighting', 'Psychic']",,,
+Azelf,Psychic,,"['Bug', 'Ghost', 'Dark']",,"['Fighting', 'Psychic']",,,
+Dialga,Steel,Dragon,"['Fire', 'Fighting', 'Ground']",['Poison'],"['Normal', 'Grass', 'Ice', 'Flying', 'Psychic', 'Bug', 'Rock', 'Dragon', 'Steel', 'Fairy']","['Ice', 'Dragon', 'Fairy']",,"['Fire', 'Water', 'Electric', 'Grass']"
+Dialga Origin  Forme,Steel,Dragon,"['Fire', 'Fighting', 'Ground']",['Poison'],"['Normal', 'Grass', 'Ice', 'Flying', 'Psychic', 'Bug', 'Rock', 'Dragon', 'Steel', 'Fairy']","['Ice', 'Dragon', 'Fairy']",,"['Fire', 'Water', 'Electric', 'Grass']"
+Palkia,Water,Dragon,"['Electric', 'Grass']",,"['Fire', 'Water', 'Ice', 'Steel']","['Ice', 'Dragon', 'Fairy']",,"['Fire', 'Water', 'Electric', 'Grass']"
+Palkia Origin  Forme,Water,Dragon,"['Electric', 'Grass']",,"['Fire', 'Water', 'Ice', 'Steel']","['Ice', 'Dragon', 'Fairy']",,"['Fire', 'Water', 'Electric', 'Grass']"
+Heatran,Fire,Steel,"['Water', 'Ground', 'Rock']",,"['Fire', 'Grass', 'Ice', 'Bug', 'Steel', 'Fairy']","['Fire', 'Fighting', 'Ground']",['Poison'],"['Normal', 'Grass', 'Ice', 'Flying', 'Psychic', 'Bug', 'Rock', 'Dragon', 'Steel', 'Fairy']"
+Regigigas,Normal,,['Fighting'],['Ghost'],,,,
+Giratina Altered  Forme,Ghost,Dragon,"['Ghost', 'Dark']","['Normal', 'Fighting']","['Poison', 'Bug']","['Ice', 'Dragon', 'Fairy']",,"['Fire', 'Water', 'Electric', 'Grass']"
+Giratina Origin  Forme,Ghost,Dragon,"['Ghost', 'Dark']","['Normal', 'Fighting']","['Poison', 'Bug']","['Ice', 'Dragon', 'Fairy']",,"['Fire', 'Water', 'Electric', 'Grass']"
+Cresselia,Psychic,,"['Bug', 'Ghost', 'Dark']",,"['Fighting', 'Psychic']",,,
+Phione,Water,,"['Electric', 'Grass']",,"['Fire', 'Water', 'Ice', 'Steel']",,,
+Manaphy,Water,,"['Electric', 'Grass']",,"['Fire', 'Water', 'Ice', 'Steel']",,,
+Darkrai,Dark,,"['Fighting', 'Bug', 'Fairy']",['Psychic'],"['Ghost', 'Dark']",,,
+Shaymin Land  Forme,Grass,,"['Fire', 'Ice', 'Poison', 'Flying', 'Bug']",,"['Water', 'Electric', 'Grass', 'Ground']",,,
+Shaymin Sky  Forme,Grass,Flying,"['Fire', 'Ice', 'Poison', 'Flying', 'Bug']",,"['Water', 'Electric', 'Grass', 'Ground']","['Electric', 'Ice', 'Rock']",['Ground'],"['Grass', 'Fighting', 'Bug']"
+Arceus,Normal,,['Fighting'],['Ghost'],,,,
+Victini,Psychic,Fire,"['Bug', 'Ghost', 'Dark']",,"['Fighting', 'Psychic']","['Water', 'Ground', 'Rock']",,"['Fire', 'Grass', 'Ice', 'Bug', 'Steel', 'Fairy']"
+Snivy,Grass,,"['Fire', 'Ice', 'Poison', 'Flying', 'Bug']",,"['Water', 'Electric', 'Grass', 'Ground']",,,
+Servine,Grass,,"['Fire', 'Ice', 'Poison', 'Flying', 'Bug']",,"['Water', 'Electric', 'Grass', 'Ground']",,,
+Serperior,Grass,,"['Fire', 'Ice', 'Poison', 'Flying', 'Bug']",,"['Water', 'Electric', 'Grass', 'Ground']",,,
+Tepig,Fire,,"['Water', 'Ground', 'Rock']",,"['Fire', 'Grass', 'Ice', 'Bug', 'Steel', 'Fairy']",,,
+Pignite,Fire,Fighting,"['Water', 'Ground', 'Rock']",,"['Fire', 'Grass', 'Ice', 'Bug', 'Steel', 'Fairy']","['Flying', 'Psychic', 'Fairy']",,"['Bug', 'Rock', 'Dark']"
+Emboar,Fire,Fighting,"['Water', 'Ground', 'Rock']",,"['Fire', 'Grass', 'Ice', 'Bug', 'Steel', 'Fairy']","['Flying', 'Psychic', 'Fairy']",,"['Bug', 'Rock', 'Dark']"
+Oshawott,Water,,"['Electric', 'Grass']",,"['Fire', 'Water', 'Ice', 'Steel']",,,
+Dewott,Water,,"['Electric', 'Grass']",,"['Fire', 'Water', 'Ice', 'Steel']",,,
+Samurott,Water,,"['Electric', 'Grass']",,"['Fire', 'Water', 'Ice', 'Steel']",,,
+Samurott Hisuian  Samurott,Water,Dark,"['Electric', 'Grass']",,"['Fire', 'Water', 'Ice', 'Steel']","['Fighting', 'Bug', 'Fairy']",['Psychic'],"['Ghost', 'Dark']"
+Patrat,Normal,,['Fighting'],['Ghost'],,,,
+Watchog,Normal,,['Fighting'],['Ghost'],,,,
+Lillipup,Normal,,['Fighting'],['Ghost'],,,,
+Herdier,Normal,,['Fighting'],['Ghost'],,,,
+Stoutland,Normal,,['Fighting'],['Ghost'],,,,
+Purrloin,Dark,,"['Fighting', 'Bug', 'Fairy']",['Psychic'],"['Ghost', 'Dark']",,,
+Liepard,Dark,,"['Fighting', 'Bug', 'Fairy']",['Psychic'],"['Ghost', 'Dark']",,,
+Pansage,Grass,,"['Fire', 'Ice', 'Poison', 'Flying', 'Bug']",,"['Water', 'Electric', 'Grass', 'Ground']",,,
+Simisage,Grass,,"['Fire', 'Ice', 'Poison', 'Flying', 'Bug']",,"['Water', 'Electric', 'Grass', 'Ground']",,,
+Pansear,Fire,,"['Water', 'Ground', 'Rock']",,"['Fire', 'Grass', 'Ice', 'Bug', 'Steel', 'Fairy']",,,
+Simisear,Fire,,"['Water', 'Ground', 'Rock']",,"['Fire', 'Grass', 'Ice', 'Bug', 'Steel', 'Fairy']",,,
+Panpour,Water,,"['Electric', 'Grass']",,"['Fire', 'Water', 'Ice', 'Steel']",,,
+Simipour,Water,,"['Electric', 'Grass']",,"['Fire', 'Water', 'Ice', 'Steel']",,,
+Munna,Psychic,,"['Bug', 'Ghost', 'Dark']",,"['Fighting', 'Psychic']",,,
+Musharna,Psychic,,"['Bug', 'Ghost', 'Dark']",,"['Fighting', 'Psychic']",,,
+Pidove,Normal,Flying,['Fighting'],['Ghost'],,"['Electric', 'Ice', 'Rock']",['Ground'],"['Grass', 'Fighting', 'Bug']"
+Tranquill,Normal,Flying,['Fighting'],['Ghost'],,"['Electric', 'Ice', 'Rock']",['Ground'],"['Grass', 'Fighting', 'Bug']"
+Unfezant,Normal,Flying,['Fighting'],['Ghost'],,"['Electric', 'Ice', 'Rock']",['Ground'],"['Grass', 'Fighting', 'Bug']"
+Blitzle,Electric,,['Ground'],,"['Electric', 'Flying', 'Steel']",,,
+Zebstrika,Electric,,['Ground'],,"['Electric', 'Flying', 'Steel']",,,
+Roggenrola,Rock,,"['Water', 'Grass', 'Fighting', 'Ground', 'Steel']",,"['Normal', 'Fire', 'Poison', 'Flying']",,,
+Boldore,Rock,,"['Water', 'Grass', 'Fighting', 'Ground', 'Steel']",,"['Normal', 'Fire', 'Poison', 'Flying']",,,
+Gigalith,Rock,,"['Water', 'Grass', 'Fighting', 'Ground', 'Steel']",,"['Normal', 'Fire', 'Poison', 'Flying']",,,
+Woobat,Psychic,Flying,"['Bug', 'Ghost', 'Dark']",,"['Fighting', 'Psychic']","['Electric', 'Ice', 'Rock']",['Ground'],"['Grass', 'Fighting', 'Bug']"
+Swoobat,Psychic,Flying,"['Bug', 'Ghost', 'Dark']",,"['Fighting', 'Psychic']","['Electric', 'Ice', 'Rock']",['Ground'],"['Grass', 'Fighting', 'Bug']"
+Drilbur,Ground,,"['Water', 'Grass', 'Ice']",['Electric'],"['Poison', 'Rock']",,,
+Excadrill,Ground,Steel,"['Water', 'Grass', 'Ice']",['Electric'],"['Poison', 'Rock']","['Fire', 'Fighting', 'Ground']",['Poison'],"['Normal', 'Grass', 'Ice', 'Flying', 'Psychic', 'Bug', 'Rock', 'Dragon', 'Steel', 'Fairy']"
+Audino,Normal,,['Fighting'],['Ghost'],,,,
+Audino Mega  Audino,Normal,Fairy,['Fighting'],['Ghost'],,"['Poison', 'Steel']",['Dragon'],"['Fighting', 'Bug', 'Dark']"
+Timburr,Fighting,,"['Flying', 'Psychic', 'Fairy']",,"['Bug', 'Rock', 'Dark']",,,
+Gurdurr,Fighting,,"['Flying', 'Psychic', 'Fairy']",,"['Bug', 'Rock', 'Dark']",,,
+Conkeldurr,Fighting,,"['Flying', 'Psychic', 'Fairy']",,"['Bug', 'Rock', 'Dark']",,,
+Tympole,Water,,"['Electric', 'Grass']",,"['Fire', 'Water', 'Ice', 'Steel']",,,
+Palpitoad,Water,Ground,"['Electric', 'Grass']",,"['Fire', 'Water', 'Ice', 'Steel']","['Water', 'Grass', 'Ice']",['Electric'],"['Poison', 'Rock']"
+Seismitoad,Water,Ground,"['Electric', 'Grass']",,"['Fire', 'Water', 'Ice', 'Steel']","['Water', 'Grass', 'Ice']",['Electric'],"['Poison', 'Rock']"
+Throh,Fighting,,"['Flying', 'Psychic', 'Fairy']",,"['Bug', 'Rock', 'Dark']",,,
+Sawk,Fighting,,"['Flying', 'Psychic', 'Fairy']",,"['Bug', 'Rock', 'Dark']",,,
+Sewaddle,Bug,Grass,"['Fire', 'Flying', 'Rock']",,"['Grass', 'Fighting', 'Ground']","['Fire', 'Ice', 'Poison', 'Flying', 'Bug']",,"['Water', 'Electric', 'Grass', 'Ground']"
+Swadloon,Bug,Grass,"['Fire', 'Flying', 'Rock']",,"['Grass', 'Fighting', 'Ground']","['Fire', 'Ice', 'Poison', 'Flying', 'Bug']",,"['Water', 'Electric', 'Grass', 'Ground']"
+Leavanny,Bug,Grass,"['Fire', 'Flying', 'Rock']",,"['Grass', 'Fighting', 'Ground']","['Fire', 'Ice', 'Poison', 'Flying', 'Bug']",,"['Water', 'Electric', 'Grass', 'Ground']"
+Venipede,Bug,Poison,"['Fire', 'Flying', 'Rock']",,"['Grass', 'Fighting', 'Ground']","['Ground', 'Psychic']",,"['Grass', 'Fighting', 'Poison', 'Bug', 'Fairy']"
+Whirlipede,Bug,Poison,"['Fire', 'Flying', 'Rock']",,"['Grass', 'Fighting', 'Ground']","['Ground', 'Psychic']",,"['Grass', 'Fighting', 'Poison', 'Bug', 'Fairy']"
+Scolipede,Bug,Poison,"['Fire', 'Flying', 'Rock']",,"['Grass', 'Fighting', 'Ground']","['Ground', 'Psychic']",,"['Grass', 'Fighting', 'Poison', 'Bug', 'Fairy']"
+Cottonee,Grass,Fairy,"['Fire', 'Ice', 'Poison', 'Flying', 'Bug']",,"['Water', 'Electric', 'Grass', 'Ground']","['Poison', 'Steel']",['Dragon'],"['Fighting', 'Bug', 'Dark']"
+Whimsicott,Grass,Fairy,"['Fire', 'Ice', 'Poison', 'Flying', 'Bug']",,"['Water', 'Electric', 'Grass', 'Ground']","['Poison', 'Steel']",['Dragon'],"['Fighting', 'Bug', 'Dark']"
+Petilil,Grass,,"['Fire', 'Ice', 'Poison', 'Flying', 'Bug']",,"['Water', 'Electric', 'Grass', 'Ground']",,,
+Lilligant,Grass,,"['Fire', 'Ice', 'Poison', 'Flying', 'Bug']",,"['Water', 'Electric', 'Grass', 'Ground']",,,
+Lilligant Hisuian  Lilligant,Grass,Fighting,"['Fire', 'Ice', 'Poison', 'Flying', 'Bug']",,"['Water', 'Electric', 'Grass', 'Ground']","['Flying', 'Psychic', 'Fairy']",,"['Bug', 'Rock', 'Dark']"
+Basculin Red- Striped  Form,Water,,"['Electric', 'Grass']",,"['Fire', 'Water', 'Ice', 'Steel']",,,
+Basculin Blue- Striped  Form,Water,,"['Electric', 'Grass']",,"['Fire', 'Water', 'Ice', 'Steel']",,,
+Basculin White- Striped  Form,Water,,"['Electric', 'Grass']",,"['Fire', 'Water', 'Ice', 'Steel']",,,
+Sandile,Ground,Dark,"['Water', 'Grass', 'Ice']",['Electric'],"['Poison', 'Rock']","['Fighting', 'Bug', 'Fairy']",['Psychic'],"['Ghost', 'Dark']"
+Krokorok,Ground,Dark,"['Water', 'Grass', 'Ice']",['Electric'],"['Poison', 'Rock']","['Fighting', 'Bug', 'Fairy']",['Psychic'],"['Ghost', 'Dark']"
+Krookodile,Ground,Dark,"['Water', 'Grass', 'Ice']",['Electric'],"['Poison', 'Rock']","['Fighting', 'Bug', 'Fairy']",['Psychic'],"['Ghost', 'Dark']"
+Darumaka,Fire,,"['Water', 'Ground', 'Rock']",,"['Fire', 'Grass', 'Ice', 'Bug', 'Steel', 'Fairy']",,,
+Darumaka Galarian  Darumaka,Ice,,"['Fire', 'Fighting', 'Rock', 'Steel']",,['Ice'],,,
+Darmanitan Standard  Mode,Fire,,"['Water', 'Ground', 'Rock']",,"['Fire', 'Grass', 'Ice', 'Bug', 'Steel', 'Fairy']",,,
+Darmanitan Zen  Mode,Fire,Psychic,"['Water', 'Ground', 'Rock']",,"['Fire', 'Grass', 'Ice', 'Bug', 'Steel', 'Fairy']","['Bug', 'Ghost', 'Dark']",,"['Fighting', 'Psychic']"
+Darmanitan Galarian  Standard  Mode,Ice,,"['Fire', 'Fighting', 'Rock', 'Steel']",,['Ice'],,,
+Darmanitan Galarian  Zen  Mode,Ice,Fire,"['Fire', 'Fighting', 'Rock', 'Steel']",,['Ice'],"['Water', 'Ground', 'Rock']",,"['Fire', 'Grass', 'Ice', 'Bug', 'Steel', 'Fairy']"
+Maractus,Grass,,"['Fire', 'Ice', 'Poison', 'Flying', 'Bug']",,"['Water', 'Electric', 'Grass', 'Ground']",,,
+Dwebble,Bug,Rock,"['Fire', 'Flying', 'Rock']",,"['Grass', 'Fighting', 'Ground']","['Water', 'Grass', 'Fighting', 'Ground', 'Steel']",,"['Normal', 'Fire', 'Poison', 'Flying']"
+Crustle,Bug,Rock,"['Fire', 'Flying', 'Rock']",,"['Grass', 'Fighting', 'Ground']","['Water', 'Grass', 'Fighting', 'Ground', 'Steel']",,"['Normal', 'Fire', 'Poison', 'Flying']"
+Scraggy,Dark,Fighting,"['Fighting', 'Bug', 'Fairy']",['Psychic'],"['Ghost', 'Dark']","['Flying', 'Psychic', 'Fairy']",,"['Bug', 'Rock', 'Dark']"
+Scrafty,Dark,Fighting,"['Fighting', 'Bug', 'Fairy']",['Psychic'],"['Ghost', 'Dark']","['Flying', 'Psychic', 'Fairy']",,"['Bug', 'Rock', 'Dark']"
+Sigilyph,Psychic,Flying,"['Bug', 'Ghost', 'Dark']",,"['Fighting', 'Psychic']","['Electric', 'Ice', 'Rock']",['Ground'],"['Grass', 'Fighting', 'Bug']"
+Yamask,Ghost,,"['Ghost', 'Dark']","['Normal', 'Fighting']","['Poison', 'Bug']",,,
+Yamask Galarian  Yamask,Ground,Ghost,"['Water', 'Grass', 'Ice']",['Electric'],"['Poison', 'Rock']","['Ghost', 'Dark']","['Normal', 'Fighting']","['Poison', 'Bug']"
+Cofagrigus,Ghost,,"['Ghost', 'Dark']","['Normal', 'Fighting']","['Poison', 'Bug']",,,
+Tirtouga,Water,Rock,"['Electric', 'Grass']",,"['Fire', 'Water', 'Ice', 'Steel']","['Water', 'Grass', 'Fighting', 'Ground', 'Steel']",,"['Normal', 'Fire', 'Poison', 'Flying']"
+Carracosta,Water,Rock,"['Electric', 'Grass']",,"['Fire', 'Water', 'Ice', 'Steel']","['Water', 'Grass', 'Fighting', 'Ground', 'Steel']",,"['Normal', 'Fire', 'Poison', 'Flying']"
+Archen,Rock,Flying,"['Water', 'Grass', 'Fighting', 'Ground', 'Steel']",,"['Normal', 'Fire', 'Poison', 'Flying']","['Electric', 'Ice', 'Rock']",['Ground'],"['Grass', 'Fighting', 'Bug']"
+Archeops,Rock,Flying,"['Water', 'Grass', 'Fighting', 'Ground', 'Steel']",,"['Normal', 'Fire', 'Poison', 'Flying']","['Electric', 'Ice', 'Rock']",['Ground'],"['Grass', 'Fighting', 'Bug']"
+Trubbish,Poison,,"['Ground', 'Psychic']",,"['Grass', 'Fighting', 'Poison', 'Bug', 'Fairy']",,,
+Garbodor,Poison,,"['Ground', 'Psychic']",,"['Grass', 'Fighting', 'Poison', 'Bug', 'Fairy']",,,
+Zorua,Dark,,"['Fighting', 'Bug', 'Fairy']",['Psychic'],"['Ghost', 'Dark']",,,
+Zorua Hisuian  Zorua,Normal,Ghost,['Fighting'],['Ghost'],,"['Ghost', 'Dark']","['Normal', 'Fighting']","['Poison', 'Bug']"
+Zoroark,Dark,,"['Fighting', 'Bug', 'Fairy']",['Psychic'],"['Ghost', 'Dark']",,,
+Zoroark Hisuian  Zoroark,Normal,Ghost,['Fighting'],['Ghost'],,"['Ghost', 'Dark']","['Normal', 'Fighting']","['Poison', 'Bug']"
+Minccino,Normal,,['Fighting'],['Ghost'],,,,
+Cinccino,Normal,,['Fighting'],['Ghost'],,,,
+Gothita,Psychic,,"['Bug', 'Ghost', 'Dark']",,"['Fighting', 'Psychic']",,,
+Gothorita,Psychic,,"['Bug', 'Ghost', 'Dark']",,"['Fighting', 'Psychic']",,,
+Gothitelle,Psychic,,"['Bug', 'Ghost', 'Dark']",,"['Fighting', 'Psychic']",,,
+Solosis,Psychic,,"['Bug', 'Ghost', 'Dark']",,"['Fighting', 'Psychic']",,,
+Duosion,Psychic,,"['Bug', 'Ghost', 'Dark']",,"['Fighting', 'Psychic']",,,
+Reuniclus,Psychic,,"['Bug', 'Ghost', 'Dark']",,"['Fighting', 'Psychic']",,,
+Ducklett,Water,Flying,"['Electric', 'Grass']",,"['Fire', 'Water', 'Ice', 'Steel']","['Electric', 'Ice', 'Rock']",['Ground'],"['Grass', 'Fighting', 'Bug']"
+Swanna,Water,Flying,"['Electric', 'Grass']",,"['Fire', 'Water', 'Ice', 'Steel']","['Electric', 'Ice', 'Rock']",['Ground'],"['Grass', 'Fighting', 'Bug']"
+Vanillite,Ice,,"['Fire', 'Fighting', 'Rock', 'Steel']",,['Ice'],,,
+Vanillish,Ice,,"['Fire', 'Fighting', 'Rock', 'Steel']",,['Ice'],,,
+Vanilluxe,Ice,,"['Fire', 'Fighting', 'Rock', 'Steel']",,['Ice'],,,
+Deerling,Normal,Grass,['Fighting'],['Ghost'],,"['Fire', 'Ice', 'Poison', 'Flying', 'Bug']",,"['Water', 'Electric', 'Grass', 'Ground']"
+Sawsbuck,Normal,Grass,['Fighting'],['Ghost'],,"['Fire', 'Ice', 'Poison', 'Flying', 'Bug']",,"['Water', 'Electric', 'Grass', 'Ground']"
+Emolga,Electric,Flying,['Ground'],,"['Electric', 'Flying', 'Steel']","['Electric', 'Ice', 'Rock']",['Ground'],"['Grass', 'Fighting', 'Bug']"
+Karrablast,Bug,,"['Fire', 'Flying', 'Rock']",,"['Grass', 'Fighting', 'Ground']",,,
+Escavalier,Bug,Steel,"['Fire', 'Flying', 'Rock']",,"['Grass', 'Fighting', 'Ground']","['Fire', 'Fighting', 'Ground']",['Poison'],"['Normal', 'Grass', 'Ice', 'Flying', 'Psychic', 'Bug', 'Rock', 'Dragon', 'Steel', 'Fairy']"
+Foongus,Grass,Poison,"['Fire', 'Ice', 'Poison', 'Flying', 'Bug']",,"['Water', 'Electric', 'Grass', 'Ground']","['Ground', 'Psychic']",,"['Grass', 'Fighting', 'Poison', 'Bug', 'Fairy']"
+Amoonguss,Grass,Poison,"['Fire', 'Ice', 'Poison', 'Flying', 'Bug']",,"['Water', 'Electric', 'Grass', 'Ground']","['Ground', 'Psychic']",,"['Grass', 'Fighting', 'Poison', 'Bug', 'Fairy']"
+Frillish,Water,Ghost,"['Electric', 'Grass']",,"['Fire', 'Water', 'Ice', 'Steel']","['Ghost', 'Dark']","['Normal', 'Fighting']","['Poison', 'Bug']"
+Jellicent,Water,Ghost,"['Electric', 'Grass']",,"['Fire', 'Water', 'Ice', 'Steel']","['Ghost', 'Dark']","['Normal', 'Fighting']","['Poison', 'Bug']"
+Alomomola,Water,,"['Electric', 'Grass']",,"['Fire', 'Water', 'Ice', 'Steel']",,,
+Joltik,Bug,Electric,"['Fire', 'Flying', 'Rock']",,"['Grass', 'Fighting', 'Ground']",['Ground'],,"['Electric', 'Flying', 'Steel']"
+Galvantula,Bug,Electric,"['Fire', 'Flying', 'Rock']",,"['Grass', 'Fighting', 'Ground']",['Ground'],,"['Electric', 'Flying', 'Steel']"
+Ferroseed,Grass,Steel,"['Fire', 'Ice', 'Poison', 'Flying', 'Bug']",,"['Water', 'Electric', 'Grass', 'Ground']","['Fire', 'Fighting', 'Ground']",['Poison'],"['Normal', 'Grass', 'Ice', 'Flying', 'Psychic', 'Bug', 'Rock', 'Dragon', 'Steel', 'Fairy']"
+Ferrothorn,Grass,Steel,"['Fire', 'Ice', 'Poison', 'Flying', 'Bug']",,"['Water', 'Electric', 'Grass', 'Ground']","['Fire', 'Fighting', 'Ground']",['Poison'],"['Normal', 'Grass', 'Ice', 'Flying', 'Psychic', 'Bug', 'Rock', 'Dragon', 'Steel', 'Fairy']"
+Klink,Steel,,"['Fire', 'Fighting', 'Ground']",['Poison'],"['Normal', 'Grass', 'Ice', 'Flying', 'Psychic', 'Bug', 'Rock', 'Dragon', 'Steel', 'Fairy']",,,
+Klang,Steel,,"['Fire', 'Fighting', 'Ground']",['Poison'],"['Normal', 'Grass', 'Ice', 'Flying', 'Psychic', 'Bug', 'Rock', 'Dragon', 'Steel', 'Fairy']",,,
+Klinklang,Steel,,"['Fire', 'Fighting', 'Ground']",['Poison'],"['Normal', 'Grass', 'Ice', 'Flying', 'Psychic', 'Bug', 'Rock', 'Dragon', 'Steel', 'Fairy']",,,
+Tynamo,Electric,,['Ground'],,"['Electric', 'Flying', 'Steel']",,,
+Eelektrik,Electric,,['Ground'],,"['Electric', 'Flying', 'Steel']",,,
+Eelektross,Electric,,['Ground'],,"['Electric', 'Flying', 'Steel']",,,
+Elgyem,Psychic,,"['Bug', 'Ghost', 'Dark']",,"['Fighting', 'Psychic']",,,
+Beheeyem,Psychic,,"['Bug', 'Ghost', 'Dark']",,"['Fighting', 'Psychic']",,,
+Litwick,Ghost,Fire,"['Ghost', 'Dark']","['Normal', 'Fighting']","['Poison', 'Bug']","['Water', 'Ground', 'Rock']",,"['Fire', 'Grass', 'Ice', 'Bug', 'Steel', 'Fairy']"
+Lampent,Ghost,Fire,"['Ghost', 'Dark']","['Normal', 'Fighting']","['Poison', 'Bug']","['Water', 'Ground', 'Rock']",,"['Fire', 'Grass', 'Ice', 'Bug', 'Steel', 'Fairy']"
+Chandelure,Ghost,Fire,"['Ghost', 'Dark']","['Normal', 'Fighting']","['Poison', 'Bug']","['Water', 'Ground', 'Rock']",,"['Fire', 'Grass', 'Ice', 'Bug', 'Steel', 'Fairy']"
+Axew,Dragon,,"['Ice', 'Dragon', 'Fairy']",,"['Fire', 'Water', 'Electric', 'Grass']",,,
+Fraxure,Dragon,,"['Ice', 'Dragon', 'Fairy']",,"['Fire', 'Water', 'Electric', 'Grass']",,,
+Haxorus,Dragon,,"['Ice', 'Dragon', 'Fairy']",,"['Fire', 'Water', 'Electric', 'Grass']",,,
+Cubchoo,Ice,,"['Fire', 'Fighting', 'Rock', 'Steel']",,['Ice'],,,
+Beartic,Ice,,"['Fire', 'Fighting', 'Rock', 'Steel']",,['Ice'],,,
+Cryogonal,Ice,,"['Fire', 'Fighting', 'Rock', 'Steel']",,['Ice'],,,
+Shelmet,Bug,,"['Fire', 'Flying', 'Rock']",,"['Grass', 'Fighting', 'Ground']",,,
+Accelgor,Bug,,"['Fire', 'Flying', 'Rock']",,"['Grass', 'Fighting', 'Ground']",,,
+Stunfisk,Ground,Electric,"['Water', 'Grass', 'Ice']",['Electric'],"['Poison', 'Rock']",['Ground'],,"['Electric', 'Flying', 'Steel']"
+Stunfisk Galarian  Stunfisk,Ground,Steel,"['Water', 'Grass', 'Ice']",['Electric'],"['Poison', 'Rock']","['Fire', 'Fighting', 'Ground']",['Poison'],"['Normal', 'Grass', 'Ice', 'Flying', 'Psychic', 'Bug', 'Rock', 'Dragon', 'Steel', 'Fairy']"
+Mienfoo,Fighting,,"['Flying', 'Psychic', 'Fairy']",,"['Bug', 'Rock', 'Dark']",,,
+Mienshao,Fighting,,"['Flying', 'Psychic', 'Fairy']",,"['Bug', 'Rock', 'Dark']",,,
+Druddigon,Dragon,,"['Ice', 'Dragon', 'Fairy']",,"['Fire', 'Water', 'Electric', 'Grass']",,,
+Golett,Ground,Ghost,"['Water', 'Grass', 'Ice']",['Electric'],"['Poison', 'Rock']","['Ghost', 'Dark']","['Normal', 'Fighting']","['Poison', 'Bug']"
+Golurk,Ground,Ghost,"['Water', 'Grass', 'Ice']",['Electric'],"['Poison', 'Rock']","['Ghost', 'Dark']","['Normal', 'Fighting']","['Poison', 'Bug']"
+Pawniard,Dark,Steel,"['Fighting', 'Bug', 'Fairy']",['Psychic'],"['Ghost', 'Dark']","['Fire', 'Fighting', 'Ground']",['Poison'],"['Normal', 'Grass', 'Ice', 'Flying', 'Psychic', 'Bug', 'Rock', 'Dragon', 'Steel', 'Fairy']"
+Bisharp,Dark,Steel,"['Fighting', 'Bug', 'Fairy']",['Psychic'],"['Ghost', 'Dark']","['Fire', 'Fighting', 'Ground']",['Poison'],"['Normal', 'Grass', 'Ice', 'Flying', 'Psychic', 'Bug', 'Rock', 'Dragon', 'Steel', 'Fairy']"
+Bouffalant,Normal,,['Fighting'],['Ghost'],,,,
+Rufflet,Normal,Flying,['Fighting'],['Ghost'],,"['Electric', 'Ice', 'Rock']",['Ground'],"['Grass', 'Fighting', 'Bug']"
+Braviary,Normal,Flying,['Fighting'],['Ghost'],,"['Electric', 'Ice', 'Rock']",['Ground'],"['Grass', 'Fighting', 'Bug']"
+Braviary Hisuian  Braviary,Psychic,Flying,"['Bug', 'Ghost', 'Dark']",,"['Fighting', 'Psychic']","['Electric', 'Ice', 'Rock']",['Ground'],"['Grass', 'Fighting', 'Bug']"
+Vullaby,Dark,Flying,"['Fighting', 'Bug', 'Fairy']",['Psychic'],"['Ghost', 'Dark']","['Electric', 'Ice', 'Rock']",['Ground'],"['Grass', 'Fighting', 'Bug']"
+Mandibuzz,Dark,Flying,"['Fighting', 'Bug', 'Fairy']",['Psychic'],"['Ghost', 'Dark']","['Electric', 'Ice', 'Rock']",['Ground'],"['Grass', 'Fighting', 'Bug']"
+Heatmor,Fire,,"['Water', 'Ground', 'Rock']",,"['Fire', 'Grass', 'Ice', 'Bug', 'Steel', 'Fairy']",,,
+Durant,Bug,Steel,"['Fire', 'Flying', 'Rock']",,"['Grass', 'Fighting', 'Ground']","['Fire', 'Fighting', 'Ground']",['Poison'],"['Normal', 'Grass', 'Ice', 'Flying', 'Psychic', 'Bug', 'Rock', 'Dragon', 'Steel', 'Fairy']"
+Deino,Dark,Dragon,"['Fighting', 'Bug', 'Fairy']",['Psychic'],"['Ghost', 'Dark']","['Ice', 'Dragon', 'Fairy']",,"['Fire', 'Water', 'Electric', 'Grass']"
+Zweilous,Dark,Dragon,"['Fighting', 'Bug', 'Fairy']",['Psychic'],"['Ghost', 'Dark']","['Ice', 'Dragon', 'Fairy']",,"['Fire', 'Water', 'Electric', 'Grass']"
+Hydreigon,Dark,Dragon,"['Fighting', 'Bug', 'Fairy']",['Psychic'],"['Ghost', 'Dark']","['Ice', 'Dragon', 'Fairy']",,"['Fire', 'Water', 'Electric', 'Grass']"
+Larvesta,Bug,Fire,"['Fire', 'Flying', 'Rock']",,"['Grass', 'Fighting', 'Ground']","['Water', 'Ground', 'Rock']",,"['Fire', 'Grass', 'Ice', 'Bug', 'Steel', 'Fairy']"
+Volcarona,Bug,Fire,"['Fire', 'Flying', 'Rock']",,"['Grass', 'Fighting', 'Ground']","['Water', 'Ground', 'Rock']",,"['Fire', 'Grass', 'Ice', 'Bug', 'Steel', 'Fairy']"
+Cobalion,Steel,Fighting,"['Fire', 'Fighting', 'Ground']",['Poison'],"['Normal', 'Grass', 'Ice', 'Flying', 'Psychic', 'Bug', 'Rock', 'Dragon', 'Steel', 'Fairy']","['Flying', 'Psychic', 'Fairy']",,"['Bug', 'Rock', 'Dark']"
+Terrakion,Rock,Fighting,"['Water', 'Grass', 'Fighting', 'Ground', 'Steel']",,"['Normal', 'Fire', 'Poison', 'Flying']","['Flying', 'Psychic', 'Fairy']",,"['Bug', 'Rock', 'Dark']"
+Virizion,Grass,Fighting,"['Fire', 'Ice', 'Poison', 'Flying', 'Bug']",,"['Water', 'Electric', 'Grass', 'Ground']","['Flying', 'Psychic', 'Fairy']",,"['Bug', 'Rock', 'Dark']"
+Tornadus Incarnate  Forme,Flying,,"['Electric', 'Ice', 'Rock']",['Ground'],"['Grass', 'Fighting', 'Bug']",,,
+Tornadus Therian  Forme,Flying,,"['Electric', 'Ice', 'Rock']",['Ground'],"['Grass', 'Fighting', 'Bug']",,,
+Thundurus Incarnate  Forme,Electric,Flying,['Ground'],,"['Electric', 'Flying', 'Steel']","['Electric', 'Ice', 'Rock']",['Ground'],"['Grass', 'Fighting', 'Bug']"
+Thundurus Therian  Forme,Electric,Flying,['Ground'],,"['Electric', 'Flying', 'Steel']","['Electric', 'Ice', 'Rock']",['Ground'],"['Grass', 'Fighting', 'Bug']"
+Reshiram,Dragon,Fire,"['Ice', 'Dragon', 'Fairy']",,"['Fire', 'Water', 'Electric', 'Grass']","['Water', 'Ground', 'Rock']",,"['Fire', 'Grass', 'Ice', 'Bug', 'Steel', 'Fairy']"
+Zekrom,Dragon,Electric,"['Ice', 'Dragon', 'Fairy']",,"['Fire', 'Water', 'Electric', 'Grass']",['Ground'],,"['Electric', 'Flying', 'Steel']"
+Landorus Incarnate  Forme,Ground,Flying,"['Water', 'Grass', 'Ice']",['Electric'],"['Poison', 'Rock']","['Electric', 'Ice', 'Rock']",['Ground'],"['Grass', 'Fighting', 'Bug']"
+Landorus Therian  Forme,Ground,Flying,"['Water', 'Grass', 'Ice']",['Electric'],"['Poison', 'Rock']","['Electric', 'Ice', 'Rock']",['Ground'],"['Grass', 'Fighting', 'Bug']"
+Kyurem,Dragon,Ice,"['Ice', 'Dragon', 'Fairy']",,"['Fire', 'Water', 'Electric', 'Grass']","['Fire', 'Fighting', 'Rock', 'Steel']",,['Ice']
+Kyurem White  Kyurem,Dragon,Ice,"['Ice', 'Dragon', 'Fairy']",,"['Fire', 'Water', 'Electric', 'Grass']","['Fire', 'Fighting', 'Rock', 'Steel']",,['Ice']
+Kyurem Black  Kyurem,Dragon,Ice,"['Ice', 'Dragon', 'Fairy']",,"['Fire', 'Water', 'Electric', 'Grass']","['Fire', 'Fighting', 'Rock', 'Steel']",,['Ice']
+Keldeo Ordinary  Form,Water,Fighting,"['Electric', 'Grass']",,"['Fire', 'Water', 'Ice', 'Steel']","['Flying', 'Psychic', 'Fairy']",,"['Bug', 'Rock', 'Dark']"
+Keldeo Resolute  Form,Water,Fighting,"['Electric', 'Grass']",,"['Fire', 'Water', 'Ice', 'Steel']","['Flying', 'Psychic', 'Fairy']",,"['Bug', 'Rock', 'Dark']"
+Meloetta Aria  Forme,Normal,Psychic,['Fighting'],['Ghost'],,"['Bug', 'Ghost', 'Dark']",,"['Fighting', 'Psychic']"
+Meloetta Pirouette  Forme,Normal,Fighting,['Fighting'],['Ghost'],,"['Flying', 'Psychic', 'Fairy']",,"['Bug', 'Rock', 'Dark']"
+Genesect,Bug,Steel,"['Fire', 'Flying', 'Rock']",,"['Grass', 'Fighting', 'Ground']","['Fire', 'Fighting', 'Ground']",['Poison'],"['Normal', 'Grass', 'Ice', 'Flying', 'Psychic', 'Bug', 'Rock', 'Dragon', 'Steel', 'Fairy']"
+Chespin,Grass,,"['Fire', 'Ice', 'Poison', 'Flying', 'Bug']",,"['Water', 'Electric', 'Grass', 'Ground']",,,
+Quilladin,Grass,,"['Fire', 'Ice', 'Poison', 'Flying', 'Bug']",,"['Water', 'Electric', 'Grass', 'Ground']",,,
+Chesnaught,Grass,Fighting,"['Fire', 'Ice', 'Poison', 'Flying', 'Bug']",,"['Water', 'Electric', 'Grass', 'Ground']","['Flying', 'Psychic', 'Fairy']",,"['Bug', 'Rock', 'Dark']"
+Fennekin,Fire,,"['Water', 'Ground', 'Rock']",,"['Fire', 'Grass', 'Ice', 'Bug', 'Steel', 'Fairy']",,,
+Braixen,Fire,,"['Water', 'Ground', 'Rock']",,"['Fire', 'Grass', 'Ice', 'Bug', 'Steel', 'Fairy']",,,
+Delphox,Fire,Psychic,"['Water', 'Ground', 'Rock']",,"['Fire', 'Grass', 'Ice', 'Bug', 'Steel', 'Fairy']","['Bug', 'Ghost', 'Dark']",,"['Fighting', 'Psychic']"
+Froakie,Water,,"['Electric', 'Grass']",,"['Fire', 'Water', 'Ice', 'Steel']",,,
+Frogadier,Water,,"['Electric', 'Grass']",,"['Fire', 'Water', 'Ice', 'Steel']",,,
+Greninja,Water,Dark,"['Electric', 'Grass']",,"['Fire', 'Water', 'Ice', 'Steel']","['Fighting', 'Bug', 'Fairy']",['Psychic'],"['Ghost', 'Dark']"
+Greninja Ash- Greninja,Water,Dark,"['Electric', 'Grass']",,"['Fire', 'Water', 'Ice', 'Steel']","['Fighting', 'Bug', 'Fairy']",['Psychic'],"['Ghost', 'Dark']"
+Bunnelby,Normal,,['Fighting'],['Ghost'],,,,
+Diggersby,Normal,Ground,['Fighting'],['Ghost'],,"['Water', 'Grass', 'Ice']",['Electric'],"['Poison', 'Rock']"
+Fletchling,Normal,Flying,['Fighting'],['Ghost'],,"['Electric', 'Ice', 'Rock']",['Ground'],"['Grass', 'Fighting', 'Bug']"
+Fletchinder,Fire,Flying,"['Water', 'Ground', 'Rock']",,"['Fire', 'Grass', 'Ice', 'Bug', 'Steel', 'Fairy']","['Electric', 'Ice', 'Rock']",['Ground'],"['Grass', 'Fighting', 'Bug']"
+Talonflame,Fire,Flying,"['Water', 'Ground', 'Rock']",,"['Fire', 'Grass', 'Ice', 'Bug', 'Steel', 'Fairy']","['Electric', 'Ice', 'Rock']",['Ground'],"['Grass', 'Fighting', 'Bug']"
+Scatterbug,Bug,,"['Fire', 'Flying', 'Rock']",,"['Grass', 'Fighting', 'Ground']",,,
+Spewpa,Bug,,"['Fire', 'Flying', 'Rock']",,"['Grass', 'Fighting', 'Ground']",,,
+Vivillon,Bug,Flying,"['Fire', 'Flying', 'Rock']",,"['Grass', 'Fighting', 'Ground']","['Electric', 'Ice', 'Rock']",['Ground'],"['Grass', 'Fighting', 'Bug']"
+Litleo,Fire,Normal,"['Water', 'Ground', 'Rock']",,"['Fire', 'Grass', 'Ice', 'Bug', 'Steel', 'Fairy']",['Fighting'],['Ghost'],
+Pyroar,Fire,Normal,"['Water', 'Ground', 'Rock']",,"['Fire', 'Grass', 'Ice', 'Bug', 'Steel', 'Fairy']",['Fighting'],['Ghost'],
+Flabébé,Fairy,,"['Poison', 'Steel']",['Dragon'],"['Fighting', 'Bug', 'Dark']",,,
+Floette,Fairy,,"['Poison', 'Steel']",['Dragon'],"['Fighting', 'Bug', 'Dark']",,,
+Florges,Fairy,,"['Poison', 'Steel']",['Dragon'],"['Fighting', 'Bug', 'Dark']",,,
+Skiddo,Grass,,"['Fire', 'Ice', 'Poison', 'Flying', 'Bug']",,"['Water', 'Electric', 'Grass', 'Ground']",,,
+Gogoat,Grass,,"['Fire', 'Ice', 'Poison', 'Flying', 'Bug']",,"['Water', 'Electric', 'Grass', 'Ground']",,,
+Pancham,Fighting,,"['Flying', 'Psychic', 'Fairy']",,"['Bug', 'Rock', 'Dark']",,,
+Pangoro,Fighting,Dark,"['Flying', 'Psychic', 'Fairy']",,"['Bug', 'Rock', 'Dark']","['Fighting', 'Bug', 'Fairy']",['Psychic'],"['Ghost', 'Dark']"
+Furfrou,Normal,,['Fighting'],['Ghost'],,,,
+Espurr,Psychic,,"['Bug', 'Ghost', 'Dark']",,"['Fighting', 'Psychic']",,,
+Meowstic Male,Psychic,,"['Bug', 'Ghost', 'Dark']",,"['Fighting', 'Psychic']",,,
+Meowstic Female,Psychic,,"['Bug', 'Ghost', 'Dark']",,"['Fighting', 'Psychic']",,,
+Honedge,Steel,Ghost,"['Fire', 'Fighting', 'Ground']",['Poison'],"['Normal', 'Grass', 'Ice', 'Flying', 'Psychic', 'Bug', 'Rock', 'Dragon', 'Steel', 'Fairy']","['Ghost', 'Dark']","['Normal', 'Fighting']","['Poison', 'Bug']"
+Doublade,Steel,Ghost,"['Fire', 'Fighting', 'Ground']",['Poison'],"['Normal', 'Grass', 'Ice', 'Flying', 'Psychic', 'Bug', 'Rock', 'Dragon', 'Steel', 'Fairy']","['Ghost', 'Dark']","['Normal', 'Fighting']","['Poison', 'Bug']"
+Aegislash Shield  Forme,Steel,Ghost,"['Fire', 'Fighting', 'Ground']",['Poison'],"['Normal', 'Grass', 'Ice', 'Flying', 'Psychic', 'Bug', 'Rock', 'Dragon', 'Steel', 'Fairy']","['Ghost', 'Dark']","['Normal', 'Fighting']","['Poison', 'Bug']"
+Aegislash Blade  Forme,Steel,Ghost,"['Fire', 'Fighting', 'Ground']",['Poison'],"['Normal', 'Grass', 'Ice', 'Flying', 'Psychic', 'Bug', 'Rock', 'Dragon', 'Steel', 'Fairy']","['Ghost', 'Dark']","['Normal', 'Fighting']","['Poison', 'Bug']"
+Spritzee,Fairy,,"['Poison', 'Steel']",['Dragon'],"['Fighting', 'Bug', 'Dark']",,,
+Aromatisse,Fairy,,"['Poison', 'Steel']",['Dragon'],"['Fighting', 'Bug', 'Dark']",,,
+Swirlix,Fairy,,"['Poison', 'Steel']",['Dragon'],"['Fighting', 'Bug', 'Dark']",,,
+Slurpuff,Fairy,,"['Poison', 'Steel']",['Dragon'],"['Fighting', 'Bug', 'Dark']",,,
+Inkay,Dark,Psychic,"['Fighting', 'Bug', 'Fairy']",['Psychic'],"['Ghost', 'Dark']","['Bug', 'Ghost', 'Dark']",,"['Fighting', 'Psychic']"
+Malamar,Dark,Psychic,"['Fighting', 'Bug', 'Fairy']",['Psychic'],"['Ghost', 'Dark']","['Bug', 'Ghost', 'Dark']",,"['Fighting', 'Psychic']"
+Malamar Mega  Malamar,Dark,Psychic,"['Fighting', 'Bug', 'Fairy']",['Psychic'],"['Ghost', 'Dark']","['Bug', 'Ghost', 'Dark']",,"['Fighting', 'Psychic']"
+Binacle,Rock,Water,"['Water', 'Grass', 'Fighting', 'Ground', 'Steel']",,"['Normal', 'Fire', 'Poison', 'Flying']","['Electric', 'Grass']",,"['Fire', 'Water', 'Ice', 'Steel']"
+Barbaracle,Rock,Water,"['Water', 'Grass', 'Fighting', 'Ground', 'Steel']",,"['Normal', 'Fire', 'Poison', 'Flying']","['Electric', 'Grass']",,"['Fire', 'Water', 'Ice', 'Steel']"
+Skrelp,Poison,Water,"['Ground', 'Psychic']",,"['Grass', 'Fighting', 'Poison', 'Bug', 'Fairy']","['Electric', 'Grass']",,"['Fire', 'Water', 'Ice', 'Steel']"
+Dragalge,Poison,Dragon,"['Ground', 'Psychic']",,"['Grass', 'Fighting', 'Poison', 'Bug', 'Fairy']","['Ice', 'Dragon', 'Fairy']",,"['Fire', 'Water', 'Electric', 'Grass']"
+Clauncher,Water,,"['Electric', 'Grass']",,"['Fire', 'Water', 'Ice', 'Steel']",,,
+Clawitzer,Water,,"['Electric', 'Grass']",,"['Fire', 'Water', 'Ice', 'Steel']",,,
+Helioptile,Electric,Normal,['Ground'],,"['Electric', 'Flying', 'Steel']",['Fighting'],['Ghost'],
+Heliolisk,Electric,Normal,['Ground'],,"['Electric', 'Flying', 'Steel']",['Fighting'],['Ghost'],
+Tyrunt,Rock,Dragon,"['Water', 'Grass', 'Fighting', 'Ground', 'Steel']",,"['Normal', 'Fire', 'Poison', 'Flying']","['Ice', 'Dragon', 'Fairy']",,"['Fire', 'Water', 'Electric', 'Grass']"
+Tyrantrum,Rock,Dragon,"['Water', 'Grass', 'Fighting', 'Ground', 'Steel']",,"['Normal', 'Fire', 'Poison', 'Flying']","['Ice', 'Dragon', 'Fairy']",,"['Fire', 'Water', 'Electric', 'Grass']"
+Amaura,Rock,Ice,"['Water', 'Grass', 'Fighting', 'Ground', 'Steel']",,"['Normal', 'Fire', 'Poison', 'Flying']","['Fire', 'Fighting', 'Rock', 'Steel']",,['Ice']
+Aurorus,Rock,Ice,"['Water', 'Grass', 'Fighting', 'Ground', 'Steel']",,"['Normal', 'Fire', 'Poison', 'Flying']","['Fire', 'Fighting', 'Rock', 'Steel']",,['Ice']
+Sylveon,Fairy,,"['Poison', 'Steel']",['Dragon'],"['Fighting', 'Bug', 'Dark']",,,
+Hawlucha,Fighting,Flying,"['Flying', 'Psychic', 'Fairy']",,"['Bug', 'Rock', 'Dark']","['Electric', 'Ice', 'Rock']",['Ground'],"['Grass', 'Fighting', 'Bug']"
+Hawlucha Mega  Hawlucha,Fighting,Flying,"['Flying', 'Psychic', 'Fairy']",,"['Bug', 'Rock', 'Dark']","['Electric', 'Ice', 'Rock']",['Ground'],"['Grass', 'Fighting', 'Bug']"
+Dedenne,Electric,Fairy,['Ground'],,"['Electric', 'Flying', 'Steel']","['Poison', 'Steel']",['Dragon'],"['Fighting', 'Bug', 'Dark']"
+Carbink,Rock,Fairy,"['Water', 'Grass', 'Fighting', 'Ground', 'Steel']",,"['Normal', 'Fire', 'Poison', 'Flying']","['Poison', 'Steel']",['Dragon'],"['Fighting', 'Bug', 'Dark']"
+Goomy,Dragon,,"['Ice', 'Dragon', 'Fairy']",,"['Fire', 'Water', 'Electric', 'Grass']",,,
+Sliggoo,Dragon,,"['Ice', 'Dragon', 'Fairy']",,"['Fire', 'Water', 'Electric', 'Grass']",,,
+Sliggoo Hisuian  Sliggoo,Steel,Dragon,"['Fire', 'Fighting', 'Ground']",['Poison'],"['Normal', 'Grass', 'Ice', 'Flying', 'Psychic', 'Bug', 'Rock', 'Dragon', 'Steel', 'Fairy']","['Ice', 'Dragon', 'Fairy']",,"['Fire', 'Water', 'Electric', 'Grass']"
+Goodra,Dragon,,"['Ice', 'Dragon', 'Fairy']",,"['Fire', 'Water', 'Electric', 'Grass']",,,
+Goodra Hisuian  Goodra,Steel,Dragon,"['Fire', 'Fighting', 'Ground']",['Poison'],"['Normal', 'Grass', 'Ice', 'Flying', 'Psychic', 'Bug', 'Rock', 'Dragon', 'Steel', 'Fairy']","['Ice', 'Dragon', 'Fairy']",,"['Fire', 'Water', 'Electric', 'Grass']"
+Klefki,Steel,Fairy,"['Fire', 'Fighting', 'Ground']",['Poison'],"['Normal', 'Grass', 'Ice', 'Flying', 'Psychic', 'Bug', 'Rock', 'Dragon', 'Steel', 'Fairy']","['Poison', 'Steel']",['Dragon'],"['Fighting', 'Bug', 'Dark']"
+Phantump,Ghost,Grass,"['Ghost', 'Dark']","['Normal', 'Fighting']","['Poison', 'Bug']","['Fire', 'Ice', 'Poison', 'Flying', 'Bug']",,"['Water', 'Electric', 'Grass', 'Ground']"
+Trevenant,Ghost,Grass,"['Ghost', 'Dark']","['Normal', 'Fighting']","['Poison', 'Bug']","['Fire', 'Ice', 'Poison', 'Flying', 'Bug']",,"['Water', 'Electric', 'Grass', 'Ground']"
+Pumpkaboo Average  Size,Ghost,Grass,"['Ghost', 'Dark']","['Normal', 'Fighting']","['Poison', 'Bug']","['Fire', 'Ice', 'Poison', 'Flying', 'Bug']",,"['Water', 'Electric', 'Grass', 'Ground']"
+Pumpkaboo Small  Size,Ghost,Grass,"['Ghost', 'Dark']","['Normal', 'Fighting']","['Poison', 'Bug']","['Fire', 'Ice', 'Poison', 'Flying', 'Bug']",,"['Water', 'Electric', 'Grass', 'Ground']"
+Pumpkaboo Large  Size,Ghost,Grass,"['Ghost', 'Dark']","['Normal', 'Fighting']","['Poison', 'Bug']","['Fire', 'Ice', 'Poison', 'Flying', 'Bug']",,"['Water', 'Electric', 'Grass', 'Ground']"
+Pumpkaboo Super  Size,Ghost,Grass,"['Ghost', 'Dark']","['Normal', 'Fighting']","['Poison', 'Bug']","['Fire', 'Ice', 'Poison', 'Flying', 'Bug']",,"['Water', 'Electric', 'Grass', 'Ground']"
+Gourgeist Average  Size,Ghost,Grass,"['Ghost', 'Dark']","['Normal', 'Fighting']","['Poison', 'Bug']","['Fire', 'Ice', 'Poison', 'Flying', 'Bug']",,"['Water', 'Electric', 'Grass', 'Ground']"
+Gourgeist Small  Size,Ghost,Grass,"['Ghost', 'Dark']","['Normal', 'Fighting']","['Poison', 'Bug']","['Fire', 'Ice', 'Poison', 'Flying', 'Bug']",,"['Water', 'Electric', 'Grass', 'Ground']"
+Gourgeist Large  Size,Ghost,Grass,"['Ghost', 'Dark']","['Normal', 'Fighting']","['Poison', 'Bug']","['Fire', 'Ice', 'Poison', 'Flying', 'Bug']",,"['Water', 'Electric', 'Grass', 'Ground']"
+Gourgeist Super  Size,Ghost,Grass,"['Ghost', 'Dark']","['Normal', 'Fighting']","['Poison', 'Bug']","['Fire', 'Ice', 'Poison', 'Flying', 'Bug']",,"['Water', 'Electric', 'Grass', 'Ground']"
+Bergmite,Ice,,"['Fire', 'Fighting', 'Rock', 'Steel']",,['Ice'],,,
+Avalugg,Ice,,"['Fire', 'Fighting', 'Rock', 'Steel']",,['Ice'],,,
+Avalugg Hisuian  Avalugg,Ice,Rock,"['Fire', 'Fighting', 'Rock', 'Steel']",,['Ice'],"['Water', 'Grass', 'Fighting', 'Ground', 'Steel']",,"['Normal', 'Fire', 'Poison', 'Flying']"
+Noibat,Flying,Dragon,"['Electric', 'Ice', 'Rock']",['Ground'],"['Grass', 'Fighting', 'Bug']","['Ice', 'Dragon', 'Fairy']",,"['Fire', 'Water', 'Electric', 'Grass']"
+Noivern,Flying,Dragon,"['Electric', 'Ice', 'Rock']",['Ground'],"['Grass', 'Fighting', 'Bug']","['Ice', 'Dragon', 'Fairy']",,"['Fire', 'Water', 'Electric', 'Grass']"
+Xerneas,Fairy,,"['Poison', 'Steel']",['Dragon'],"['Fighting', 'Bug', 'Dark']",,,
+Yveltal,Dark,Flying,"['Fighting', 'Bug', 'Fairy']",['Psychic'],"['Ghost', 'Dark']","['Electric', 'Ice', 'Rock']",['Ground'],"['Grass', 'Fighting', 'Bug']"
+Zygarde50%  Forme,Dragon,Ground,"['Ice', 'Dragon', 'Fairy']",,"['Fire', 'Water', 'Electric', 'Grass']","['Water', 'Grass', 'Ice']",['Electric'],"['Poison', 'Rock']"
+Zygarde10%  Forme,Dragon,Ground,"['Ice', 'Dragon', 'Fairy']",,"['Fire', 'Water', 'Electric', 'Grass']","['Water', 'Grass', 'Ice']",['Electric'],"['Poison', 'Rock']"
+Zygarde Complete  Forme,Dragon,Ground,"['Ice', 'Dragon', 'Fairy']",,"['Fire', 'Water', 'Electric', 'Grass']","['Water', 'Grass', 'Ice']",['Electric'],"['Poison', 'Rock']"
+Diancie,Rock,Fairy,"['Water', 'Grass', 'Fighting', 'Ground', 'Steel']",,"['Normal', 'Fire', 'Poison', 'Flying']","['Poison', 'Steel']",['Dragon'],"['Fighting', 'Bug', 'Dark']"
+Diancie Mega  Diancie,Rock,Fairy,"['Water', 'Grass', 'Fighting', 'Ground', 'Steel']",,"['Normal', 'Fire', 'Poison', 'Flying']","['Poison', 'Steel']",['Dragon'],"['Fighting', 'Bug', 'Dark']"
+Hoopa Hoopa  Confined,Psychic,Ghost,"['Bug', 'Ghost', 'Dark']",,"['Fighting', 'Psychic']","['Ghost', 'Dark']","['Normal', 'Fighting']","['Poison', 'Bug']"
+Hoopa Hoopa  Unbound,Psychic,Dark,"['Bug', 'Ghost', 'Dark']",,"['Fighting', 'Psychic']","['Fighting', 'Bug', 'Fairy']",['Psychic'],"['Ghost', 'Dark']"
+Volcanion,Fire,Water,"['Water', 'Ground', 'Rock']",,"['Fire', 'Grass', 'Ice', 'Bug', 'Steel', 'Fairy']","['Electric', 'Grass']",,"['Fire', 'Water', 'Ice', 'Steel']"
+Rowlet,Grass,Flying,"['Fire', 'Ice', 'Poison', 'Flying', 'Bug']",,"['Water', 'Electric', 'Grass', 'Ground']","['Electric', 'Ice', 'Rock']",['Ground'],"['Grass', 'Fighting', 'Bug']"
+Dartrix,Grass,Flying,"['Fire', 'Ice', 'Poison', 'Flying', 'Bug']",,"['Water', 'Electric', 'Grass', 'Ground']","['Electric', 'Ice', 'Rock']",['Ground'],"['Grass', 'Fighting', 'Bug']"
+Decidueye,Grass,Ghost,"['Fire', 'Ice', 'Poison', 'Flying', 'Bug']",,"['Water', 'Electric', 'Grass', 'Ground']","['Ghost', 'Dark']","['Normal', 'Fighting']","['Poison', 'Bug']"
+Decidueye Hisuian  Decidueye,Grass,Fighting,"['Fire', 'Ice', 'Poison', 'Flying', 'Bug']",,"['Water', 'Electric', 'Grass', 'Ground']","['Flying', 'Psychic', 'Fairy']",,"['Bug', 'Rock', 'Dark']"
+Litten,Fire,,"['Water', 'Ground', 'Rock']",,"['Fire', 'Grass', 'Ice', 'Bug', 'Steel', 'Fairy']",,,
+Torracat,Fire,,"['Water', 'Ground', 'Rock']",,"['Fire', 'Grass', 'Ice', 'Bug', 'Steel', 'Fairy']",,,
+Incineroar,Fire,Dark,"['Water', 'Ground', 'Rock']",,"['Fire', 'Grass', 'Ice', 'Bug', 'Steel', 'Fairy']","['Fighting', 'Bug', 'Fairy']",['Psychic'],"['Ghost', 'Dark']"
+Popplio,Water,,"['Electric', 'Grass']",,"['Fire', 'Water', 'Ice', 'Steel']",,,
+Brionne,Water,,"['Electric', 'Grass']",,"['Fire', 'Water', 'Ice', 'Steel']",,,
+Primarina,Water,Fairy,"['Electric', 'Grass']",,"['Fire', 'Water', 'Ice', 'Steel']","['Poison', 'Steel']",['Dragon'],"['Fighting', 'Bug', 'Dark']"
+Pikipek,Normal,Flying,['Fighting'],['Ghost'],,"['Electric', 'Ice', 'Rock']",['Ground'],"['Grass', 'Fighting', 'Bug']"
+Trumbeak,Normal,Flying,['Fighting'],['Ghost'],,"['Electric', 'Ice', 'Rock']",['Ground'],"['Grass', 'Fighting', 'Bug']"
+Toucannon,Normal,Flying,['Fighting'],['Ghost'],,"['Electric', 'Ice', 'Rock']",['Ground'],"['Grass', 'Fighting', 'Bug']"
+Yungoos,Normal,,['Fighting'],['Ghost'],,,,
+Gumshoos,Normal,,['Fighting'],['Ghost'],,,,
+Grubbin,Bug,,"['Fire', 'Flying', 'Rock']",,"['Grass', 'Fighting', 'Ground']",,,
+Charjabug,Bug,Electric,"['Fire', 'Flying', 'Rock']",,"['Grass', 'Fighting', 'Ground']",['Ground'],,"['Electric', 'Flying', 'Steel']"
+Vikavolt,Bug,Electric,"['Fire', 'Flying', 'Rock']",,"['Grass', 'Fighting', 'Ground']",['Ground'],,"['Electric', 'Flying', 'Steel']"
+Crabrawler,Fighting,,"['Flying', 'Psychic', 'Fairy']",,"['Bug', 'Rock', 'Dark']",,,
+Crabominable,Fighting,Ice,"['Flying', 'Psychic', 'Fairy']",,"['Bug', 'Rock', 'Dark']","['Fire', 'Fighting', 'Rock', 'Steel']",,['Ice']
+Oricorio Baile  Style,Fire,Flying,"['Water', 'Ground', 'Rock']",,"['Fire', 'Grass', 'Ice', 'Bug', 'Steel', 'Fairy']","['Electric', 'Ice', 'Rock']",['Ground'],"['Grass', 'Fighting', 'Bug']"
+Oricorio Pom- Pom  Style,Electric,Flying,['Ground'],,"['Electric', 'Flying', 'Steel']","['Electric', 'Ice', 'Rock']",['Ground'],"['Grass', 'Fighting', 'Bug']"
+Oricorio Pa'u  Style,Psychic,Flying,"['Bug', 'Ghost', 'Dark']",,"['Fighting', 'Psychic']","['Electric', 'Ice', 'Rock']",['Ground'],"['Grass', 'Fighting', 'Bug']"
+Oricorio Sensu  Style,Ghost,Flying,"['Ghost', 'Dark']","['Normal', 'Fighting']","['Poison', 'Bug']","['Electric', 'Ice', 'Rock']",['Ground'],"['Grass', 'Fighting', 'Bug']"
+Cutiefly,Bug,Fairy,"['Fire', 'Flying', 'Rock']",,"['Grass', 'Fighting', 'Ground']","['Poison', 'Steel']",['Dragon'],"['Fighting', 'Bug', 'Dark']"
+Ribombee,Bug,Fairy,"['Fire', 'Flying', 'Rock']",,"['Grass', 'Fighting', 'Ground']","['Poison', 'Steel']",['Dragon'],"['Fighting', 'Bug', 'Dark']"
+Rockruff,Rock,,"['Water', 'Grass', 'Fighting', 'Ground', 'Steel']",,"['Normal', 'Fire', 'Poison', 'Flying']",,,
+Rockruff Own  Tempo  Rockruff,Rock,,"['Water', 'Grass', 'Fighting', 'Ground', 'Steel']",,"['Normal', 'Fire', 'Poison', 'Flying']",,,
+Lycanroc Midday  Form,Rock,,"['Water', 'Grass', 'Fighting', 'Ground', 'Steel']",,"['Normal', 'Fire', 'Poison', 'Flying']",,,
+Lycanroc Midnight  Form,Rock,,"['Water', 'Grass', 'Fighting', 'Ground', 'Steel']",,"['Normal', 'Fire', 'Poison', 'Flying']",,,
+Lycanroc Dusk  Form,Rock,,"['Water', 'Grass', 'Fighting', 'Ground', 'Steel']",,"['Normal', 'Fire', 'Poison', 'Flying']",,,
+Wishiwashi Solo  Form,Water,,"['Electric', 'Grass']",,"['Fire', 'Water', 'Ice', 'Steel']",,,
+Wishiwashi School  Form,Water,,"['Electric', 'Grass']",,"['Fire', 'Water', 'Ice', 'Steel']",,,
+Mareanie,Poison,Water,"['Ground', 'Psychic']",,"['Grass', 'Fighting', 'Poison', 'Bug', 'Fairy']","['Electric', 'Grass']",,"['Fire', 'Water', 'Ice', 'Steel']"
+Toxapex,Poison,Water,"['Ground', 'Psychic']",,"['Grass', 'Fighting', 'Poison', 'Bug', 'Fairy']","['Electric', 'Grass']",,"['Fire', 'Water', 'Ice', 'Steel']"
+Mudbray,Ground,,"['Water', 'Grass', 'Ice']",['Electric'],"['Poison', 'Rock']",,,
+Mudsdale,Ground,,"['Water', 'Grass', 'Ice']",['Electric'],"['Poison', 'Rock']",,,
+Dewpider,Water,Bug,"['Electric', 'Grass']",,"['Fire', 'Water', 'Ice', 'Steel']","['Fire', 'Flying', 'Rock']",,"['Grass', 'Fighting', 'Ground']"
+Araquanid,Water,Bug,"['Electric', 'Grass']",,"['Fire', 'Water', 'Ice', 'Steel']","['Fire', 'Flying', 'Rock']",,"['Grass', 'Fighting', 'Ground']"
+Fomantis,Grass,,"['Fire', 'Ice', 'Poison', 'Flying', 'Bug']",,"['Water', 'Electric', 'Grass', 'Ground']",,,
+Lurantis,Grass,,"['Fire', 'Ice', 'Poison', 'Flying', 'Bug']",,"['Water', 'Electric', 'Grass', 'Ground']",,,
+Morelull,Grass,Fairy,"['Fire', 'Ice', 'Poison', 'Flying', 'Bug']",,"['Water', 'Electric', 'Grass', 'Ground']","['Poison', 'Steel']",['Dragon'],"['Fighting', 'Bug', 'Dark']"
+Shiinotic,Grass,Fairy,"['Fire', 'Ice', 'Poison', 'Flying', 'Bug']",,"['Water', 'Electric', 'Grass', 'Ground']","['Poison', 'Steel']",['Dragon'],"['Fighting', 'Bug', 'Dark']"
+Salandit,Poison,Fire,"['Ground', 'Psychic']",,"['Grass', 'Fighting', 'Poison', 'Bug', 'Fairy']","['Water', 'Ground', 'Rock']",,"['Fire', 'Grass', 'Ice', 'Bug', 'Steel', 'Fairy']"
+Salazzle,Poison,Fire,"['Ground', 'Psychic']",,"['Grass', 'Fighting', 'Poison', 'Bug', 'Fairy']","['Water', 'Ground', 'Rock']",,"['Fire', 'Grass', 'Ice', 'Bug', 'Steel', 'Fairy']"
+Stufful,Normal,Fighting,['Fighting'],['Ghost'],,"['Flying', 'Psychic', 'Fairy']",,"['Bug', 'Rock', 'Dark']"
+Bewear,Normal,Fighting,['Fighting'],['Ghost'],,"['Flying', 'Psychic', 'Fairy']",,"['Bug', 'Rock', 'Dark']"
+Bounsweet,Grass,,"['Fire', 'Ice', 'Poison', 'Flying', 'Bug']",,"['Water', 'Electric', 'Grass', 'Ground']",,,
+Steenee,Grass,,"['Fire', 'Ice', 'Poison', 'Flying', 'Bug']",,"['Water', 'Electric', 'Grass', 'Ground']",,,
+Tsareena,Grass,,"['Fire', 'Ice', 'Poison', 'Flying', 'Bug']",,"['Water', 'Electric', 'Grass', 'Ground']",,,
+Comfey,Fairy,,"['Poison', 'Steel']",['Dragon'],"['Fighting', 'Bug', 'Dark']",,,
+Oranguru,Normal,Psychic,['Fighting'],['Ghost'],,"['Bug', 'Ghost', 'Dark']",,"['Fighting', 'Psychic']"
+Passimian,Fighting,,"['Flying', 'Psychic', 'Fairy']",,"['Bug', 'Rock', 'Dark']",,,
+Wimpod,Bug,Water,"['Fire', 'Flying', 'Rock']",,"['Grass', 'Fighting', 'Ground']","['Electric', 'Grass']",,"['Fire', 'Water', 'Ice', 'Steel']"
+Golisopod,Bug,Water,"['Fire', 'Flying', 'Rock']",,"['Grass', 'Fighting', 'Ground']","['Electric', 'Grass']",,"['Fire', 'Water', 'Ice', 'Steel']"
+Sandygast,Ghost,Ground,"['Ghost', 'Dark']","['Normal', 'Fighting']","['Poison', 'Bug']","['Water', 'Grass', 'Ice']",['Electric'],"['Poison', 'Rock']"
+Palossand,Ghost,Ground,"['Ghost', 'Dark']","['Normal', 'Fighting']","['Poison', 'Bug']","['Water', 'Grass', 'Ice']",['Electric'],"['Poison', 'Rock']"
+Pyukumuku,Water,,"['Electric', 'Grass']",,"['Fire', 'Water', 'Ice', 'Steel']",,,
+Type:  Null,Normal,,['Fighting'],['Ghost'],,,,
+Silvally,Normal,,['Fighting'],['Ghost'],,,,
+Minior Meteor  Form,Rock,Flying,"['Water', 'Grass', 'Fighting', 'Ground', 'Steel']",,"['Normal', 'Fire', 'Poison', 'Flying']","['Electric', 'Ice', 'Rock']",['Ground'],"['Grass', 'Fighting', 'Bug']"
+Minior Core  Form,Rock,Flying,"['Water', 'Grass', 'Fighting', 'Ground', 'Steel']",,"['Normal', 'Fire', 'Poison', 'Flying']","['Electric', 'Ice', 'Rock']",['Ground'],"['Grass', 'Fighting', 'Bug']"
+Komala,Normal,,['Fighting'],['Ghost'],,,,
+Turtonator,Fire,Dragon,"['Water', 'Ground', 'Rock']",,"['Fire', 'Grass', 'Ice', 'Bug', 'Steel', 'Fairy']","['Ice', 'Dragon', 'Fairy']",,"['Fire', 'Water', 'Electric', 'Grass']"
+Togedemaru,Electric,Steel,['Ground'],,"['Electric', 'Flying', 'Steel']","['Fire', 'Fighting', 'Ground']",['Poison'],"['Normal', 'Grass', 'Ice', 'Flying', 'Psychic', 'Bug', 'Rock', 'Dragon', 'Steel', 'Fairy']"
+Mimikyu,Ghost,Fairy,"['Ghost', 'Dark']","['Normal', 'Fighting']","['Poison', 'Bug']","['Poison', 'Steel']",['Dragon'],"['Fighting', 'Bug', 'Dark']"
+Bruxish,Water,Psychic,"['Electric', 'Grass']",,"['Fire', 'Water', 'Ice', 'Steel']","['Bug', 'Ghost', 'Dark']",,"['Fighting', 'Psychic']"
+Drampa,Normal,Dragon,['Fighting'],['Ghost'],,"['Ice', 'Dragon', 'Fairy']",,"['Fire', 'Water', 'Electric', 'Grass']"
+Dhelmise,Ghost,Grass,"['Ghost', 'Dark']","['Normal', 'Fighting']","['Poison', 'Bug']","['Fire', 'Ice', 'Poison', 'Flying', 'Bug']",,"['Water', 'Electric', 'Grass', 'Ground']"
+Jangmo-o,Dragon,,"['Ice', 'Dragon', 'Fairy']",,"['Fire', 'Water', 'Electric', 'Grass']",,,
+Hakamo-o,Dragon,Fighting,"['Ice', 'Dragon', 'Fairy']",,"['Fire', 'Water', 'Electric', 'Grass']","['Flying', 'Psychic', 'Fairy']",,"['Bug', 'Rock', 'Dark']"
+Kommo-o,Dragon,Fighting,"['Ice', 'Dragon', 'Fairy']",,"['Fire', 'Water', 'Electric', 'Grass']","['Flying', 'Psychic', 'Fairy']",,"['Bug', 'Rock', 'Dark']"
+Tapu  Koko,Electric,Fairy,['Ground'],,"['Electric', 'Flying', 'Steel']","['Poison', 'Steel']",['Dragon'],"['Fighting', 'Bug', 'Dark']"
+Tapu  Lele,Psychic,Fairy,"['Bug', 'Ghost', 'Dark']",,"['Fighting', 'Psychic']","['Poison', 'Steel']",['Dragon'],"['Fighting', 'Bug', 'Dark']"
+Tapu  Bulu,Grass,Fairy,"['Fire', 'Ice', 'Poison', 'Flying', 'Bug']",,"['Water', 'Electric', 'Grass', 'Ground']","['Poison', 'Steel']",['Dragon'],"['Fighting', 'Bug', 'Dark']"
+Tapu  Fini,Water,Fairy,"['Electric', 'Grass']",,"['Fire', 'Water', 'Ice', 'Steel']","['Poison', 'Steel']",['Dragon'],"['Fighting', 'Bug', 'Dark']"
+Cosmog,Psychic,,"['Bug', 'Ghost', 'Dark']",,"['Fighting', 'Psychic']",,,
+Cosmoem,Psychic,,"['Bug', 'Ghost', 'Dark']",,"['Fighting', 'Psychic']",,,
+Solgaleo,Psychic,Steel,"['Bug', 'Ghost', 'Dark']",,"['Fighting', 'Psychic']","['Fire', 'Fighting', 'Ground']",['Poison'],"['Normal', 'Grass', 'Ice', 'Flying', 'Psychic', 'Bug', 'Rock', 'Dragon', 'Steel', 'Fairy']"
+Lunala,Psychic,Ghost,"['Bug', 'Ghost', 'Dark']",,"['Fighting', 'Psychic']","['Ghost', 'Dark']","['Normal', 'Fighting']","['Poison', 'Bug']"
+Nihilego,Rock,Poison,"['Water', 'Grass', 'Fighting', 'Ground', 'Steel']",,"['Normal', 'Fire', 'Poison', 'Flying']","['Ground', 'Psychic']",,"['Grass', 'Fighting', 'Poison', 'Bug', 'Fairy']"
+Buzzwole,Bug,Fighting,"['Fire', 'Flying', 'Rock']",,"['Grass', 'Fighting', 'Ground']","['Flying', 'Psychic', 'Fairy']",,"['Bug', 'Rock', 'Dark']"
+Pheromosa,Bug,Fighting,"['Fire', 'Flying', 'Rock']",,"['Grass', 'Fighting', 'Ground']","['Flying', 'Psychic', 'Fairy']",,"['Bug', 'Rock', 'Dark']"
+Xurkitree,Electric,,['Ground'],,"['Electric', 'Flying', 'Steel']",,,
+Celesteela,Steel,Flying,"['Fire', 'Fighting', 'Ground']",['Poison'],"['Normal', 'Grass', 'Ice', 'Flying', 'Psychic', 'Bug', 'Rock', 'Dragon', 'Steel', 'Fairy']","['Electric', 'Ice', 'Rock']",['Ground'],"['Grass', 'Fighting', 'Bug']"
+Kartana,Grass,Steel,"['Fire', 'Ice', 'Poison', 'Flying', 'Bug']",,"['Water', 'Electric', 'Grass', 'Ground']","['Fire', 'Fighting', 'Ground']",['Poison'],"['Normal', 'Grass', 'Ice', 'Flying', 'Psychic', 'Bug', 'Rock', 'Dragon', 'Steel', 'Fairy']"
+Guzzlord,Dark,Dragon,"['Fighting', 'Bug', 'Fairy']",['Psychic'],"['Ghost', 'Dark']","['Ice', 'Dragon', 'Fairy']",,"['Fire', 'Water', 'Electric', 'Grass']"
+Necrozma,Psychic,,"['Bug', 'Ghost', 'Dark']",,"['Fighting', 'Psychic']",,,
+Necrozma Dusk  Mane  Necrozma,Psychic,Steel,"['Bug', 'Ghost', 'Dark']",,"['Fighting', 'Psychic']","['Fire', 'Fighting', 'Ground']",['Poison'],"['Normal', 'Grass', 'Ice', 'Flying', 'Psychic', 'Bug', 'Rock', 'Dragon', 'Steel', 'Fairy']"
+Necrozma Dawn  Wings  Necrozma,Psychic,Ghost,"['Bug', 'Ghost', 'Dark']",,"['Fighting', 'Psychic']","['Ghost', 'Dark']","['Normal', 'Fighting']","['Poison', 'Bug']"
+Necrozma Ultra  Necrozma,Psychic,Dragon,"['Bug', 'Ghost', 'Dark']",,"['Fighting', 'Psychic']","['Ice', 'Dragon', 'Fairy']",,"['Fire', 'Water', 'Electric', 'Grass']"
+Magearna,Steel,Fairy,"['Fire', 'Fighting', 'Ground']",['Poison'],"['Normal', 'Grass', 'Ice', 'Flying', 'Psychic', 'Bug', 'Rock', 'Dragon', 'Steel', 'Fairy']","['Poison', 'Steel']",['Dragon'],"['Fighting', 'Bug', 'Dark']"
+Marshadow,Fighting,Ghost,"['Flying', 'Psychic', 'Fairy']",,"['Bug', 'Rock', 'Dark']","['Ghost', 'Dark']","['Normal', 'Fighting']","['Poison', 'Bug']"
+Poipole,Poison,,"['Ground', 'Psychic']",,"['Grass', 'Fighting', 'Poison', 'Bug', 'Fairy']",,,
+Naganadel,Poison,Dragon,"['Ground', 'Psychic']",,"['Grass', 'Fighting', 'Poison', 'Bug', 'Fairy']","['Ice', 'Dragon', 'Fairy']",,"['Fire', 'Water', 'Electric', 'Grass']"
+Stakataka,Rock,Steel,"['Water', 'Grass', 'Fighting', 'Ground', 'Steel']",,"['Normal', 'Fire', 'Poison', 'Flying']","['Fire', 'Fighting', 'Ground']",['Poison'],"['Normal', 'Grass', 'Ice', 'Flying', 'Psychic', 'Bug', 'Rock', 'Dragon', 'Steel', 'Fairy']"
+Blacephalon,Fire,Ghost,"['Water', 'Ground', 'Rock']",,"['Fire', 'Grass', 'Ice', 'Bug', 'Steel', 'Fairy']","['Ghost', 'Dark']","['Normal', 'Fighting']","['Poison', 'Bug']"
+Zeraora,Electric,,['Ground'],,"['Electric', 'Flying', 'Steel']",,,
+Meltan,Steel,,"['Fire', 'Fighting', 'Ground']",['Poison'],"['Normal', 'Grass', 'Ice', 'Flying', 'Psychic', 'Bug', 'Rock', 'Dragon', 'Steel', 'Fairy']",,,
+Melmetal,Steel,,"['Fire', 'Fighting', 'Ground']",['Poison'],"['Normal', 'Grass', 'Ice', 'Flying', 'Psychic', 'Bug', 'Rock', 'Dragon', 'Steel', 'Fairy']",,,
+Grookey,Grass,,"['Fire', 'Ice', 'Poison', 'Flying', 'Bug']",,"['Water', 'Electric', 'Grass', 'Ground']",,,
+Thwackey,Grass,,"['Fire', 'Ice', 'Poison', 'Flying', 'Bug']",,"['Water', 'Electric', 'Grass', 'Ground']",,,
+Rillaboom,Grass,,"['Fire', 'Ice', 'Poison', 'Flying', 'Bug']",,"['Water', 'Electric', 'Grass', 'Ground']",,,
+Scorbunny,Fire,,"['Water', 'Ground', 'Rock']",,"['Fire', 'Grass', 'Ice', 'Bug', 'Steel', 'Fairy']",,,
+Raboot,Fire,,"['Water', 'Ground', 'Rock']",,"['Fire', 'Grass', 'Ice', 'Bug', 'Steel', 'Fairy']",,,
+Cinderace,Fire,,"['Water', 'Ground', 'Rock']",,"['Fire', 'Grass', 'Ice', 'Bug', 'Steel', 'Fairy']",,,
+Sobble,Water,,"['Electric', 'Grass']",,"['Fire', 'Water', 'Ice', 'Steel']",,,
+Drizzile,Water,,"['Electric', 'Grass']",,"['Fire', 'Water', 'Ice', 'Steel']",,,
+Inteleon,Water,,"['Electric', 'Grass']",,"['Fire', 'Water', 'Ice', 'Steel']",,,
+Skwovet,Normal,,['Fighting'],['Ghost'],,,,
+Greedent,Normal,,['Fighting'],['Ghost'],,,,
+Rookidee,Flying,,"['Electric', 'Ice', 'Rock']",['Ground'],"['Grass', 'Fighting', 'Bug']",,,
+Corvisquire,Flying,,"['Electric', 'Ice', 'Rock']",['Ground'],"['Grass', 'Fighting', 'Bug']",,,
+Corviknight,Flying,Steel,"['Electric', 'Ice', 'Rock']",['Ground'],"['Grass', 'Fighting', 'Bug']","['Fire', 'Fighting', 'Ground']",['Poison'],"['Normal', 'Grass', 'Ice', 'Flying', 'Psychic', 'Bug', 'Rock', 'Dragon', 'Steel', 'Fairy']"
+Blipbug,Bug,,"['Fire', 'Flying', 'Rock']",,"['Grass', 'Fighting', 'Ground']",,,
+Dottler,Bug,Psychic,"['Fire', 'Flying', 'Rock']",,"['Grass', 'Fighting', 'Ground']","['Bug', 'Ghost', 'Dark']",,"['Fighting', 'Psychic']"
+Orbeetle,Bug,Psychic,"['Fire', 'Flying', 'Rock']",,"['Grass', 'Fighting', 'Ground']","['Bug', 'Ghost', 'Dark']",,"['Fighting', 'Psychic']"
+Nickit,Dark,,"['Fighting', 'Bug', 'Fairy']",['Psychic'],"['Ghost', 'Dark']",,,
+Thievul,Dark,,"['Fighting', 'Bug', 'Fairy']",['Psychic'],"['Ghost', 'Dark']",,,
+Gossifleur,Grass,,"['Fire', 'Ice', 'Poison', 'Flying', 'Bug']",,"['Water', 'Electric', 'Grass', 'Ground']",,,
+Eldegoss,Grass,,"['Fire', 'Ice', 'Poison', 'Flying', 'Bug']",,"['Water', 'Electric', 'Grass', 'Ground']",,,
+Wooloo,Normal,,['Fighting'],['Ghost'],,,,
+Dubwool,Normal,,['Fighting'],['Ghost'],,,,
+Chewtle,Water,,"['Electric', 'Grass']",,"['Fire', 'Water', 'Ice', 'Steel']",,,
+Drednaw,Water,Rock,"['Electric', 'Grass']",,"['Fire', 'Water', 'Ice', 'Steel']","['Water', 'Grass', 'Fighting', 'Ground', 'Steel']",,"['Normal', 'Fire', 'Poison', 'Flying']"
+Yamper,Electric,,['Ground'],,"['Electric', 'Flying', 'Steel']",,,
+Boltund,Electric,,['Ground'],,"['Electric', 'Flying', 'Steel']",,,
+Rolycoly,Rock,,"['Water', 'Grass', 'Fighting', 'Ground', 'Steel']",,"['Normal', 'Fire', 'Poison', 'Flying']",,,
+Carkol,Rock,Fire,"['Water', 'Grass', 'Fighting', 'Ground', 'Steel']",,"['Normal', 'Fire', 'Poison', 'Flying']","['Water', 'Ground', 'Rock']",,"['Fire', 'Grass', 'Ice', 'Bug', 'Steel', 'Fairy']"
+Coalossal,Rock,Fire,"['Water', 'Grass', 'Fighting', 'Ground', 'Steel']",,"['Normal', 'Fire', 'Poison', 'Flying']","['Water', 'Ground', 'Rock']",,"['Fire', 'Grass', 'Ice', 'Bug', 'Steel', 'Fairy']"
+Applin,Grass,Dragon,"['Fire', 'Ice', 'Poison', 'Flying', 'Bug']",,"['Water', 'Electric', 'Grass', 'Ground']","['Ice', 'Dragon', 'Fairy']",,"['Fire', 'Water', 'Electric', 'Grass']"
+Flapple,Grass,Dragon,"['Fire', 'Ice', 'Poison', 'Flying', 'Bug']",,"['Water', 'Electric', 'Grass', 'Ground']","['Ice', 'Dragon', 'Fairy']",,"['Fire', 'Water', 'Electric', 'Grass']"
+Appletun,Grass,Dragon,"['Fire', 'Ice', 'Poison', 'Flying', 'Bug']",,"['Water', 'Electric', 'Grass', 'Ground']","['Ice', 'Dragon', 'Fairy']",,"['Fire', 'Water', 'Electric', 'Grass']"
+Silicobra,Ground,,"['Water', 'Grass', 'Ice']",['Electric'],"['Poison', 'Rock']",,,
+Sandaconda,Ground,,"['Water', 'Grass', 'Ice']",['Electric'],"['Poison', 'Rock']",,,
+Cramorant,Flying,Water,"['Electric', 'Ice', 'Rock']",['Ground'],"['Grass', 'Fighting', 'Bug']","['Electric', 'Grass']",,"['Fire', 'Water', 'Ice', 'Steel']"
+Arrokuda,Water,,"['Electric', 'Grass']",,"['Fire', 'Water', 'Ice', 'Steel']",,,
+Barraskewda,Water,,"['Electric', 'Grass']",,"['Fire', 'Water', 'Ice', 'Steel']",,,
+Toxel,Electric,Poison,['Ground'],,"['Electric', 'Flying', 'Steel']","['Ground', 'Psychic']",,"['Grass', 'Fighting', 'Poison', 'Bug', 'Fairy']"
+Toxtricity Amped  Form,Electric,Poison,['Ground'],,"['Electric', 'Flying', 'Steel']","['Ground', 'Psychic']",,"['Grass', 'Fighting', 'Poison', 'Bug', 'Fairy']"
+Toxtricity Low  Key  Form,Electric,Poison,['Ground'],,"['Electric', 'Flying', 'Steel']","['Ground', 'Psychic']",,"['Grass', 'Fighting', 'Poison', 'Bug', 'Fairy']"
+Sizzlipede,Fire,Bug,"['Water', 'Ground', 'Rock']",,"['Fire', 'Grass', 'Ice', 'Bug', 'Steel', 'Fairy']","['Fire', 'Flying', 'Rock']",,"['Grass', 'Fighting', 'Ground']"
+Centiskorch,Fire,Bug,"['Water', 'Ground', 'Rock']",,"['Fire', 'Grass', 'Ice', 'Bug', 'Steel', 'Fairy']","['Fire', 'Flying', 'Rock']",,"['Grass', 'Fighting', 'Ground']"
+Clobbopus,Fighting,,"['Flying', 'Psychic', 'Fairy']",,"['Bug', 'Rock', 'Dark']",,,
+Grapploct,Fighting,,"['Flying', 'Psychic', 'Fairy']",,"['Bug', 'Rock', 'Dark']",,,
+Sinistea,Ghost,,"['Ghost', 'Dark']","['Normal', 'Fighting']","['Poison', 'Bug']",,,
+Polteageist,Ghost,,"['Ghost', 'Dark']","['Normal', 'Fighting']","['Poison', 'Bug']",,,
+Hatenna,Psychic,,"['Bug', 'Ghost', 'Dark']",,"['Fighting', 'Psychic']",,,
+Hattrem,Psychic,,"['Bug', 'Ghost', 'Dark']",,"['Fighting', 'Psychic']",,,
+Hatterene,Psychic,Fairy,"['Bug', 'Ghost', 'Dark']",,"['Fighting', 'Psychic']","['Poison', 'Steel']",['Dragon'],"['Fighting', 'Bug', 'Dark']"
+Impidimp,Dark,Fairy,"['Fighting', 'Bug', 'Fairy']",['Psychic'],"['Ghost', 'Dark']","['Poison', 'Steel']",['Dragon'],"['Fighting', 'Bug', 'Dark']"
+Morgrem,Dark,Fairy,"['Fighting', 'Bug', 'Fairy']",['Psychic'],"['Ghost', 'Dark']","['Poison', 'Steel']",['Dragon'],"['Fighting', 'Bug', 'Dark']"
+Grimmsnarl,Dark,Fairy,"['Fighting', 'Bug', 'Fairy']",['Psychic'],"['Ghost', 'Dark']","['Poison', 'Steel']",['Dragon'],"['Fighting', 'Bug', 'Dark']"
+Obstagoon,Dark,Normal,"['Fighting', 'Bug', 'Fairy']",['Psychic'],"['Ghost', 'Dark']",['Fighting'],['Ghost'],
+Perrserker,Steel,,"['Fire', 'Fighting', 'Ground']",['Poison'],"['Normal', 'Grass', 'Ice', 'Flying', 'Psychic', 'Bug', 'Rock', 'Dragon', 'Steel', 'Fairy']",,,
+Cursola,Ghost,,"['Ghost', 'Dark']","['Normal', 'Fighting']","['Poison', 'Bug']",,,
+Sirfetch'd,Fighting,,"['Flying', 'Psychic', 'Fairy']",,"['Bug', 'Rock', 'Dark']",,,
+Mr.  Rime,Ice,Psychic,"['Fire', 'Fighting', 'Rock', 'Steel']",,['Ice'],"['Bug', 'Ghost', 'Dark']",,"['Fighting', 'Psychic']"
+Runerigus,Ground,Ghost,"['Water', 'Grass', 'Ice']",['Electric'],"['Poison', 'Rock']","['Ghost', 'Dark']","['Normal', 'Fighting']","['Poison', 'Bug']"
+Milcery,Fairy,,"['Poison', 'Steel']",['Dragon'],"['Fighting', 'Bug', 'Dark']",,,
+Alcremie,Fairy,,"['Poison', 'Steel']",['Dragon'],"['Fighting', 'Bug', 'Dark']",,,
+Falinks,Fighting,,"['Flying', 'Psychic', 'Fairy']",,"['Bug', 'Rock', 'Dark']",,,
+Pincurchin,Electric,,['Ground'],,"['Electric', 'Flying', 'Steel']",,,
+Snom,Ice,Bug,"['Fire', 'Fighting', 'Rock', 'Steel']",,['Ice'],"['Fire', 'Flying', 'Rock']",,"['Grass', 'Fighting', 'Ground']"
+Frosmoth,Ice,Bug,"['Fire', 'Fighting', 'Rock', 'Steel']",,['Ice'],"['Fire', 'Flying', 'Rock']",,"['Grass', 'Fighting', 'Ground']"
+Stonjourner,Rock,,"['Water', 'Grass', 'Fighting', 'Ground', 'Steel']",,"['Normal', 'Fire', 'Poison', 'Flying']",,,
+Eiscue Ice  Face,Ice,,"['Fire', 'Fighting', 'Rock', 'Steel']",,['Ice'],,,
+Eiscue Noice  Face,Ice,,"['Fire', 'Fighting', 'Rock', 'Steel']",,['Ice'],,,
+Indeedee Male,Psychic,Normal,"['Bug', 'Ghost', 'Dark']",,"['Fighting', 'Psychic']",['Fighting'],['Ghost'],
+Indeedee Female,Psychic,Normal,"['Bug', 'Ghost', 'Dark']",,"['Fighting', 'Psychic']",['Fighting'],['Ghost'],
+Morpeko Full  Belly  Mode,Electric,Dark,['Ground'],,"['Electric', 'Flying', 'Steel']","['Fighting', 'Bug', 'Fairy']",['Psychic'],"['Ghost', 'Dark']"
+Morpeko Hangry  Mode,Electric,Dark,['Ground'],,"['Electric', 'Flying', 'Steel']","['Fighting', 'Bug', 'Fairy']",['Psychic'],"['Ghost', 'Dark']"
+Cufant,Steel,,"['Fire', 'Fighting', 'Ground']",['Poison'],"['Normal', 'Grass', 'Ice', 'Flying', 'Psychic', 'Bug', 'Rock', 'Dragon', 'Steel', 'Fairy']",,,
+Copperajah,Steel,,"['Fire', 'Fighting', 'Ground']",['Poison'],"['Normal', 'Grass', 'Ice', 'Flying', 'Psychic', 'Bug', 'Rock', 'Dragon', 'Steel', 'Fairy']",,,
+Dracozolt,Electric,Dragon,['Ground'],,"['Electric', 'Flying', 'Steel']","['Ice', 'Dragon', 'Fairy']",,"['Fire', 'Water', 'Electric', 'Grass']"
+Arctozolt,Electric,Ice,['Ground'],,"['Electric', 'Flying', 'Steel']","['Fire', 'Fighting', 'Rock', 'Steel']",,['Ice']
+Dracovish,Water,Dragon,"['Electric', 'Grass']",,"['Fire', 'Water', 'Ice', 'Steel']","['Ice', 'Dragon', 'Fairy']",,"['Fire', 'Water', 'Electric', 'Grass']"
+Arctovish,Water,Ice,"['Electric', 'Grass']",,"['Fire', 'Water', 'Ice', 'Steel']","['Fire', 'Fighting', 'Rock', 'Steel']",,['Ice']
+Duraludon,Steel,Dragon,"['Fire', 'Fighting', 'Ground']",['Poison'],"['Normal', 'Grass', 'Ice', 'Flying', 'Psychic', 'Bug', 'Rock', 'Dragon', 'Steel', 'Fairy']","['Ice', 'Dragon', 'Fairy']",,"['Fire', 'Water', 'Electric', 'Grass']"
+Dreepy,Dragon,Ghost,"['Ice', 'Dragon', 'Fairy']",,"['Fire', 'Water', 'Electric', 'Grass']","['Ghost', 'Dark']","['Normal', 'Fighting']","['Poison', 'Bug']"
+Drakloak,Dragon,Ghost,"['Ice', 'Dragon', 'Fairy']",,"['Fire', 'Water', 'Electric', 'Grass']","['Ghost', 'Dark']","['Normal', 'Fighting']","['Poison', 'Bug']"
+Dragapult,Dragon,Ghost,"['Ice', 'Dragon', 'Fairy']",,"['Fire', 'Water', 'Electric', 'Grass']","['Ghost', 'Dark']","['Normal', 'Fighting']","['Poison', 'Bug']"
+Zacian Hero of  Many  Battles,Fairy,,"['Poison', 'Steel']",['Dragon'],"['Fighting', 'Bug', 'Dark']",,,
+Zacian Crowned  Sword,Fairy,Steel,"['Poison', 'Steel']",['Dragon'],"['Fighting', 'Bug', 'Dark']","['Fire', 'Fighting', 'Ground']",['Poison'],"['Normal', 'Grass', 'Ice', 'Flying', 'Psychic', 'Bug', 'Rock', 'Dragon', 'Steel', 'Fairy']"
+Zamazenta Hero of  Many  Battles,Fighting,,"['Flying', 'Psychic', 'Fairy']",,"['Bug', 'Rock', 'Dark']",,,
+Zamazenta Crowned  Shield,Fighting,Steel,"['Flying', 'Psychic', 'Fairy']",,"['Bug', 'Rock', 'Dark']","['Fire', 'Fighting', 'Ground']",['Poison'],"['Normal', 'Grass', 'Ice', 'Flying', 'Psychic', 'Bug', 'Rock', 'Dragon', 'Steel', 'Fairy']"
+Eternatus,Poison,Dragon,"['Ground', 'Psychic']",,"['Grass', 'Fighting', 'Poison', 'Bug', 'Fairy']","['Ice', 'Dragon', 'Fairy']",,"['Fire', 'Water', 'Electric', 'Grass']"
+Eternatus Eternamax,Poison,Dragon,"['Ground', 'Psychic']",,"['Grass', 'Fighting', 'Poison', 'Bug', 'Fairy']","['Ice', 'Dragon', 'Fairy']",,"['Fire', 'Water', 'Electric', 'Grass']"
+Kubfu,Fighting,,"['Flying', 'Psychic', 'Fairy']",,"['Bug', 'Rock', 'Dark']",,,
+Urshifu Single  Strike  Style,Fighting,Dark,"['Flying', 'Psychic', 'Fairy']",,"['Bug', 'Rock', 'Dark']","['Fighting', 'Bug', 'Fairy']",['Psychic'],"['Ghost', 'Dark']"
+Urshifu Rapid  Strike  Style,Fighting,Water,"['Flying', 'Psychic', 'Fairy']",,"['Bug', 'Rock', 'Dark']","['Electric', 'Grass']",,"['Fire', 'Water', 'Ice', 'Steel']"
+Zarude,Dark,Grass,"['Fighting', 'Bug', 'Fairy']",['Psychic'],"['Ghost', 'Dark']","['Fire', 'Ice', 'Poison', 'Flying', 'Bug']",,"['Water', 'Electric', 'Grass', 'Ground']"
+Regieleki,Electric,,['Ground'],,"['Electric', 'Flying', 'Steel']",,,
+Regidrago,Dragon,,"['Ice', 'Dragon', 'Fairy']",,"['Fire', 'Water', 'Electric', 'Grass']",,,
+Glastrier,Ice,,"['Fire', 'Fighting', 'Rock', 'Steel']",,['Ice'],,,
+Spectrier,Ghost,,"['Ghost', 'Dark']","['Normal', 'Fighting']","['Poison', 'Bug']",,,
+Calyrex,Psychic,Grass,"['Bug', 'Ghost', 'Dark']",,"['Fighting', 'Psychic']","['Fire', 'Ice', 'Poison', 'Flying', 'Bug']",,"['Water', 'Electric', 'Grass', 'Ground']"
+Calyrex Ice  Rider,Psychic,Ice,"['Bug', 'Ghost', 'Dark']",,"['Fighting', 'Psychic']","['Fire', 'Fighting', 'Rock', 'Steel']",,['Ice']
+Calyrex Shadow  Rider,Psychic,Ghost,"['Bug', 'Ghost', 'Dark']",,"['Fighting', 'Psychic']","['Ghost', 'Dark']","['Normal', 'Fighting']","['Poison', 'Bug']"
+Wyrdeer,Normal,Psychic,['Fighting'],['Ghost'],,"['Bug', 'Ghost', 'Dark']",,"['Fighting', 'Psychic']"
+Kleavor,Bug,Rock,"['Fire', 'Flying', 'Rock']",,"['Grass', 'Fighting', 'Ground']","['Water', 'Grass', 'Fighting', 'Ground', 'Steel']",,"['Normal', 'Fire', 'Poison', 'Flying']"
+Ursaluna,Ground,Normal,"['Water', 'Grass', 'Ice']",['Electric'],"['Poison', 'Rock']",['Fighting'],['Ghost'],
+Ursaluna Bloodmoon,Ground,Normal,"['Water', 'Grass', 'Ice']",['Electric'],"['Poison', 'Rock']",['Fighting'],['Ghost'],
+Basculegion Male,Water,Ghost,"['Electric', 'Grass']",,"['Fire', 'Water', 'Ice', 'Steel']","['Ghost', 'Dark']","['Normal', 'Fighting']","['Poison', 'Bug']"
+Basculegion Female,Water,Ghost,"['Electric', 'Grass']",,"['Fire', 'Water', 'Ice', 'Steel']","['Ghost', 'Dark']","['Normal', 'Fighting']","['Poison', 'Bug']"
+Sneasler,Fighting,Poison,"['Flying', 'Psychic', 'Fairy']",,"['Bug', 'Rock', 'Dark']","['Ground', 'Psychic']",,"['Grass', 'Fighting', 'Poison', 'Bug', 'Fairy']"
+Overqwil,Dark,Poison,"['Fighting', 'Bug', 'Fairy']",['Psychic'],"['Ghost', 'Dark']","['Ground', 'Psychic']",,"['Grass', 'Fighting', 'Poison', 'Bug', 'Fairy']"
+Enamorus Incarnate  Forme,Fairy,Flying,"['Poison', 'Steel']",['Dragon'],"['Fighting', 'Bug', 'Dark']","['Electric', 'Ice', 'Rock']",['Ground'],"['Grass', 'Fighting', 'Bug']"
+Enamorus Therian  Forme,Fairy,Flying,"['Poison', 'Steel']",['Dragon'],"['Fighting', 'Bug', 'Dark']","['Electric', 'Ice', 'Rock']",['Ground'],"['Grass', 'Fighting', 'Bug']"
+Sprigatito,Grass,,"['Fire', 'Ice', 'Poison', 'Flying', 'Bug']",,"['Water', 'Electric', 'Grass', 'Ground']",,,
+Floragato,Grass,,"['Fire', 'Ice', 'Poison', 'Flying', 'Bug']",,"['Water', 'Electric', 'Grass', 'Ground']",,,
+Meowscarada,Grass,Dark,"['Fire', 'Ice', 'Poison', 'Flying', 'Bug']",,"['Water', 'Electric', 'Grass', 'Ground']","['Fighting', 'Bug', 'Fairy']",['Psychic'],"['Ghost', 'Dark']"
+Fuecoco,Fire,,"['Water', 'Ground', 'Rock']",,"['Fire', 'Grass', 'Ice', 'Bug', 'Steel', 'Fairy']",,,
+Crocalor,Fire,,"['Water', 'Ground', 'Rock']",,"['Fire', 'Grass', 'Ice', 'Bug', 'Steel', 'Fairy']",,,
+Skeledirge,Fire,Ghost,"['Water', 'Ground', 'Rock']",,"['Fire', 'Grass', 'Ice', 'Bug', 'Steel', 'Fairy']","['Ghost', 'Dark']","['Normal', 'Fighting']","['Poison', 'Bug']"
+Quaxly,Water,,"['Electric', 'Grass']",,"['Fire', 'Water', 'Ice', 'Steel']",,,
+Quaxwell,Water,,"['Electric', 'Grass']",,"['Fire', 'Water', 'Ice', 'Steel']",,,
+Quaquaval,Water,Fighting,"['Electric', 'Grass']",,"['Fire', 'Water', 'Ice', 'Steel']","['Flying', 'Psychic', 'Fairy']",,"['Bug', 'Rock', 'Dark']"
+Lechonk,Normal,,['Fighting'],['Ghost'],,,,
+Oinkologne Male,Normal,,['Fighting'],['Ghost'],,,,
+Oinkologne Female,Normal,,['Fighting'],['Ghost'],,,,
+Tarountula,Bug,,"['Fire', 'Flying', 'Rock']",,"['Grass', 'Fighting', 'Ground']",,,
+Spidops,Bug,,"['Fire', 'Flying', 'Rock']",,"['Grass', 'Fighting', 'Ground']",,,
+Nymble,Bug,,"['Fire', 'Flying', 'Rock']",,"['Grass', 'Fighting', 'Ground']",,,
+Lokix,Bug,Dark,"['Fire', 'Flying', 'Rock']",,"['Grass', 'Fighting', 'Ground']","['Fighting', 'Bug', 'Fairy']",['Psychic'],"['Ghost', 'Dark']"
+Pawmi,Electric,,['Ground'],,"['Electric', 'Flying', 'Steel']",,,
+Pawmo,Electric,Fighting,['Ground'],,"['Electric', 'Flying', 'Steel']","['Flying', 'Psychic', 'Fairy']",,"['Bug', 'Rock', 'Dark']"
+Pawmot,Electric,Fighting,['Ground'],,"['Electric', 'Flying', 'Steel']","['Flying', 'Psychic', 'Fairy']",,"['Bug', 'Rock', 'Dark']"
+Tandemaus,Normal,,['Fighting'],['Ghost'],,,,
+Maushold Family of  Four,Normal,,['Fighting'],['Ghost'],,,,
+Maushold Family of  Three,Normal,,['Fighting'],['Ghost'],,,,
+Fidough,Fairy,,"['Poison', 'Steel']",['Dragon'],"['Fighting', 'Bug', 'Dark']",,,
+Dachsbun,Fairy,,"['Poison', 'Steel']",['Dragon'],"['Fighting', 'Bug', 'Dark']",,,
+Smoliv,Grass,Normal,"['Fire', 'Ice', 'Poison', 'Flying', 'Bug']",,"['Water', 'Electric', 'Grass', 'Ground']",['Fighting'],['Ghost'],
+Dolliv,Grass,Normal,"['Fire', 'Ice', 'Poison', 'Flying', 'Bug']",,"['Water', 'Electric', 'Grass', 'Ground']",['Fighting'],['Ghost'],
+Arboliva,Grass,Normal,"['Fire', 'Ice', 'Poison', 'Flying', 'Bug']",,"['Water', 'Electric', 'Grass', 'Ground']",['Fighting'],['Ghost'],
+Squawkabilly Green  Plumage,Normal,Flying,['Fighting'],['Ghost'],,"['Electric', 'Ice', 'Rock']",['Ground'],"['Grass', 'Fighting', 'Bug']"
+Squawkabilly Blue  Plumage,Normal,Flying,['Fighting'],['Ghost'],,"['Electric', 'Ice', 'Rock']",['Ground'],"['Grass', 'Fighting', 'Bug']"
+Squawkabilly Yellow  Plumage,Normal,Flying,['Fighting'],['Ghost'],,"['Electric', 'Ice', 'Rock']",['Ground'],"['Grass', 'Fighting', 'Bug']"
+Squawkabilly White  Plumage,Normal,Flying,['Fighting'],['Ghost'],,"['Electric', 'Ice', 'Rock']",['Ground'],"['Grass', 'Fighting', 'Bug']"
+Nacli,Rock,,"['Water', 'Grass', 'Fighting', 'Ground', 'Steel']",,"['Normal', 'Fire', 'Poison', 'Flying']",,,
+Naclstack,Rock,,"['Water', 'Grass', 'Fighting', 'Ground', 'Steel']",,"['Normal', 'Fire', 'Poison', 'Flying']",,,
+Garganacl,Rock,,"['Water', 'Grass', 'Fighting', 'Ground', 'Steel']",,"['Normal', 'Fire', 'Poison', 'Flying']",,,
+Charcadet,Fire,,"['Water', 'Ground', 'Rock']",,"['Fire', 'Grass', 'Ice', 'Bug', 'Steel', 'Fairy']",,,
+Armarouge,Fire,Psychic,"['Water', 'Ground', 'Rock']",,"['Fire', 'Grass', 'Ice', 'Bug', 'Steel', 'Fairy']","['Bug', 'Ghost', 'Dark']",,"['Fighting', 'Psychic']"
+Ceruledge,Fire,Ghost,"['Water', 'Ground', 'Rock']",,"['Fire', 'Grass', 'Ice', 'Bug', 'Steel', 'Fairy']","['Ghost', 'Dark']","['Normal', 'Fighting']","['Poison', 'Bug']"
+Tadbulb,Electric,,['Ground'],,"['Electric', 'Flying', 'Steel']",,,
+Bellibolt,Electric,,['Ground'],,"['Electric', 'Flying', 'Steel']",,,
+Wattrel,Electric,Flying,['Ground'],,"['Electric', 'Flying', 'Steel']","['Electric', 'Ice', 'Rock']",['Ground'],"['Grass', 'Fighting', 'Bug']"
+Kilowattrel,Electric,Flying,['Ground'],,"['Electric', 'Flying', 'Steel']","['Electric', 'Ice', 'Rock']",['Ground'],"['Grass', 'Fighting', 'Bug']"
+Maschiff,Dark,,"['Fighting', 'Bug', 'Fairy']",['Psychic'],"['Ghost', 'Dark']",,,
+Mabosstiff,Dark,,"['Fighting', 'Bug', 'Fairy']",['Psychic'],"['Ghost', 'Dark']",,,
+Shroodle,Poison,Normal,"['Ground', 'Psychic']",,"['Grass', 'Fighting', 'Poison', 'Bug', 'Fairy']",['Fighting'],['Ghost'],
+Grafaiai,Poison,Normal,"['Ground', 'Psychic']",,"['Grass', 'Fighting', 'Poison', 'Bug', 'Fairy']",['Fighting'],['Ghost'],
+Bramblin,Grass,Ghost,"['Fire', 'Ice', 'Poison', 'Flying', 'Bug']",,"['Water', 'Electric', 'Grass', 'Ground']","['Ghost', 'Dark']","['Normal', 'Fighting']","['Poison', 'Bug']"
+Brambleghast,Grass,Ghost,"['Fire', 'Ice', 'Poison', 'Flying', 'Bug']",,"['Water', 'Electric', 'Grass', 'Ground']","['Ghost', 'Dark']","['Normal', 'Fighting']","['Poison', 'Bug']"
+Toedscool,Ground,Grass,"['Water', 'Grass', 'Ice']",['Electric'],"['Poison', 'Rock']","['Fire', 'Ice', 'Poison', 'Flying', 'Bug']",,"['Water', 'Electric', 'Grass', 'Ground']"
+Toedscruel,Ground,Grass,"['Water', 'Grass', 'Ice']",['Electric'],"['Poison', 'Rock']","['Fire', 'Ice', 'Poison', 'Flying', 'Bug']",,"['Water', 'Electric', 'Grass', 'Ground']"
+Klawf,Rock,,"['Water', 'Grass', 'Fighting', 'Ground', 'Steel']",,"['Normal', 'Fire', 'Poison', 'Flying']",,,
+Capsakid,Grass,,"['Fire', 'Ice', 'Poison', 'Flying', 'Bug']",,"['Water', 'Electric', 'Grass', 'Ground']",,,
+Scovillain,Grass,Fire,"['Fire', 'Ice', 'Poison', 'Flying', 'Bug']",,"['Water', 'Electric', 'Grass', 'Ground']","['Water', 'Ground', 'Rock']",,"['Fire', 'Grass', 'Ice', 'Bug', 'Steel', 'Fairy']"
+Rellor,Bug,,"['Fire', 'Flying', 'Rock']",,"['Grass', 'Fighting', 'Ground']",,,
+Rabsca,Bug,Psychic,"['Fire', 'Flying', 'Rock']",,"['Grass', 'Fighting', 'Ground']","['Bug', 'Ghost', 'Dark']",,"['Fighting', 'Psychic']"
+Flittle,Psychic,,"['Bug', 'Ghost', 'Dark']",,"['Fighting', 'Psychic']",,,
+Espathra,Psychic,,"['Bug', 'Ghost', 'Dark']",,"['Fighting', 'Psychic']",,,
+Tinkatink,Fairy,Steel,"['Poison', 'Steel']",['Dragon'],"['Fighting', 'Bug', 'Dark']","['Fire', 'Fighting', 'Ground']",['Poison'],"['Normal', 'Grass', 'Ice', 'Flying', 'Psychic', 'Bug', 'Rock', 'Dragon', 'Steel', 'Fairy']"
+Tinkatuff,Fairy,Steel,"['Poison', 'Steel']",['Dragon'],"['Fighting', 'Bug', 'Dark']","['Fire', 'Fighting', 'Ground']",['Poison'],"['Normal', 'Grass', 'Ice', 'Flying', 'Psychic', 'Bug', 'Rock', 'Dragon', 'Steel', 'Fairy']"
+Tinkaton,Fairy,Steel,"['Poison', 'Steel']",['Dragon'],"['Fighting', 'Bug', 'Dark']","['Fire', 'Fighting', 'Ground']",['Poison'],"['Normal', 'Grass', 'Ice', 'Flying', 'Psychic', 'Bug', 'Rock', 'Dragon', 'Steel', 'Fairy']"
+Wiglett,Water,,"['Electric', 'Grass']",,"['Fire', 'Water', 'Ice', 'Steel']",,,
+Wugtrio,Water,,"['Electric', 'Grass']",,"['Fire', 'Water', 'Ice', 'Steel']",,,
+Bombirdier,Flying,Dark,"['Electric', 'Ice', 'Rock']",['Ground'],"['Grass', 'Fighting', 'Bug']","['Fighting', 'Bug', 'Fairy']",['Psychic'],"['Ghost', 'Dark']"
+Finizen,Water,,"['Electric', 'Grass']",,"['Fire', 'Water', 'Ice', 'Steel']",,,
+Palafin Zero  Form,Water,,"['Electric', 'Grass']",,"['Fire', 'Water', 'Ice', 'Steel']",,,
+Palafin Hero  Form,Water,,"['Electric', 'Grass']",,"['Fire', 'Water', 'Ice', 'Steel']",,,
+Varoom,Steel,Poison,"['Fire', 'Fighting', 'Ground']",['Poison'],"['Normal', 'Grass', 'Ice', 'Flying', 'Psychic', 'Bug', 'Rock', 'Dragon', 'Steel', 'Fairy']","['Ground', 'Psychic']",,"['Grass', 'Fighting', 'Poison', 'Bug', 'Fairy']"
+Revavroom,Steel,Poison,"['Fire', 'Fighting', 'Ground']",['Poison'],"['Normal', 'Grass', 'Ice', 'Flying', 'Psychic', 'Bug', 'Rock', 'Dragon', 'Steel', 'Fairy']","['Ground', 'Psychic']",,"['Grass', 'Fighting', 'Poison', 'Bug', 'Fairy']"
+Cyclizar,Dragon,Normal,"['Ice', 'Dragon', 'Fairy']",,"['Fire', 'Water', 'Electric', 'Grass']",['Fighting'],['Ghost'],
+Orthworm,Steel,,"['Fire', 'Fighting', 'Ground']",['Poison'],"['Normal', 'Grass', 'Ice', 'Flying', 'Psychic', 'Bug', 'Rock', 'Dragon', 'Steel', 'Fairy']",,,
+Glimmet,Rock,Poison,"['Water', 'Grass', 'Fighting', 'Ground', 'Steel']",,"['Normal', 'Fire', 'Poison', 'Flying']","['Ground', 'Psychic']",,"['Grass', 'Fighting', 'Poison', 'Bug', 'Fairy']"
+Glimmora,Rock,Poison,"['Water', 'Grass', 'Fighting', 'Ground', 'Steel']",,"['Normal', 'Fire', 'Poison', 'Flying']","['Ground', 'Psychic']",,"['Grass', 'Fighting', 'Poison', 'Bug', 'Fairy']"
+Greavard,Ghost,,"['Ghost', 'Dark']","['Normal', 'Fighting']","['Poison', 'Bug']",,,
+Houndstone,Ghost,,"['Ghost', 'Dark']","['Normal', 'Fighting']","['Poison', 'Bug']",,,
+Flamigo,Flying,Fighting,"['Electric', 'Ice', 'Rock']",['Ground'],"['Grass', 'Fighting', 'Bug']","['Flying', 'Psychic', 'Fairy']",,"['Bug', 'Rock', 'Dark']"
+Cetoddle,Ice,,"['Fire', 'Fighting', 'Rock', 'Steel']",,['Ice'],,,
+Cetitan,Ice,,"['Fire', 'Fighting', 'Rock', 'Steel']",,['Ice'],,,
+Veluza,Water,Psychic,"['Electric', 'Grass']",,"['Fire', 'Water', 'Ice', 'Steel']","['Bug', 'Ghost', 'Dark']",,"['Fighting', 'Psychic']"
+Dondozo,Water,,"['Electric', 'Grass']",,"['Fire', 'Water', 'Ice', 'Steel']",,,
+Tatsugiri Curly  Form,Dragon,Water,"['Ice', 'Dragon', 'Fairy']",,"['Fire', 'Water', 'Electric', 'Grass']","['Electric', 'Grass']",,"['Fire', 'Water', 'Ice', 'Steel']"
+Tatsugiri Droopy  Form,Dragon,Water,"['Ice', 'Dragon', 'Fairy']",,"['Fire', 'Water', 'Electric', 'Grass']","['Electric', 'Grass']",,"['Fire', 'Water', 'Ice', 'Steel']"
+Tatsugiri Stretchy  Form,Dragon,Water,"['Ice', 'Dragon', 'Fairy']",,"['Fire', 'Water', 'Electric', 'Grass']","['Electric', 'Grass']",,"['Fire', 'Water', 'Ice', 'Steel']"
+Annihilape,Fighting,Ghost,"['Flying', 'Psychic', 'Fairy']",,"['Bug', 'Rock', 'Dark']","['Ghost', 'Dark']","['Normal', 'Fighting']","['Poison', 'Bug']"
+Clodsire,Poison,Ground,"['Ground', 'Psychic']",,"['Grass', 'Fighting', 'Poison', 'Bug', 'Fairy']","['Water', 'Grass', 'Ice']",['Electric'],"['Poison', 'Rock']"
+Farigiraf,Normal,Psychic,['Fighting'],['Ghost'],,"['Bug', 'Ghost', 'Dark']",,"['Fighting', 'Psychic']"
+Dudunsparce Two- Segment  Form,Normal,,['Fighting'],['Ghost'],,,,
+Dudunsparce Three- Segment  Form,Normal,,['Fighting'],['Ghost'],,,,
+Kingambit,Dark,Steel,"['Fighting', 'Bug', 'Fairy']",['Psychic'],"['Ghost', 'Dark']","['Fire', 'Fighting', 'Ground']",['Poison'],"['Normal', 'Grass', 'Ice', 'Flying', 'Psychic', 'Bug', 'Rock', 'Dragon', 'Steel', 'Fairy']"
+Great  Tusk,Ground,Fighting,"['Water', 'Grass', 'Ice']",['Electric'],"['Poison', 'Rock']","['Flying', 'Psychic', 'Fairy']",,"['Bug', 'Rock', 'Dark']"
+Scream  Tail,Fairy,Psychic,"['Poison', 'Steel']",['Dragon'],"['Fighting', 'Bug', 'Dark']","['Bug', 'Ghost', 'Dark']",,"['Fighting', 'Psychic']"
+Brute  Bonnet,Grass,Dark,"['Fire', 'Ice', 'Poison', 'Flying', 'Bug']",,"['Water', 'Electric', 'Grass', 'Ground']","['Fighting', 'Bug', 'Fairy']",['Psychic'],"['Ghost', 'Dark']"
+Flutter  Mane,Ghost,Fairy,"['Ghost', 'Dark']","['Normal', 'Fighting']","['Poison', 'Bug']","['Poison', 'Steel']",['Dragon'],"['Fighting', 'Bug', 'Dark']"
+Slither  Wing,Bug,Fighting,"['Fire', 'Flying', 'Rock']",,"['Grass', 'Fighting', 'Ground']","['Flying', 'Psychic', 'Fairy']",,"['Bug', 'Rock', 'Dark']"
+Sandy  Shocks,Electric,Ground,['Ground'],,"['Electric', 'Flying', 'Steel']","['Water', 'Grass', 'Ice']",['Electric'],"['Poison', 'Rock']"
+Iron  Treads,Ground,Steel,"['Water', 'Grass', 'Ice']",['Electric'],"['Poison', 'Rock']","['Fire', 'Fighting', 'Ground']",['Poison'],"['Normal', 'Grass', 'Ice', 'Flying', 'Psychic', 'Bug', 'Rock', 'Dragon', 'Steel', 'Fairy']"
+Iron  Bundle,Ice,Water,"['Fire', 'Fighting', 'Rock', 'Steel']",,['Ice'],"['Electric', 'Grass']",,"['Fire', 'Water', 'Ice', 'Steel']"
+Iron  Hands,Fighting,Electric,"['Flying', 'Psychic', 'Fairy']",,"['Bug', 'Rock', 'Dark']",['Ground'],,"['Electric', 'Flying', 'Steel']"
+Iron  Jugulis,Dark,Flying,"['Fighting', 'Bug', 'Fairy']",['Psychic'],"['Ghost', 'Dark']","['Electric', 'Ice', 'Rock']",['Ground'],"['Grass', 'Fighting', 'Bug']"
+Iron  Moth,Fire,Poison,"['Water', 'Ground', 'Rock']",,"['Fire', 'Grass', 'Ice', 'Bug', 'Steel', 'Fairy']","['Ground', 'Psychic']",,"['Grass', 'Fighting', 'Poison', 'Bug', 'Fairy']"
+Iron  Thorns,Rock,Electric,"['Water', 'Grass', 'Fighting', 'Ground', 'Steel']",,"['Normal', 'Fire', 'Poison', 'Flying']",['Ground'],,"['Electric', 'Flying', 'Steel']"
+Frigibax,Dragon,Ice,"['Ice', 'Dragon', 'Fairy']",,"['Fire', 'Water', 'Electric', 'Grass']","['Fire', 'Fighting', 'Rock', 'Steel']",,['Ice']
+Arctibax,Dragon,Ice,"['Ice', 'Dragon', 'Fairy']",,"['Fire', 'Water', 'Electric', 'Grass']","['Fire', 'Fighting', 'Rock', 'Steel']",,['Ice']
+Baxcalibur,Dragon,Ice,"['Ice', 'Dragon', 'Fairy']",,"['Fire', 'Water', 'Electric', 'Grass']","['Fire', 'Fighting', 'Rock', 'Steel']",,['Ice']
+Gimmighoul Chest  Form,Ghost,,"['Ghost', 'Dark']","['Normal', 'Fighting']","['Poison', 'Bug']",,,
+Gimmighoul Roaming  Form,Ghost,,"['Ghost', 'Dark']","['Normal', 'Fighting']","['Poison', 'Bug']",,,
+Gholdengo,Steel,Ghost,"['Fire', 'Fighting', 'Ground']",['Poison'],"['Normal', 'Grass', 'Ice', 'Flying', 'Psychic', 'Bug', 'Rock', 'Dragon', 'Steel', 'Fairy']","['Ghost', 'Dark']","['Normal', 'Fighting']","['Poison', 'Bug']"
+Wo- Chien,Dark,Grass,"['Fighting', 'Bug', 'Fairy']",['Psychic'],"['Ghost', 'Dark']","['Fire', 'Ice', 'Poison', 'Flying', 'Bug']",,"['Water', 'Electric', 'Grass', 'Ground']"
+Chien- Pao,Dark,Ice,"['Fighting', 'Bug', 'Fairy']",['Psychic'],"['Ghost', 'Dark']","['Fire', 'Fighting', 'Rock', 'Steel']",,['Ice']
+Ting- Lu,Dark,Ground,"['Fighting', 'Bug', 'Fairy']",['Psychic'],"['Ghost', 'Dark']","['Water', 'Grass', 'Ice']",['Electric'],"['Poison', 'Rock']"
+Chi- Yu,Dark,Fire,"['Fighting', 'Bug', 'Fairy']",['Psychic'],"['Ghost', 'Dark']","['Water', 'Ground', 'Rock']",,"['Fire', 'Grass', 'Ice', 'Bug', 'Steel', 'Fairy']"
+Roaring  Moon,Dragon,Dark,"['Ice', 'Dragon', 'Fairy']",,"['Fire', 'Water', 'Electric', 'Grass']","['Fighting', 'Bug', 'Fairy']",['Psychic'],"['Ghost', 'Dark']"
+Iron  Valiant,Fairy,Fighting,"['Poison', 'Steel']",['Dragon'],"['Fighting', 'Bug', 'Dark']","['Flying', 'Psychic', 'Fairy']",,"['Bug', 'Rock', 'Dark']"
+Koraidon,Fighting,Dragon,"['Flying', 'Psychic', 'Fairy']",,"['Bug', 'Rock', 'Dark']","['Ice', 'Dragon', 'Fairy']",,"['Fire', 'Water', 'Electric', 'Grass']"
+Miraidon,Electric,Dragon,['Ground'],,"['Electric', 'Flying', 'Steel']","['Ice', 'Dragon', 'Fairy']",,"['Fire', 'Water', 'Electric', 'Grass']"
+Walking  Wake,Water,Dragon,"['Electric', 'Grass']",,"['Fire', 'Water', 'Ice', 'Steel']","['Ice', 'Dragon', 'Fairy']",,"['Fire', 'Water', 'Electric', 'Grass']"
+Iron  Leaves,Grass,Psychic,"['Fire', 'Ice', 'Poison', 'Flying', 'Bug']",,"['Water', 'Electric', 'Grass', 'Ground']","['Bug', 'Ghost', 'Dark']",,"['Fighting', 'Psychic']"
+Dipplin,Grass,Dragon,"['Fire', 'Ice', 'Poison', 'Flying', 'Bug']",,"['Water', 'Electric', 'Grass', 'Ground']","['Ice', 'Dragon', 'Fairy']",,"['Fire', 'Water', 'Electric', 'Grass']"
+Poltchageist,Grass,Ghost,"['Fire', 'Ice', 'Poison', 'Flying', 'Bug']",,"['Water', 'Electric', 'Grass', 'Ground']","['Ghost', 'Dark']","['Normal', 'Fighting']","['Poison', 'Bug']"
+Sinistcha,Grass,Ghost,"['Fire', 'Ice', 'Poison', 'Flying', 'Bug']",,"['Water', 'Electric', 'Grass', 'Ground']","['Ghost', 'Dark']","['Normal', 'Fighting']","['Poison', 'Bug']"
+Okidogi,Poison,Fighting,"['Ground', 'Psychic']",,"['Grass', 'Fighting', 'Poison', 'Bug', 'Fairy']","['Flying', 'Psychic', 'Fairy']",,"['Bug', 'Rock', 'Dark']"
+Munkidori,Poison,Psychic,"['Ground', 'Psychic']",,"['Grass', 'Fighting', 'Poison', 'Bug', 'Fairy']","['Bug', 'Ghost', 'Dark']",,"['Fighting', 'Psychic']"
+Fezandipiti,Poison,Fairy,"['Ground', 'Psychic']",,"['Grass', 'Fighting', 'Poison', 'Bug', 'Fairy']","['Poison', 'Steel']",['Dragon'],"['Fighting', 'Bug', 'Dark']"
+Ogerpon Teal  Mask,Grass,,"['Fire', 'Ice', 'Poison', 'Flying', 'Bug']",,"['Water', 'Electric', 'Grass', 'Ground']",,,
+Ogerpon Wellspring  Mask,Grass,Water,"['Fire', 'Ice', 'Poison', 'Flying', 'Bug']",,"['Water', 'Electric', 'Grass', 'Ground']","['Electric', 'Grass']",,"['Fire', 'Water', 'Ice', 'Steel']"
+Ogerpon Hearthflame  Mask,Grass,Fire,"['Fire', 'Ice', 'Poison', 'Flying', 'Bug']",,"['Water', 'Electric', 'Grass', 'Ground']","['Water', 'Ground', 'Rock']",,"['Fire', 'Grass', 'Ice', 'Bug', 'Steel', 'Fairy']"
+Ogerpon Cornerstone  Mask,Grass,Rock,"['Fire', 'Ice', 'Poison', 'Flying', 'Bug']",,"['Water', 'Electric', 'Grass', 'Ground']","['Water', 'Grass', 'Fighting', 'Ground', 'Steel']",,"['Normal', 'Fire', 'Poison', 'Flying']"
+Archaludon,Steel,Dragon,"['Fire', 'Fighting', 'Ground']",['Poison'],"['Normal', 'Grass', 'Ice', 'Flying', 'Psychic', 'Bug', 'Rock', 'Dragon', 'Steel', 'Fairy']","['Ice', 'Dragon', 'Fairy']",,"['Fire', 'Water', 'Electric', 'Grass']"
+Hydrapple,Grass,Dragon,"['Fire', 'Ice', 'Poison', 'Flying', 'Bug']",,"['Water', 'Electric', 'Grass', 'Ground']","['Ice', 'Dragon', 'Fairy']",,"['Fire', 'Water', 'Electric', 'Grass']"
+Gouging  Fire,Fire,Dragon,"['Water', 'Ground', 'Rock']",,"['Fire', 'Grass', 'Ice', 'Bug', 'Steel', 'Fairy']","['Ice', 'Dragon', 'Fairy']",,"['Fire', 'Water', 'Electric', 'Grass']"
+Raging  Bolt,Electric,Dragon,['Ground'],,"['Electric', 'Flying', 'Steel']","['Ice', 'Dragon', 'Fairy']",,"['Fire', 'Water', 'Electric', 'Grass']"
+Iron  Boulder,Rock,Psychic,"['Water', 'Grass', 'Fighting', 'Ground', 'Steel']",,"['Normal', 'Fire', 'Poison', 'Flying']","['Bug', 'Ghost', 'Dark']",,"['Fighting', 'Psychic']"
+Iron  Crown,Steel,Psychic,"['Fire', 'Fighting', 'Ground']",['Poison'],"['Normal', 'Grass', 'Ice', 'Flying', 'Psychic', 'Bug', 'Rock', 'Dragon', 'Steel', 'Fairy']","['Bug', 'Ghost', 'Dark']",,"['Fighting', 'Psychic']"
+Terapagos Normal  Form,Normal,,['Fighting'],['Ghost'],,,,
+Terapagos Terastal  Form,Normal,,['Fighting'],['Ghost'],,,,
+Terapagos Stellar  Form,Normal,,['Fighting'],['Ghost'],,,,
+Pecharunt,Poison,Ghost,"['Ground', 'Psychic']",,"['Grass', 'Fighting', 'Poison', 'Bug', 'Fairy']","['Ghost', 'Dark']","['Normal', 'Fighting']","['Poison', 'Bug']"
